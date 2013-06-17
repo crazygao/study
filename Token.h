@@ -1,5 +1,3 @@
-#include <iostream>
-
 class Token {
 public:
     const int tag;
