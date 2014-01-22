@@ -74,9 +74,9 @@ FIND_MAXIMUM_SUBARRAY(int* A, int low, int high)
 #endif
     RetValue crossRet = FIND_MAX_CROSSING_SUBARRAY(A, low, mid, high); //6
 #ifdef DEBUG
-    printRet(leftRet);
-    printRet(rightRet);
-    printRet(crossRet);
+    printf("leftRet ");printRet(leftRet);
+    printf("rightRet ");printRet(rightRet);
+    printf("crossRet ");printRet(crossRet);
 #endif
     if (leftRet.sum >= rightRet.sum && leftRet.sum >= crossRet.sum){ // 7
 #ifdef DEBUG
