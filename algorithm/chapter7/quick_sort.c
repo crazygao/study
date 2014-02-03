@@ -21,21 +21,29 @@ printIt(int* A, int size)
 
 #define EXCHANGE(x, y) ((x) = (x) + (y), (y) = (x) - (y), (x) = (x) - (y))
 
+/// 7.1-2, if all elements are the same, it will be extremely inefficient!
+// isEqual is a value to try it.
 int
 PARTITION(int* A, int p, int r)
 {
   int x = A[r]; // last index
   int i = p-1; // one index prior to the first index
+  int isEqual = 1; // true, all values are true.
   int j;
   for(j = p; j <= r-1; j++)
-    if (A[j] <= x) {
+    if (A[j] < x) {
+      isEqual = 0;
       i = i+1;
       if (i != j)
 	EXCHANGE(A[i], A[j]);  // move smaller values to right position
+    } else if (A[j] > x) {
+      isEqual = 0;
     }
-  if (i+1 != r)
+  if (isEqual == 0 && i+1 != r) {
     EXCHANGE(A[i+1], A[r]);// move r to right position
-  return i+1;
+    return i + 1;
+  }
+  return (p + r)/2;
 }
 
 void
