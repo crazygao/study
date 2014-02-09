@@ -1,14 +1,14 @@
 #include "Stack.h"
-#include <cstdlib>
 #include <cstring>
 
+///Problem: I need placement new to implement stack.
 using namespace std;
 template <class T>
 Stack<T>::Stack(int capacity)
   :_capacity(capacity),
    top(0)
 {
-  _array = new T[_capacity];
+  _array = new T[_capacity]; // Attention, this initialization, use something not an instant value;
 }
 
 template <class T>
@@ -16,7 +16,7 @@ Stack<T>::Stack(int length, T* array)
   :_capacity(length),
    top(length - 1)
 {
-  _array = (T*)malloc(sizeof(T)*length);
+  _array = new T[_capacity];
   memcpy(_array, array, length*sizeof(T));
 }
 
@@ -38,7 +38,10 @@ template <class T>
 int Stack<T>::push(const T& x)
 {
   if (top + 1 >= _capacity) {
-    _array = (T*)realloc((void*)_array, (_capacity + uplength)*sizeof(T));
+    T* _newarray = new T[_capacity + uplength];
+    memcpy(_newarray, _array, (_capacity + uplength)*sizeof(T));
+    delete [] _array;
+    _array = _newarray;
     _capacity = _capacity + uplength;
   }
   top++;
@@ -72,9 +75,9 @@ Stack<T>& Stack<T>::operator= (const Stack<T>& st)
 
   delete [] _array;
 
-  _capacity = st._capacity;
+  _capacity = st._capacity; // could be used directly, ignoring they are private members, one is itselves friend.
   top = st.top;
-  _array = (T*)malloc(sizeof(T)*_capacity);
+  _array = new T[_capacity];
   memcpy(_array, st._array, _capacity*sizeof(T));
   return *this;
 }
