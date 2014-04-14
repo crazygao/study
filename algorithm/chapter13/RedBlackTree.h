@@ -6,14 +6,15 @@
 //5 For Each Node, all simple paths from the node to descendant leaves contain the same number of black nodes
 #ifndef REDBLACKTREE
 #define REDBLACKTREE
-typedef struct Node {
+class Node {
+  public:
   enum color {
     red,
     black
   } color;
   int key;
-  struct Node *left, *right, *p;
-} Node;
+  Node *left, *right, *p;
+};
 
 class RedBlackTree
 {
