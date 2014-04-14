@@ -1,0 +1,7 @@
+Referenced from PerlIntro
+
+Perl is a General-Purpose programming language originallly develeoped for text manipulation.
+
+OOPerl: perlootut perlobj
+Modules: CPAN perlmodinstall  perldoc Module::Name
+	perlfaq perlmod perlmodlib perlnewmod
