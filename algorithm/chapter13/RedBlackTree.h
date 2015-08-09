@@ -4,8 +4,8 @@
 //3 Every Leaf Nil is black
 //4 If a node is red, then both it's children are black
 //5 For Each Node, all simple paths from the node to descendant leaves contain the same number of black nodes
-#ifndef REDBLACKTREE
-#define REDBLACKTREE
+#ifndef REDBLACKTREE_H
+#define REDBLACKTREE_H
 class Node {
   public:
   enum color {
@@ -31,4 +31,4 @@ public:
   void RB_DELETE_FIXUP(Node* x);
   Node* TREE_MINIMUM(Node* root);
 };
-#endif
+#endif // REDBLACKTREE_H
