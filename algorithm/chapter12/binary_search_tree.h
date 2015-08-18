@@ -1,4 +1,5 @@
-
+#ifndef _BSTNODE
+#define _BSTNODE
 typedef struct BSTNode// Binary Search Tree Node
 {
   struct BSTNode* parent;
@@ -8,7 +9,7 @@ typedef struct BSTNode// Binary Search Tree Node
 } BSTNode;
 
 BSTNode* BuildTestTree();
-void TreeInsert(BSTNode* node, int key);
+BSTNode* TreeInsert(BSTNode* root, int key, void* memory);
 BSTNode* TREE_SEARCH(BSTNode* root, int key);
 BSTNode* INTERACTIVE_TREE_SEARCH(BSTNode* root, int key);
 BSTNode* TREE_MINIMUM(BSTNode* root);
@@ -24,3 +25,4 @@ void TREE_DELETE(BSTNode* T,BSTNode* z);
 
 void INORDER_TREE_WALK(BSTNode* root, void (*func)(BSTNode* node));
 void printNode(BSTNode* node);
+#endif

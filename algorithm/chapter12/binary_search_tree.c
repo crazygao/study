@@ -44,11 +44,16 @@ INORDER_TREE_WALK(BSTNode* root, void (*func)(BSTNode* node))
   }
 }
 
-void
-TreeInsert(BSTNode* root, int key)
+BSTNode*
+TreeInsert(BSTNode* root, int key, void* memory)
 {
   BSTNode* y = NULL;
-  BSTNode* z = (BSTNode*)malloc(sizeof(BSTNode));
+  BSTNode* z;
+  if (memory != NULL) {
+    z = (BSTNode*)memory;
+  } else {
+    z = (BSTNode*)malloc(sizeof(BSTNode));
+  }
   z->key = key;
   z->left = NULL;
   z->right = NULL;
@@ -68,17 +73,18 @@ TreeInsert(BSTNode* root, int key)
   } else {
     y->right = z;
   }
+  return z;
 }
 
 BSTNode*
 BuildTestTree()
 {
-  TreeInsert(_root, 6);//root
-  TreeInsert(_root, 5);
-  TreeInsert(_root, 7);
-  TreeInsert(_root, 2);
-  TreeInsert(_root, 5);
-  TreeInsert(_root, 8);
+  TreeInsert(_root, 6, NULL);//root
+  TreeInsert(_root, 5, NULL);
+  TreeInsert(_root, 7, NULL);
+  TreeInsert(_root, 2, NULL);
+  TreeInsert(_root, 5, NULL);
+  TreeInsert(_root, 8, NULL);
   return _root;
 }
 
