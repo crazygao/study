@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include <stddef.h>
 
-BSTNode* _root = NULL;
-
 void
 printNode(BSTNode* node)
 {
@@ -45,7 +43,7 @@ INORDER_TREE_WALK(BSTNode* root, void (*func)(BSTNode* node))
 }
 
 BSTNode*
-TreeInsert(BSTNode* root, int key, void* memory)
+TreeInsert(BSTNode** root, int key, void* memory)
 {
   BSTNode* y = NULL;
   BSTNode* z;
@@ -57,7 +55,7 @@ TreeInsert(BSTNode* root, int key, void* memory)
   z->key = key;
   z->left = NULL;
   z->right = NULL;
-  BSTNode* x = root;
+  BSTNode* x = *root;
   while (x != NULL) {
     y = x;
     if (key < x->key)
@@ -67,7 +65,7 @@ TreeInsert(BSTNode* root, int key, void* memory)
   }
   z->parent = y;
   if (y == NULL)
-    _root = z;
+    *root = z;
   else if (key < y->key) {
     y->left = z;
   } else {
@@ -79,13 +77,14 @@ TreeInsert(BSTNode* root, int key, void* memory)
 BSTNode*
 BuildTestTree()
 {
-  TreeInsert(_root, 6, NULL);//root
-  TreeInsert(_root, 5, NULL);
-  TreeInsert(_root, 7, NULL);
-  TreeInsert(_root, 2, NULL);
-  TreeInsert(_root, 5, NULL);
-  TreeInsert(_root, 8, NULL);
-  return _root;
+  BSTNode* root = NULL;
+  TreeInsert(&root, 6, NULL);//root
+  TreeInsert(&root, 5, NULL);
+  TreeInsert(&root, 7, NULL);
+  TreeInsert(&root, 2, NULL);
+  TreeInsert(&root, 5, NULL);
+  TreeInsert(&root, 8, NULL);
+  return root;
 }
 
 BSTNode*

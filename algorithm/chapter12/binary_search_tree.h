@@ -9,7 +9,7 @@ typedef struct BSTNode// Binary Search Tree Node
 } BSTNode;
 
 BSTNode* BuildTestTree();
-BSTNode* TreeInsert(BSTNode* root, int key, void* memory);
+BSTNode* TreeInsert(BSTNode** root, int key, void* memory);
 BSTNode* TREE_SEARCH(BSTNode* root, int key);
 BSTNode* INTERACTIVE_TREE_SEARCH(BSTNode* root, int key);
 BSTNode* TREE_MINIMUM(BSTNode* root);

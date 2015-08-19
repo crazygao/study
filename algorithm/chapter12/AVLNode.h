@@ -16,7 +16,7 @@ typedef struct AVLNode
 
 AVLNode* BuildAVLTree();
 AVLNode* TreeInsertAVL(AVLNode** root, int key, void* memory);
-void TreeBalanceAVL(AVLNode* root, AVLNode* elem, Balance bal);
+void TreeBalanceAVL(AVLNode** root, AVLNode* elem, Balance bal);
 void LeftRotate(AVLNode* x);
 void RightRotate(AVLNode* y);
 #endif
