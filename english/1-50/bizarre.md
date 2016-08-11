@@ -1,16 +1,19 @@
 bizarre
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: very unusual or strange
+    + __eg__: a bizarre coincidence
++ _adv_: bizarrely
 
 ### Origin
 
-ZZC
+Date: 1600-1700; Language: French; Origin: Italian bizzarro 'always changing, unreasonable', from Spanish bizarro 'brave', perhaps from Basque bizarra 'beard'
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his behaviour became more and more bizarre 
 
-+ ZZE
++ STRANGE
++ peculiar
++ odd
 
 

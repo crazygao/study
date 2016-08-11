@@ -1,16 +1,15 @@
 blandishment
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: flattery intended to persuade
++ _adj_: the act of urging by means of teasing or flattery
 
 ### Origin
 
-ZZC
+1585-95; BLANDISH + -MENT
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ cajolery
++ palaver
 
 
