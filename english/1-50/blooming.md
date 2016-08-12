@@ -1,16 +1,9 @@
 blooming
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj only before noun, adv_: a mild swear word, used to emphasize a comment or a statement, especially an angry one
+	+ __eg__: What blooming awful weather!
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+late Middle English: from ↑bloom + ↑-ing, used as a euphemism for ↑bloody
 

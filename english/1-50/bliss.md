@@ -1,16 +1,22 @@
 bliss
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: extreme happiness
+	+ __eg__: married/wedded/domestic bliss
 
 ### Origin
 
-ZZC
+Old English blīths, bliss, of Germanic origin; related to ↑blithe.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it was sheer bliss to be there
 
-+ ZZE
++ JOY
++ opposite(s): MISERY
+
+__eg__: religions promise perfect bliss after death
+
++ BLESSEDNESS
++ opposite(s): HELL
 
 
