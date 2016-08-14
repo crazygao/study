@@ -1,16 +1,4 @@
 blowhard
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _noun_: a person who talks too proudly about sth they own or sth they have done
 
