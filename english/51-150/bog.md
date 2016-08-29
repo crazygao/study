@@ -1,16 +1,24 @@
 bog
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (an area of) wet soft ground, formed of decaying plants
+	+ __eg__: a peat bog
++ _noun_: (BrE, slang) a toilet/bathroom
+	+ __eg__: Have you got any bog roll
 
++ _verb_: bog (something) down or bog down (something) : to cause (something) to sink in wet ground
+    + __eg__: The mud bogged down the car
 ### Origin
 
-ZZC
+Middle English: from Irish or Scottish Gaelic bogach, from bog ‘soft’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was thrown by her horse into a peat bog
 
-+ ZZE
++ MARSH
+
+__eg__: many great ideas got bogged down in bureaucracy
+
++ MIRE
 
 

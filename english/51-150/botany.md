@@ -1,16 +1,8 @@
 botany
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the scientific study of plants and their structure
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+late 17th cent.: from earlier botanic (from French botanique, based on Greek botanikos, from botanē ‘plant’) + ↑-y.
 

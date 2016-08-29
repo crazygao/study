@@ -1,16 +1,13 @@
 boredom
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: the state of feeling bored; the quality of being very boring
+	+ __eg__: I started to eat too much out of sheer boredom.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his eyes were glassy with boredom
 
-+ ZZE
++ WEARINESS
++ opposite(s): INTEREST, ENTERTAINMENT
 
 
