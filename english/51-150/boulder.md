@@ -1,16 +1,16 @@
 boulder
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a very large rock which has been shaped by water or the weather
+	+ __eg__:  huge granite boulders underneath the cliff
 
 ### Origin
 
-ZZC
+late Middle English: shortened from earlier boulderstone, of Scandinavian origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: late Middle English: shortened from earlier boulderstone, of Scandinavian origin
 
-+ ZZE
++ ROCK
 
 

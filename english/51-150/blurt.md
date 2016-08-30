@@ -1,16 +1,18 @@
 blurt
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: to say sth suddenly and without thinking carefully enough
++ blurt sth out | blurt that | blurt what, how,etc | blurt + speech
+	+ __eg__:  She blurted it out before I could stop her
 
 ### Origin
 
-ZZC
+late 16th cent.: probably imitative
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he blurted out his story
 
-+ ZZE
++ UTTER SUDDENLY
++ opposite(s): KEEP QUIET
 
 

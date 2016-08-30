@@ -1,16 +1,12 @@
 bootless
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Without advantage or benefit; useless
++ _adv_: bootlessly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: remonstrating with him seems to have been a bootless task
 
-+ ZZE
++ USELESS
 
 

@@ -1,16 +1,16 @@
 boor
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
++ _noun (old fashioned)_: a rude unpleasant person
++ _adj_: boorish
++ _adv_: boorishly
 ### Origin
 
-ZZC
+mid 16th cent. (‘peasant’): from Low German būr or Dutch boer ‘farmer’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he is such a boor when he is intoxicated
 
-+ ZZE
++ LOUT
 
 
