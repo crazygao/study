@@ -1,16 +1,12 @@
 Centigrade
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: = Celsius
+	+ __eg__: a temperature of 40 degrees centigrade
++ _noun_: temperature measurement
+	+ __eg__: temperatures in centigrade and Fahrenheit
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
+[centigrade] early 19th cent.: from French, from Latin centum ‘a hundred’ + gradus ‘step’.
 
 
