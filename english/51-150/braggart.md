@@ -1,16 +1,15 @@
 braggart
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a person who ↑brags
 
 ### Origin
 
-ZZC
+late 16th cent.: from French bragard, from braguer ‘to brag’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a prodigious braggart and a liar
 
-+ ZZE
++ BOASTER
 
 
