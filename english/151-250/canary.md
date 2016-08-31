@@ -1,16 +1,7 @@
 canary
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a small yellow bird with a beautiful song, often kept in a ↑cage as a pet
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 16th cent.: from French canari, from Spanish canario ‘canary’ or ‘person from the Canary Islands’.

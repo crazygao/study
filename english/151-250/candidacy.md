@@ -1,16 +1,8 @@
 candidacy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the fact of being a candidate in an election
+	+ __eg__: to announce/declare/withdraw your candidacy for the post
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+candidate

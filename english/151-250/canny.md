@@ -1,16 +1,17 @@
 canny
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: intelligent, careful and showing good judgement, especially in business or politics
+	+ __eg__:  a canny politician
 
 ### Origin
 
-ZZC
+late 16th cent. (originally Scots): from ↑can (in the obsolete sense ‘know’) + ↑-y.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: canny investors
 
-+ ZZE
++ SHREWD
++ opposite(s): FOOLISH, RECKLES:
 
 
