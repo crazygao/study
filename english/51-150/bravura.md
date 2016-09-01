@@ -1,16 +1,16 @@
 bravura
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: great skill and enthusiasm in doing sth artistic
+	+ __eg__: a bravura performance
 
 ### Origin
 
-ZZC
+[bravura] mid 18th cent.: from Italian, from bravo ‘bold’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a bravura performance
 
-+ ZZE
++ VIRTUOSO
 
 

@@ -1,16 +1,13 @@
 brawny
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: having strong muscles
+	+ __eg__: He was a great brawny brute of a man
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a big brawny man with tattooed arms
 
-+ ZZE
++ STRONG
++ opposite(s): SCRAWNY, PUNY, WEAK
 
 

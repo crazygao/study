@@ -1,16 +1,16 @@
 brat
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a person, especially a child, who behaves badly
+	+ __eg__: a spoiled/spoilt brat
 
 ### Origin
 
-ZZC
+mid 16th cent.: perhaps an abbreviation of synonymous Scots bratchet, from Old French brachet ‘hound, bitch’; or perhaps from dialect brat ‘rough garment, rag’, based on Old Irish bratt ‘cloak’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: as he walked off, village brats ran after him
 
-+ ZZE
++ BADLY BEHAVED CHILD
 
 

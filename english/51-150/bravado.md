@@ -1,16 +1,17 @@
 bravado
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a confident way of behaving that is intended to impress people, sometimes as a way of hiding a lack of confidence
+	+ __eg__: an act of sheer bravado
 
 ### Origin
 
-ZZC
+[bravado] late 16th cent.: from Spanish bravada, from bravo ‘bold’ (from ↑brave and -ado).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: despite all his bravado, he was actually a very sensitive man
 
-+ ZZE
++ BOLDNESS
++ opposite(s): MODESTY
 
 

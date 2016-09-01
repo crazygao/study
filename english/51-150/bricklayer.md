@@ -1,16 +1,3 @@
 bricklayer
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: a person whose job is to build walls, etc. with bricks
