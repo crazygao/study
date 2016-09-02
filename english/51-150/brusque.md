@@ -1,16 +1,17 @@
 brusque
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: using very few words and sounding rude
+	+ __eg__: The doctor spoke in a brusque tone.
 
 ### Origin
 
-ZZC
+mid 17th cent.: from French, ‘lively, fierce,’ from Italian brusco ‘sour’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was disliked because of his brusque manners
 
-+ ZZE
++ CURT
++ opposite(s): POLITE, VERBOSE
 
 

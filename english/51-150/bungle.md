@@ -1,16 +1,20 @@
 bungle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_:~(sth): to do sth badly or without skill; to fail at sth
+	+ __eg__: They bungled the job
+
++ _noun_: something that is done badly and that causes problems
+	+ __eg__: Their pay was late because of a computer bungle
 
 ### Origin
 
-ZZC
+mid 16th cent.: of unknown origin; compare with ↑bumble.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the prisoners bungled their escape bid
 
-+ ZZE
++ MISHANDLE
++ opposite(s): SUCCEED IN, MANAGE SUCCESSFULLY
 
 

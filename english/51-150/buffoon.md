@@ -1,16 +1,19 @@
 buffoon
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a person who does silly but amusing things
 
 ### Origin
 
-ZZC
+mid 16th cent.: from French bouffon, from Italian buffone, from medieval Latin buffo ‘clown’. Originally recorded as a rare Scots word for a kind of pantomime dance, the term later (late 16th cent.) denoted a professional jester.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (archaic) Feste the buffoon
 
-+ ZZE
++ (archaic) Feste the buffoon
+
+__eg__: he regarded the chaplain as a buffoon
+
++ FOOL
 
 

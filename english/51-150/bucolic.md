@@ -1,16 +1,17 @@
 bucolic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: connected with the countryside or country life
+	+ __eg__: a stream winding through stately parks and bucolic meadows
 
 ### Origin
 
-ZZC
+[bucolic] early 16th cent. (as a noun): via Latin from Greek boukolikos, from boukolos ‘herdsman’, from bous ‘ox’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the bucolic scene of a farmer ploughing behind a shire horse
 
-+ ZZE
++ RUSTIC
++ opposite(s): URBAN
 
 

@@ -1,16 +1,15 @@
 burgeon
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
++ _vi_: to begin to grow or develop rapidly
+    + __eg__: A new wave of running clubs have burgeoned over the past decade
 ### Origin
 
-ZZC
+Middle English: from Old French bourgeonner ‘put out buds’, from borjon ‘bud’, based on late Latin burra ‘wool’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: tourism has burgeoned over the last ten years
 
-+ ZZE
++ GROW RAPIDLY
 
 

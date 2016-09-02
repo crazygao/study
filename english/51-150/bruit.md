@@ -1,16 +1,14 @@
 bruit
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~ sth (about) to spread a piece of news widely
+	+ __eg__: This rumour has been bruited about for years
 
 ### Origin
 
-ZZC
+late Middle English (as a noun): from Old French bruit noise, from bruire ‘to roar’
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ clamor
 
 
