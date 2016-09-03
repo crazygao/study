@@ -1,16 +1,16 @@
 canyon
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a deep valley with steep sides of rock
+	+ __eg__: the Grand Canyon, Arizona
 
 ### Origin
 
-ZZC
+mid 19th cent.: from Spanish cañón ‘tube’, based on Latin canna ‘reed, cane’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the Grand Canyon, Arizona
 
-+ ZZE
++ RAVINE
 
 

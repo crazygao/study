@@ -1,16 +1,17 @@
 cantankerous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: bad-tempered and always complaining
+	+ __eg__: a cantankerous old man
 
 ### Origin
 
-ZZC
+[cantankerous] mid 18th cent.: of unknown origin; perhaps a blend of Anglo-Irish cant ‘auction’ and rancorous (see ↑rancour).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a cantankerous old man
 
-+ ZZE
++ BAD-TEMPERED
++ opposite(s): GOOD-NATURED, AFFABLE
 
 
