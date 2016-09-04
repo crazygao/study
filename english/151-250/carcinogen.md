@@ -1,16 +1,8 @@
 carcinogen
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a substance that can cause cancer
+	+ __eg__: known/potential/suspected carcinogens
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: from an abbreviation of ↑carcinoma + -gen

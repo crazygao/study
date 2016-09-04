@@ -1,16 +1,22 @@
 carol
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a Christian religious song sung at Christmas
+	+ __eg__: a carol service
 
++ _vt_: ~sth/+speech: to sing sth in a cheerful way
+	+ __eg__: They carolled loud and long
 ### Origin
 
-ZZC
+Middle English: from Old French carole (noun), caroler (verb), of unknown origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: children came from the village school to sing carols
 
-+ ZZE
++ CHRISTMAS SONG
+
+__eg__: ‘Yo heave ho,’ carolled Boris happily
+
++ SING
 
 

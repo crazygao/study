@@ -1,16 +1,7 @@
 carapace
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the hard shell on the back of some animals such as ↑crabs, that protects them
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: from French, from Spanish carapacho, of unknown origin

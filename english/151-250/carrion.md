@@ -1,16 +1,8 @@
 carrion
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the decaying flesh of dead animals
+	+ __eg__: crows feeding on carrion
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[carrion] Middle English: from Anglo-Norman French and Old Northern French caroine, caroigne, Old French charoigne, based on Latin caro ‘flesh’.
