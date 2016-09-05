@@ -1,16 +1,13 @@
 bystander
 ### Meaning
-+ _adj_: ZZA
++ _noun_: a person who sees sth that is happening but is not involved
 	+ __eg__: ZZB
-
-### Origin
-
-ZZC
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the police had shot dead an innocent bystander
 
-+ ZZE
++ ONLOOKER
++ opposite(s): PARTICIPANT
 
 

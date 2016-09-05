@@ -1,16 +1,16 @@
 cacophony
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a mixture of loud unpleasant sounds
+	+ __eg__: despite the cacophony, Rita slept on
 
 ### Origin
 
-ZZC
+mid 17th cent.: from French cacophonie, from Greek kakophōnia, from kakophōnos ‘ill-sounding’, from kakos ‘bad’ + phōnē ‘sound’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: despite the cacophony, Rita slept on 
 
-+ ZZE
++ DIN
 
 

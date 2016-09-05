@@ -1,16 +1,7 @@
 calibrate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~sth:  to mark units of measurement on an instrument such as a ↑thermometer so that it can be used for measuring sth accurately
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: from ↑calibre + ↑-ate.

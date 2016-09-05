@@ -1,16 +1,17 @@
 callow
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: young and without experience
+	+ __eg__: a callow youth
 
 ### Origin
 
-ZZC
+[callow] Old English calu ‘bald’, of West Germanic origin, probably from Latin calvus ‘bald’. This was extended to mean ‘unfledged’, which led to the present sense ‘immature’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a callow youth
 
-+ ZZE
++ INEXPERIENCED
++ opposite(s): MATURE, EXPERIENCED, SOPHISTICATED
 
 

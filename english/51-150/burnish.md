@@ -1,16 +1,16 @@
 burnish
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~sth: to polish metal until it is smooth and shiny
 
 ### Origin
 
-ZZC
+Middle English: from Old French burniss-, lengthened stem of burnir, variant of brunir ‘make brown’, from brun ‘brown’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: marks can be removed by scraping and burnishing the metal
 
-+ ZZE
++ POLISH
++ opposite(s): DULL
 
 

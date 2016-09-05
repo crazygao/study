@@ -1,16 +1,9 @@
 calumniate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To make maliciously or knowingly false statements about
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ defame
 
 

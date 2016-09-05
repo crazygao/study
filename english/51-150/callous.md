@@ -1,16 +1,17 @@
 callous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: not caring about other people's feelings or suffering
+	+ __eg__:  a callous killer/attitude/act
 
 ### Origin
 
-ZZC
+late Middle English (in the Latin sense): from Latin callosus ‘hard-skinned’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his callous disregard for the feelings and wishes of others
 
-+ ZZE
++ HEARTLESS
++ opposite(s): KIND, COMPASSIONATE
 
 

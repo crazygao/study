@@ -1,16 +1,4 @@
 byproduct
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Something produced in the making of something else
++ _noun_: A secondary result; a side effect
