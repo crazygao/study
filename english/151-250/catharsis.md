@@ -1,16 +1,16 @@
 catharsis
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the process of releasing strong feelings, for example through plays or other artistic activities, as a way of providing relief from anger, suffering, etc
 
 ### Origin
 
-ZZC
+early 19th cent. in the sense purification: from Greek katharsis, from kathairein ‘cleanse’, from katharos ‘pure’. The notion of “release” through drama derives from Aristotle's Poetics
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there is a view that violent games can exert a positive effect through catharsis
 
-+ ZZE
++ PURGING
++ opposite(s): REPRESSION
 
 

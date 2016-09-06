@@ -1,16 +1,22 @@
 caustic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of a chemical substance) able to destroy or dissolve other substances
+	+ __eg__: a caustic cleaning product
++ _adj_: critical in a bitter or ↑sarcastic way
+	+ __eg__: caustic comments/wit
 
 ### Origin
 
-ZZC
+[caustic caustically] late Middle English: via Latin from Greek kaustikos, from kaustos ‘combustible’, from kaiein ‘to burn’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a caustic cleaner 
 
-+ ZZE
++ CORROSIVE
+
+__eg__: a caustic comment
+
++ SARCASTIC
 
 

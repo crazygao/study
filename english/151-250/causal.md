@@ -1,16 +1,9 @@
 causal
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (formal) connected with the relationship between two things, where one causes the other to happen
+	+ __eg__: the causal relationship between poverty and disease
++ _adj_: ~ conjunction/connective (grammar) a word such as because that introduces a statement about the cause of sth
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[causal causally] late Middle English (as a noun denoting a causal conjunction or particle): from late Latin causalis, from Latin causa ‘cause’
