@@ -1,16 +1,16 @@
 cavern
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a ↑cave, especially a large one
+	+ __eg__: The underground cavern was formed where water used to flow
 
 ### Origin
 
-ZZC
+late Middle English: from Old French caverne or from Latin caverna, from cavus ‘hollow’. Compare with ↑cave.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the cave opens up into a fantastic cavern
 
-+ ZZE
++ LARGE CAVE
 
 

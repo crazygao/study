@@ -1,16 +1,16 @@
 cede
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~ sth (to sb) (formal) to give sb control of sth or give them power, a right, etc, especially unwillingly
+	+ __eg__: Cuba was ceded by Spain to the US in 1898
 
 ### Origin
 
-ZZC
+early 16th cent.: from French céder or Latin cedere ‘to yield’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Austria ceded the South Tyrol to Italy in 1919
 
-+ ZZE
++ SURRENDER
 
 

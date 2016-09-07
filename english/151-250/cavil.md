@@ -1,16 +1,16 @@
 cavil
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: ~ (at sth) (formal) to make unnecessary complaints about sth
+	+ __eg__: Several countries cavilled at the cost of the project
 
 ### Origin
 
-ZZC
+mid 16th cent.: from French caviller, from Latin cavillari, from cavilla ‘mockery’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they cavilled at the cost
 
-+ ZZE
++ COMPLAIN
 
 
