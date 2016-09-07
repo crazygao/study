@@ -1,16 +1,13 @@
 cistern
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a container in which water is stored in a building, especially one in the roof or connected to a toilet
 
 ### Origin
 
-ZZC
+Middle English: from Old French cisterne, from Latin cisterna, from cista ‘box’, from Greek kistē
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ TANK
 
 

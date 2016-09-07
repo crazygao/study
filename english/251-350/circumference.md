@@ -1,16 +1,20 @@
 circumference
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a line that goes around a circle or any other curved shape; the length of this line
+	+ __eg__: the circumference of the earth
 
 ### Origin
 
-ZZC
+late Middle English: from Old French circonference, from Latin circumferentia, from circum ‘around, about’ + ferre ‘carry, bear’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the circumference of the pit | the road which acted as the circumference of the downtown area
 
-+ ZZE
++ PERIMETER
+
+__eg__: the circumference of his upper arm
+
++ GIRTH
 
 

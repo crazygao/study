@@ -1,11 +1,10 @@
 churl
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a rude unpleasant person
 
 ### Origin
 
-ZZC
+[Middle English, from Old English ceorl, peasant. See gerə-1 in Indo-European Roots.]
 
 ### Synonym
 

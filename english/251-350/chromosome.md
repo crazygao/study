@@ -1,16 +1,8 @@
 chromosome
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: one of the very small structures like threads in the nuclei (= central parts) of animal and plant cells, that carry the ↑genes
+	+ __eg__: Humans have 23 pairs of chromosomes in their cells
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 19th cent.: coined in German from Greek khrōma ‘colour’ + sōma ‘body’
