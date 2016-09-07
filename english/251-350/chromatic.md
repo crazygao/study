@@ -1,16 +1,7 @@
 chromatic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: of the chromatic scale, a series of musical notes that rise and fall in semitones/half tones
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[chromatic] early 17th cent.: from French chromatique or Latin chromaticus, from Greek khrōmatikos, from khrōma, khrōmat- ‘colour, chromatic scale’.
