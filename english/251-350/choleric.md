@@ -1,16 +1,17 @@
 choleric
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: easily made angry
+	+ __eg__: He was a choleric, self-important little man
 
 ### Origin
 
-ZZC
+[choleric] Middle English (in the sense ‘bilious’): from Old French cholerique, via Latin from Greek kholerikos, from kholera ‘diarrhoea’, which in late Latin acquired the senses bile or anger, from Greek kholē ‘bile’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a choleric, self-important little man
 
-+ ZZE
++ BAD-TEMPERED
++ opposite(s): GOOD-NATURED, AFFABLE
 
 

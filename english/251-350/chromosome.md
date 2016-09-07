@@ -1,4 +1,4 @@
-chomosome
+chromosome
 ### Meaning
 + _adj_: ZZA
 	+ __eg__: ZZB

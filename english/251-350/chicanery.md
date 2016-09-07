@@ -1,16 +1,15 @@
 chicanery
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the use of complicated plans and clever talk in order to trick people
 
 ### Origin
 
-ZZC
+late 16th cent.: from French chicanerie, from chicaner ‘to quibble’, of unknown origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: political chicanery of all sorts goes on behind closed doors
 
-+ ZZE
++ TRICKERY
 
 

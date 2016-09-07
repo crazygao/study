@@ -1,16 +1,8 @@
 choreography
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: the art of designing and arranging the steps and movements in dances, especially in ↑ballet; the steps and movements in a particular ↑ballet or show
+	+ __eg__: She's been asked to do the choreography for a new musical
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 18th cent. (in the sense ‘written notation of dancing’): from Greek khoreia ‘dancing in unison’ (from khoros ‘chorus’) + ↑-graphy

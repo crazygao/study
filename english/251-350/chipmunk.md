@@ -1,16 +1,7 @@
 chipmunk
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a small N American animal of the ↑squirrel family, with light and dark marks on its back
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: from Ojibwa (an Algonquian language).
