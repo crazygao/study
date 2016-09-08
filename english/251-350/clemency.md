@@ -1,16 +1,17 @@
 clemency
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: kindness shown to sb when they are being punished; willingness not to punish sb so severely
+	+ __eg__: a plea for clemency
 
 ### Origin
 
-ZZC
+[clemency] late Middle English: from Latin clementia, from clemens, clement- ‘clement’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the high court commuted his prison term to five years as an act of clemency
 
-+ ZZE
++ MERCY
++ opposite(s): RUTHLESSNESS, STRICTNESS
 
 

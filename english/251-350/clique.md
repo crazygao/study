@@ -1,16 +1,16 @@
 clique
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a small group of people who spend their time together and do not allow others to join them
+	+ __eg__: a small group of people who spend their time together and do not allow others to join them
 
 ### Origin
 
-ZZC
+early 18th cent.: from French, from Old French cliquer ‘make a noise’; the modern sense is related to ↑claque
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his flat became a haven for a clique of young men of similar tastes
 
-+ ZZE
++ COTERIE
 
 
