@@ -1,16 +1,7 @@
 centurion
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (in ancient Rome) an army officer who commanded 100 soldiers
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English: from Latin centurio(n-), from centuria, from centum ‘hundred’.

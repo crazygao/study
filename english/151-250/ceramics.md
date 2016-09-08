@@ -1,16 +1,3 @@
 ceramics
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: the art of making pots, bowls, tiles etc, by shaping pieces of clay and baking them until they are hard

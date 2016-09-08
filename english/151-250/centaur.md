@@ -1,16 +1,7 @@
 centaur
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (in ancient Greek stories) a creature with a man's head, arms and upper body on a horse's body and legs
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+via Latin from Greek kentauros, the Greek name for a Thessalonian tribe of expert horsemen; of unknown ultimate origin

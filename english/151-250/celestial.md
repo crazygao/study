@@ -1,16 +1,22 @@
 celestial
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj usu before noun_: of the sky or of heaven
+	+ __eg__: celestial bodies (= the sun, moon, stars, etc.)
 
 ### Origin
 
-ZZC
+[celestial] late Middle English: via Old French from medieval Latin caelestialis, from Latin caelestis, from caelum ‘heaven’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a celestial body
 
-+ ZZE
++ (IN) SPACE
++ opposite(s): TERRESTRIAL, EARTHLY
+
+__eg__: celestial beings
+
++ HEAVENLY
++ opposite(s): HELLISH ; MUNDANE
 
 
