@@ -1,16 +1,7 @@
 cloture
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a way of ending an argument over a ↑bill in the US government and forcing a vote on it
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French clôture, from Old French closture, probably alteration of closure, closure. See closure.]

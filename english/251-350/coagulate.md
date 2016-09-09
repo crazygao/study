@@ -1,16 +1,17 @@
 coagulate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: ~(sth): if a liquid coagulates or sth coagulates it, it becomes thick and partly solid
+	+ __eg__: Blood began to coagulate around the edges of the wound
 
 ### Origin
 
-ZZC
+late Middle English: from Latin coagulat- ‘curdled’, from the verb coagulare, from coagulum ‘rennet’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the heat causes the blood to coagulate
 
-+ ZZE
++ CONGEAL
++ opposite(s): LIQUEFY
 
 

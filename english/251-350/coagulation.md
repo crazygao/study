@@ -1,16 +1,4 @@
 coagulation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: noun form of coagulate
+	+ __eg__: the coagulation of blood

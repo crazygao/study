@@ -1,16 +1,3 @@
 coagulant
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: An agent that causes a liquid or sol to coagulate

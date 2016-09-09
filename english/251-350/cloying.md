@@ -1,16 +1,13 @@
 cloying
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: (of food, a smell, etc.) so sweet that it is unpleasant
++ _adj_: using emotion in a very obvious way, so that the result is unpleasant
+	+ __eg__: the cloying sentimentality of her novels
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the romance never becomes cloying
 
-+ ZZE
++ the romance never becomes cloying
 
 
