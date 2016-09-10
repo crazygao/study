@@ -1,16 +1,17 @@
 certitude
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a feeling of being certain; a thing about which you are certain
+	+ __eg__: ‘You will like Rome,’ he said, with absolute certitude
 
 ### Origin
 
-ZZC
+late Middle English: from late Latin certitudo, from certus ‘certain’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the question may never be answered with certitude
 
-+ ZZE
++ CERTAINTY
++ opposite(s): DOUBT
 
 

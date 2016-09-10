@@ -1,16 +1,16 @@
 chagrin
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a feeling of being disappointed or annoyed
+	+ __eg__: To her chagrin, neither of her sons became doctors
 
 ### Origin
 
-ZZC
+[chagrin chagrined] mid 17th cent. (in the sense ‘melancholy’): from French chagrin (noun), literally ‘rough skin, shagreen’, chagriner (verb), of unknown origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: to his chagrin, his son chose to become an actor
 
-+ ZZE
-
++ ANNOYANCE
++ opposite(s): DELIGHT
 

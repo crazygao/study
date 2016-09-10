@@ -1,16 +1,8 @@
 sulphate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (chemistry)a ↑compound of ↑sulphuric acid and a chemical element (=SO4)
+	+ __eg__: copper sulphate
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 18th cent.: from French sulfate, from Latin sulphur

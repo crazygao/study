@@ -1,16 +1,17 @@
 cessation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: the stopping of sth; a pause in sth
+	+ __eg__: Mexico called for an immediate cessation of hostilities
 
 ### Origin
 
-ZZC
+late Middle English: from Latin cessatio(n-), from cessare ‘cease’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the cessation of hostilities
 
-+ ZZE
++ END
++ opposite(s): START ; RESUMPTION
 
 

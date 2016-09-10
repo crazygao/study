@@ -1,16 +1,3 @@
 chalice
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: a large cup for holding wine, especially one from which wine is drunk in the Christian ↑Communion service

@@ -1,16 +1,16 @@
 cession
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the act of giving up land or rights, especially to another country after a war
 
 ### Origin
 
-ZZC
+[cession] late Middle English; from Latin cessio(n-), from cedere ‘cede’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the cession of this province to the Kingdom of Italy
 
-+ ZZE
++ SURRENDER
++ opposite(s): GAIN
 
 

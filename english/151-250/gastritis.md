@@ -1,16 +1,3 @@
 gastritis
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: an illness in which the inside of the stomach becomes swollen and painful
