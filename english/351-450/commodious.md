@@ -1,16 +1,16 @@
 commodious
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: having a lot of space
 
 ### Origin
 
-ZZC
+[commodious] late Middle English (in the sense ‘beneficial, useful’): from French commodieux or medieval Latin commodiosus, based on Latin commodus ‘convenient’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was sitting in a commodious armchair
 
-+ ZZE
++ ROOMY
++ opposite(s): CRAMPED
 
 
