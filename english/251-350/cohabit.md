@@ -1,16 +1,16 @@
 cohabit
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: ~ (with sb) (formal) (usually of a man and a woman) to live together and have a sexual relationship without being married
+	+ __eg__: She refused to cohabit with him before the wedding
 
 ### Origin
 
-ZZC
+mid 16th cent.: from Latin cohabitare, from co- ‘together’ + habitare ‘dwell’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Mary is now cohabiting with Paul
 
-+ ZZE
++ LIVE TOGETHER
 
 

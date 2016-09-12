@@ -1,16 +1,17 @@
 cohesion
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (formal) the act or state of keeping together
+	+ __eg__: the cohesion of the nuclear family
++ _noun_: (physics, chemistry) the force causing ↑molecules of the same substance to stick together
 
 ### Origin
 
-ZZC
+mid 17th cent.: from Latin cohaes- ‘cleaved together’, from the verb cohaerere, from co- ‘together’ + haerere ‘to stick’, on the pattern of adhesion
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: rewarding individuals breaks the cohesion in the group
 
-+ ZZE
++ UNITY
 
 

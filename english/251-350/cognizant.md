@@ -1,16 +1,12 @@
 cognizant
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: aware of something
+	+ __eg__: He is cognizant of his duties as a father.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: everyone should be fully cognizant of what is happening
 
-+ ZZE
++ AWARE
 
 

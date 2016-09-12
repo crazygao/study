@@ -1,16 +1,17 @@
 cogent
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: strongly and clearly expressed in a way that influences what people believe
+	+ __eg__: She put forward some cogent reasons for abandoning the plan
 
 ### Origin
 
-ZZC
+[cogency cogent cogently] mid 17th cent.: from Latin cogent- ‘compelling’, from the verb cogere, from co- ‘together’ + agere ‘drive’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a cogent argument
 
-+ ZZE
++ CONVINCING
++ opposite(s): VAGUE ; UNCONVINCING ; MUDDLED
 
 

@@ -1,16 +1,16 @@
 colloquial
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of words and language) used in conversation but not in formal speech or writing
 
 ### Origin
 
-ZZC
+[colloquial colloquially] mid 18th cent.: from Latin colloquium ‘conversation’ + ↑-al.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: some students have a good grasp of colloquial language
 
-+ ZZE
++ INFORMAL
++ opposite(s): LITERARY ; FORMAL
 
 

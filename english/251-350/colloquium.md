@@ -1,16 +1,7 @@
 colloquium
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a formal academic ↑seminar or conference
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 16th cent. (denoting a conversation): from Latin, from colloqui ‘to converse’, from col- ‘together’ + loqui ‘to talk’.

@@ -1,16 +1,11 @@
 codify
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: to arrange laws, rules, etc. into a system
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the bill codified these standards for the first time
 
-+ ZZE
++ SYSTEMATIZE
 
 

@@ -1,16 +1,11 @@
 cob
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: = ↑corncob
+	+ __eg__: corn on the cob
++ _noun_: a strong horse with short legs
++ _noun_: (BrE) a round ↑loaf of bread
+	+ __eg__: a crusty cob
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late Middle English (denoting a strong man or leader): of unknown origin. The underlying general sense appears to be ‘rounded, sturdy’

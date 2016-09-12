@@ -1,16 +1,17 @@
 coerce
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~ sb (into sth/into doing sth) | ~ sb (to do sth) to force sb to do sth by using threats
+	+ __eg__: They were coerced into negotiating a settlement
 
 ### Origin
 
-ZZC
+late Middle English: from Latin coercere ‘restrain’, from co- ‘together’ + arcere ‘restrain’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__:  was coerced into giving evidence
 
-+ ZZE
++ PRESSURE
++ opposite(s): PERSUADE
 
 

@@ -1,16 +1,9 @@
-myelogenous
+myelogenous-leukemia
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ myelogenous _adj_: Originating in or produced by the bone marrow
++ leukemia _adj_: a serious disease in which too many white blood cells are produced, causing weakness and sometimes death
+	+ __eg__: The newspapers are full of stories of leukaemia clusters near nuclear establishments
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: coined in German from Greek leukos ‘white’ + haima ‘blood’.
