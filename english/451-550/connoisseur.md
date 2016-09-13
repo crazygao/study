@@ -1,16 +1,17 @@
 connoisseur
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: an expert on matters involving the judgement of beauty, quality or skill in art, food or music
+	+ __eg__: a connoisseur of Italian painting
 
 ### Origin
 
-ZZC
+early 18th cent.: from obsolete French, from conoistre ‘know’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a connoisseur of fine wines
 
-+ ZZE
++ EXPERT JUDGE (OF)
++ opposite(s): IGNORAMUS
 
 

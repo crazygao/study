@@ -1,16 +1,16 @@
 connotation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: an idea suggested by a word in addition to its main meaning
+	+ __eg__: The word ‘professional’ has connotations of skill and excellence
 
 ### Origin
 
-ZZC
+mid 16th cent.: from medieval Latin connotatio(n-), from connotare ‘mark in addition’, from con- ‘together with’ + notare ‘to note’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the word ‘discipline’ has unhappy connotations of punishment and repression
 
-+ ZZE
++ OVERTONE
 
 

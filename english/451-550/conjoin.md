@@ -1,16 +1,7 @@
 conjoin
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: ~ (sth): to join together; to join two or more things together
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late Middle English: from Old French conjoindre, from Latin conjungere, from con- ‘together’ + jungere ‘to join’

@@ -1,16 +1,17 @@
 conspicuous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: easy to see or notice; likely to attract attention
+	+ __eg__: Mary's red hair always made her conspicuous at school
 
 ### Origin
 
-ZZC
+[conspicuous conspicuously conspicuousness] mid 16th cent.: from Latin conspicuus (from conspicere ‘look at attentively’, from con- (expressing intensive force) + spicere ‘look at’) + ↑-ous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: lots of birds have highly conspicuous plumage | he showed conspicuous bravery
 
-+ ZZE
++ OBVIOUS
++ opposite(s): INCONSPICUOUS
 
 
