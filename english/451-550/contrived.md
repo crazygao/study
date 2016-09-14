@@ -1,16 +1,13 @@
 contrived
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: planned in advance and not natural or genuine; written or arranged in a way that is not natural or realistic
+	+ __eg__: a contrived situation
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: David replied with contrived joviality | the ending of the novel is too contrived to be convincing
 
-+ ZZE
++ FORCED
++ opposite(s): NATURAL, SPONTANEOUS
 
 

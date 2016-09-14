@@ -1,16 +1,17 @@
 convalesce
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: (formal) to spend time getting your health and strength back after an illness
+	+ __eg__: She is convalescing at home after her operation
 
 ### Origin
 
-ZZC
+late 15th cent.: from Latin convalescere, from con- ‘altogether’ + valescere ‘grow strong’ (from valere ‘be well’).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he went abroad to convalesce
 
-+ ZZE
++ RECUPERATE
++ opposite(s): DETERIORATE
 
 

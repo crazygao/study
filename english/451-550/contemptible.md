@@ -1,16 +1,17 @@
 contemptible
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: not deserving any respect at all
+	+ __eg__: contemptible behaviour
 
 ### Origin
 
-ZZC
+[contemptible] late Middle English: from Old French, or from late Latin contemptibilis, from Latin contemnere, from con- (expressing intensive force) + temnere ‘despise’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: that jibe about Alison was mean and contemptible
 
-+ ZZE
++ DESPICABLE
++ opposite(s): ADMIRABLE
 
 

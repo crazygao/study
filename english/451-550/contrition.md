@@ -1,16 +1,17 @@
 contrition
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: very sorry for sth bad that you have done
+	+ __eg__: Her expression was contrite
 
 ### Origin
 
-ZZC
+[contrite contritely contrition] Middle English: from Old French contrit, from Latin contritus, past participle of conterere ‘grind down, wear away’, from con- ‘together’ + terere ‘rub’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he looked so contrite that she relented
 
-+ ZZE
++ REMORSEFUL
++ opposite(s): UNREPENTANT, DEFIANT
 
 

@@ -1,16 +1,16 @@
 contradictory
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: containing or showing a ↑contradiction
+	+ __eg__: We are faced with two apparently contradictory statements
 
 ### Origin
 
-ZZC
+[contradictory] late Middle English (as a term in logic): from late Latin contradictorius, from Latin contradict- ‘spoken against’, from the verb contradicere, originally contra dicere ‘speak against’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the two attitudes are contradictory
 
-+ ZZE
++ OPPOSED
 
 

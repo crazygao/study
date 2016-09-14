@@ -1,16 +1,17 @@
 contemptuous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: feeling or showing that you have no respect for sb/sth
+	+ __eg__: She gave him a contemptuous look
 
 ### Origin
 
-ZZC
+mid 16th cent. (in the sense ‘despising law and order’): from medieval Latin contemptuosus, from Latin contemptus ‘contempt’, from contemnere, from con- (expressing intensive force) + temnere ‘despise’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he spoke in a coldly contemptuous tone
 
-+ ZZE
++ SCORNFUL
++ opposite(s): RESPECTFUL
 
 

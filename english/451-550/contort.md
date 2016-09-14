@@ -1,16 +1,20 @@
 contort
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: to become twisted or make sth twisted out of its natural or normal shape
+	+ __eg__: His face contorted with anger
 
 ### Origin
 
-ZZC
+late Middle English: from Latin contort- ‘twisted round, brandished’, from the verb contorquere, from con- ‘together’ + torquere ‘twist’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her face was contorted with terrible grief
 
-+ ZZE
++ TWIST
+
+__eg__: chunks of contorted metal
+
++ TWIST
 
 

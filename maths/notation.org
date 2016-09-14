@@ -5,3 +5,21 @@
   3) Any property defines the set of objects having that property
 
 ** If $$ x $$ is an object, $$ P $$ is a property, and $$ P(x) $$ denotes the assertion that $$ x $$ has property P, then the class of objects is denoted $$ \{x|P(x)\} $$
+
+** Definition of the set of all sets, is CONTRADICTORY. Paradox Of Russell
+*** Proof
+    Indeed, suppose that for a set M that notation P(M) means that M is not an element of itself.
+    Consider the class K = {M|P(M)} of sets having property P.
+    If K is a set either P(K) or $$ \notP(K) $$ is true. However, this dichotomy does not apply to K. Indeed, P(K) is impossible; for it would then follow from the definition of K that K contains K as an element, that is that $$ \notP(K) $$ is true on the other hand, $$ \notP(K) $$ is true; on the other hand $$ \notP(K) $$ is also impossible, since that means that K contains K as an element, which contradicts the definition of K as the class of sets that do not contain themselves as elements.
+    Consequently K is not a set.
+
+** Modern mathematical logic the concept of a set has been subjected to detailed aalysis. set theories is a set defined as a mathematical object having a DEFINITE collection of properties.
+
+** Axiom systems
+   The core of axiomatic set theory is the postulation of rules by which new sets can be formed from given ones.
+   In general any of the current axiom systems is such that, on the one hand, it eliminates the known contradictions of the naive theory, and on the other hand it provides freedom to operate with specific sets that arise in different areas of mthematics, most of all, in mathematical analysis understood in the broad sense of the word.
+
+** Inclusion Relation
+   x is an element of the set X     $$ x \in X $$
+   x is not an element of the set X $$ x \not\in X $$
+

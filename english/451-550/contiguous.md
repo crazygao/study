@@ -1,16 +1,17 @@
 contiguous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: touching or next to sth
+	+ __eg__: The countries are contiguous
 
 ### Origin
 
-ZZC
+[contiguity contiguous] early 16th cent.: from Latin contiguus ‘touching’, from the verb contingere ‘be in contact, befall’, from con- ‘together with’ + tangere ‘to touch’. + ↑-ous.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the contiguous states of New Mexico, Arizona, Texas, and California
 
-+ ZZE
++ ADJACENT
++ opposite(s): DISTANT
 
 
