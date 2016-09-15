@@ -1,16 +1,16 @@
 commotion
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: sudden noisy confusion or excitement
+	+ __eg__: I heard a commotion and went to see what was happening
 
 ### Origin
 
-ZZC
+late Middle English: from Latin commotio(n-), from com- ‘altogether’ + motio, from movere ‘to move’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a commotion broke out in the street behind us
 
-+ ZZE
++ DISTURBANCE
 
 

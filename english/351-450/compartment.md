@@ -1,6 +1,6 @@
 compartment
 ### Meaning
-+ _adj_: ZZA
++ __: ZZA
 	+ __eg__: ZZB
 
 ### Origin

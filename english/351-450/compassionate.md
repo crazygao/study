@@ -1,16 +1,17 @@
 compassionate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: feeling or showing sympathy for people who are suffering
+	+ __eg__: Politicians are not usually regarded as warm or compassionate people
 
 ### Origin
 
-ZZC
+[compassionate compassionately] late 16th cent.: from ↑compassion + ↑-ate, influenced by archaic French compassioné ‘feeling pity’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they showed a compassionate concern for the victims
 
-+ ZZE
++ PITYING
++ opposite(s): INDIFFERENT ; HEARTLESS
 
 
