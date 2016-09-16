@@ -1,16 +1,15 @@
 convex
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of an outline or a surface) curving out
+	+ __eg__: a convex lens/mirror
 
 ### Origin
 
-ZZC
+late 16th cent.: from Latin convexus ‘vaulted, arched’
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ CURVED OUTWARDS
++ opposite(s): CONCAVE
 
 
