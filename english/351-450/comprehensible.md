@@ -1,16 +1,17 @@
 comprehensible
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: ~ (to sb) (formal) that can be understood by sb
+	+ __eg__: easily/readily comprehensible to the average reader
 
 ### Origin
 
-ZZC
+[comprehensibility comprehensible] late 15th cent.: from French compréhensible or Latin comprehensibilis, from comprehens- ‘seized, comprised’, from the verb comprehendere, from com- ‘together’ + prehendere ‘grasp’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the information must be accurate and comprehensible
 
-+ ZZE
++ INTELLIGIBLE
++ opposite(s): INCOMPREHENSIBLE, OPAQUE
 
 

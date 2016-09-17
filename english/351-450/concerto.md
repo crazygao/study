@@ -1,16 +1,8 @@
 concerto
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a piece of music for one or more ↑solo instruments playing with an ↑orchestra
+	+ __eg__: a piano concerto
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+early 18th cent.: Italian, from concertare ‘harmonize’

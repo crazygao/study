@@ -1,16 +1,15 @@
 concave
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of an outline or a surface) curving in
+	+ __eg__: a concave lens/mirror
 
 ### Origin
 
-ZZC
+[concave] late Middle English: from Latin concavus, from con- ‘together’ + cavus ‘hollow’.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ CURVED INWARDS
++ opposite(s): CONVEX
 
 

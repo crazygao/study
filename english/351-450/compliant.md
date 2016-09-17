@@ -1,16 +1,15 @@
 compliant
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: (usually disapproving) too willing to agree with other people or to obey rules
+	+ __eg__: By then, Henry seemed less compliant with his wife's wishes than he had six months before
++ _adj_: in agreement with a set of rules
+	+ __eg__: This site is HTML compliant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her compliant husband
 
-+ ZZE
++ ACQUIESCENT
++ opposite(s): RECALCITRANT, BLOODY-MINDED
 
 
