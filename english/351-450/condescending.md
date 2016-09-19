@@ -1,16 +1,17 @@
 condescending
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: behaving as though you are more important and more intelligent than other people
+	+ __eg__: He has a condescending attitude towards women
 
 ### Origin
 
-ZZC
+Middle English (in the sense ‘give way, defer’): from Old French condescendre, from ecclesiastical Latin condescendere, from con- ‘together’ + descendere ‘descend’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she looked us up and down in a condescending manner
 
-+ ZZE
++ PATRONIZING
++ opposite(s): RESPECTFUL
 
 

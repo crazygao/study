@@ -1,16 +1,13 @@
 conciliatory
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: having the intention or effect of making angry people calm
+	+ __eg__: a conciliatory approach/attitude/gesture/move
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a conciliatory gesture
 
-+ ZZE
++ PROPITIATORY
++ opposite(s): ANTAGONISTIC
 
 
