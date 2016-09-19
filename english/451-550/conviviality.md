@@ -1,16 +1,9 @@
 conviviality
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Main entry: ↑convivial
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ FRIENDLINESS
 
 

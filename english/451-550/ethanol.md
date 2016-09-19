@@ -1,16 +1,7 @@
 ethanol
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the type of alcohol in alcoholic drinks, also used as a fuel or ↑solvent
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[ethanol] early 20th cent.: blend of ↑ethane and ↑alcohol

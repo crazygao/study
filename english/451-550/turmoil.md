@@ -1,16 +1,21 @@
 turmoil
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a state of great anxiety and confusion
+	+ __eg__: emotional/mental/political turmoil
 
 ### Origin
 
-ZZC
+early 16th cent.: of unknown origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a time of great political turmoil
 
-+ ZZE
++ CONFUSION
++ opposite(s): CALM, PEACE
+
+__eg__: as he spoke, his mind was in turmoil
+
++ IN A STATE OF CONFUSION
 
 

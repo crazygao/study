@@ -1,16 +1,8 @@
 corpuscle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: any of the red or white cells found in blood
+	+ __eg__: red/white corpuscles
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 17th cent.: from Latin corpusculum ‘small body’, diminutive of corpus

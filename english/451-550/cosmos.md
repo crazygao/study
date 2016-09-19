@@ -1,16 +1,8 @@
 cosmos
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the universe, especially when it is thought of as an ordered system
+	+ __eg__: the structure of the cosmos
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[cosmos] Middle English: from Greek kosmos ‘order or world’.

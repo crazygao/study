@@ -1,16 +1,7 @@
 cosmopolis
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A large city inhabited by people from many different countries
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[cosmo- + Greek polis, city; See pelə-3 in Indo-European Roots.]

@@ -1,16 +1,7 @@
 corrugate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: To shape into folds or parallel and alternating ridges and grooves
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin corrūgāre, corrūgāt-, to wrinkle up : com-, com- + rūgāre, to wrinkle (from rūga, wrinkle).
