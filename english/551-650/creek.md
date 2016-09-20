@@ -1,16 +1,15 @@
 creek
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_:  (BrE) a narrow area of water where the sea flows into the land
++ _noun_: (NAmE, AustralE, NZE) a small river or stream
+	+ __eg__: Sandy Creek
 
 ### Origin
 
-ZZC
+Middle English: from Old French crique or from Old Norse kriki ‘nook’; perhaps reinforced by Middle Dutch krēke; of unknown ultimate origin.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (Brit.) they're dredging for oysters in the creek
 
-+ ZZE
-
-
++ TIDAL INLET

@@ -1,16 +1,15 @@
 crescendo
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: (music) a gradual increase in how loudly a piece of music is played or sung
++ _noun_: a gradual increase in noise; the loudest point of a period of continuous noise
+	+ __eg__: Voices rose in a crescendo and drowned him out
 
 ### Origin
 
-ZZC
+late 18th cent.: Italian, present participle of crescere ‘to increase’, from Latin crescere ‘grow’
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ opposite: diminuendo
 
 

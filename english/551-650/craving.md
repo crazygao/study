@@ -1,16 +1,12 @@
 craving
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: a strong desire for sth
+	+ __eg__: ~ (for sth) a craving for chocolate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a craving for chocolate
 
-+ ZZE
++ LONGING
 
 

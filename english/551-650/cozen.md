@@ -1,16 +1,15 @@
 cozen
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt old-fashioned_: To mislead by means of a petty trick or fraud; deceive
 
 ### Origin
 
-ZZC
+[Date: 1500-1600; Origin: Probably from early Italian cozzonare, from cozzone 'buyer and seller of horses', from Latin cocio 'trader']
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (archaic) you'll not cozen me so 
 
-+ ZZE
++ TRICK
 
 

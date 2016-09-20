@@ -1,16 +1,6 @@
 crayon
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a coloured pencil or stick of soft coloured ↑chalk or ↑wax, used for drawing
+	+ __eg__: Crayoned pictures covered the walls
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt & i_: to draw something with a crayon

@@ -1,16 +1,16 @@
 credulous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: too ready to believe things and therefore easy to trick
 
 ### Origin
 
-ZZC
+[credulous] late 16th cent. (in the general sense ‘inclined to believe’): from Latin credulus (from credere ‘believe’) + ↑-ous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he sold ‘miracle’ cures to desperate and credulous clients
 
-+ ZZE
++ GULLIBLE
++ opposite(s): WORLDLY ; SUSPICIOUS
 
 
