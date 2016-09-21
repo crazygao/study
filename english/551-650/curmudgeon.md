@@ -1,16 +1,13 @@
 curmudgeon
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a bad-tempered person, often an old one
 
 ### Origin
 
-ZZC
+[curmudgeon curmudgeonly] late 16th cent.: of unknown origin.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ BAD-TEMPERED PERSON
 
 

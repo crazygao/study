@@ -1,16 +1,16 @@
 curt
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of a person's manner or behaviour) appearing rude because very few words are used, or because sth is done in a very quick way
+	+ __eg__: A curt note of rejection arrived from the company director
 
 ### Origin
 
-ZZC
+late Middle English (in the sense ‘short, shortened’): from Latin curtus ‘cut short, abridged’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: ‘No,’ was his curt reply
 
-+ ZZE
++ TERSE
 
 

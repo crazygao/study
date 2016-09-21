@@ -1,16 +1,7 @@
 cumulus
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a type of thick white cloud
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 17th cent. (denoting a heap or an accumulation): from Latin, heap

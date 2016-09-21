@@ -1,16 +1,14 @@
 curdle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: ~ (sth) when a liquid, especially milk, curdles or sth curdles it, it separates into solid and liquid parts
++ _vt & i_: ~ (sth) if sth curdles your blood or makes your blood curdle, it makes you extremely frightened or shocked
 
 ### Origin
 
-ZZC
+late 16th cent.: frequentative of obsolete curd ‘congeal’
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ CLOT
 
 

@@ -1,16 +1,8 @@
 cubicle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a small room that is made by separating off part of a larger room
+	+ __eg__: a shower cubicle
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late Middle English (in the sense ‘bedroom’): from Latin cubiculum, from cubare ‘lie down’

@@ -1,16 +1,8 @@
 culinary
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj only before noun_: connected with cooking or food
+	+ __eg__: culinary skills
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[culinary] mid 17th cent.: from Latin culinarius, from culina ‘kitchen’.

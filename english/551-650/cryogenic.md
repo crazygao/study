@@ -1,16 +1,4 @@
 cryogenic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: involving the use of very low temperatures
+	+ __eg__: a cryogenic storage system

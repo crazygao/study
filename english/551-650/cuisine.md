@@ -1,16 +1,16 @@
 cuisine
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a style of cooking
+	+ __eg__: Italian cuisine
++ _noun_: the food served in a restaurant (usually an expensive one)
+	+ __eg__: The hotel restaurant is noted for its excellent cuisine
 
 ### Origin
 
-ZZC
+late 18th cent.: French, literally kitchen, from Latin coquina, from coquere ‘to cook’.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ COOKING
 
 

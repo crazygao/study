@@ -1,16 +1,13 @@
 cupidity
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a strong desire for more wealth, possessions, power, etc. than a person needs
 
 ### Origin
 
-ZZC
+[cupidity] late Middle English: from Old French cupidite or Latin cupiditas, from cupidus ‘desirous’, from cupere ‘to desire’. Compare with ↑covet
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ GREED
 
 
