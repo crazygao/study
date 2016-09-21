@@ -1,16 +1,12 @@
 deadpan
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: without any expression or emotion; often pretending to be serious when you are joking
+	+ __eg__: deadpan humour
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he cracked jokes with a deadpan expression on his face
 
-+ ZZE
++ BLANK
 
 
