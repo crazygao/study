@@ -1,16 +1,15 @@
 conflagration
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a very large fire that destroys a lot of land or buildings
 
 ### Origin
 
-ZZC
+late 15th cent. (denoting consumption by fire): from Latin conflagratio(n-), from the verb conflagrare, from con- (expressing intensive force) + flagrare ‘to blaze’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the conflagration spread rapidly through the wooden buildings
 
-+ ZZE
++ FIRE
 
 

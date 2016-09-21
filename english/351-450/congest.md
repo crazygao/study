@@ -1,16 +1,9 @@
 congest
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To overfill or overcrowd
+	+ __eg__: Trucks congested the tunnel
++ _vt_: Pathology. To cause the accumulation of excessive blood or tissue fluid in (a vessel or organ).
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin congerere, congest-, to heap up, crowd together : com-, com- + gerere, to carry.]

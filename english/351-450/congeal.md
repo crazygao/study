@@ -1,16 +1,17 @@
 congeal
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: (of blood, fat, etc.) to become thick or solid
+	+ __eg__: The cold remains of supper had congealed on the plate
 
 ### Origin
 
-ZZC
+late Middle English: from Old French congeler, from Latin congelare, from con- ‘together’ + gelare ‘freeze’ (from gelu ‘frost’).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the blood had congealed around the cut
 
-+ ZZE
++ COAGULATE
++ opposite(s): SOFTEN ; LIQUEFY
 
 
