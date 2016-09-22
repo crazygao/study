@@ -1,16 +1,8 @@
 denture
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a set of artificial teeth
+	+ __eg__: a new pair of dentures [=false teeth]
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French, from Old French, from dent, tooth. See dentist.]

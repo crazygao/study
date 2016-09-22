@@ -1,16 +1,12 @@
 deportation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Main entry: ↑deport
+	+ __eg__: Several of the asylum seekers now face deportation
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they called for the deportation of illegal immigrants
 
-+ ZZE
++ EXPULSION
 
 

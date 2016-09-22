@@ -1,16 +1,22 @@
 deplore
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to strongly disapprove of sth and criticize it, especially publicly
+	+ __eg__: Like everyone else, I deplore and condemn this killing
 
 ### Origin
 
-ZZC
+mid 16th cent. (in the sense ‘weep for, regret deeply’): from French déplorer or Italian deplorare, from Latin deplorare, from de- ‘away, thoroughly’ + plorare ‘bewail’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__:  we deplore all use of violence and provocation
 
-+ ZZE
++ ABHOR
++ opposite(s): ADMIRE
+
+__eg__: he deplored the lack of flair in the England squad
+
++ REGRET
++ opposite(s): APPLAUD
 
 
