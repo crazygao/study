@@ -1,16 +1,10 @@
 debouch
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: To march from a narrow or confined area into the open
++ _vi_: To emerge; issue
+	+ __eg__: His companions still lay in the bed of the ravine, through which the smaller stream debouched
++ _vt_: To cause to emerge or issue
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French déboucher: dé-, out of (from Old French des-. See de-) + bouche, mouth (from Latin bucca, cheek, mouth).]

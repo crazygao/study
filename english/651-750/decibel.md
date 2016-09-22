@@ -1,16 +1,8 @@
 decibel
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a unit for measuring how loud a sound is
+	+ __eg__: Noise from the disco reached 110 decibels
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+early 20th cent.: from ↑deci- ‘ten’ + ↑bel (the unit being one tenth of a bel).

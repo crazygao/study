@@ -1,16 +1,13 @@
 debrief
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: to ask sb questions officially, in order to get information about the task that they have just completed
+	+ __eg__: He was taken to a US airbase to be debriefed on the mission
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Soviet scientists were debriefed by the KGB
 
-+ ZZE
++ QUESTION
++ opposite(s): BRIEF
 
 

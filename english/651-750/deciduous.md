@@ -1,16 +1,7 @@
 deciduous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of a tree, bush etc.) that loses its leaves every year
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[deciduous] late 17th cent.: from Latin deciduus (from decidere ‘fall down or off’) + ↑-ous

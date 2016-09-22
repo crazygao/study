@@ -1,16 +1,22 @@
 deceit
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: dishonest behaviour that is intended to make sb believe sth that is not true; an example of this behaviour
+	+ __eg__: He was accused of lies and deceit
 
 ### Origin
 
-ZZC
+Middle English: from Old French, past participle (used as a noun) of deceveir ‘deceive’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we are caught in an endless round of lies and deceit
 
-+ ZZE
++ DECEPTION
++ opposite(s): HONESTY
+
+__eg__: their life is all a deceit
+
++ SHAM
++ opposite(s): AN OPEN BOOK
 
 
