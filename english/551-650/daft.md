@@ -1,16 +1,24 @@
 daft
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (BrE, informal) silly, often in a way that is amusing
+	+ __eg__: Don't be so daft!
 
 ### Origin
 
-ZZC
+Old English gedæfte ‘mild, meek’, of Germanic origin; related to Gothic gabadan ‘become or be fitting’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: that's a daft idea
 
-+ ZZE
++ ABSURD
+
+__eg__: are you daft or something? 
+
++ SIMPLE-MINDED
+
+__eg__: she's daft about him
+
++ INFATUATED WITH
 
 

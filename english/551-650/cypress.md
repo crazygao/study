@@ -1,16 +1,8 @@
 cypress
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a tall straight ↑evergreen tree
+	+ __eg__: a backdrop of olive and cypress trees
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English: from Old French cipres, from late Latin cypressus, from Greek kuparissos.

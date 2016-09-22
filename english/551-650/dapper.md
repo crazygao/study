@@ -1,16 +1,16 @@
 dapper
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of a man) small with a neat appearance and nice clothes
 
 ### Origin
 
-ZZC
+[dapper] late Middle English: probably from a Middle Low German or Middle Dutch word meaning strong, stout.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Pablo looked very dapper in his best clothes
 
-+ ZZE
++ SMART
++ opposite(s): SCRUFFY
 
 

@@ -1,16 +1,21 @@
 dandy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a man who cares a lot about his clothes and appearance
+
++ _adj_: very good
 
 ### Origin
 
-ZZC
+late 18th cent.: perhaps a shortened form of 17th-cent. Jack-a-dandy ‘conceited fellow’ (the last element representing Dandy, a pet form of the given name Andrew)
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I even smartened myself up, becoming something of a dandy
 
-+ ZZE
++ FOP
+
+__eg__: (informal) our trip to Spain was dandy
+
++ fine
 
 

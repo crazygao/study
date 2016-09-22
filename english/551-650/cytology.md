@@ -1,16 +1,7 @@
 cytology
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the scientific study of the structure and function of cells from living things
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Date: 1800-1900; Language: Greek; Origin: kytos 'hollow container' + English -logy]

@@ -1,16 +1,7 @@
 cuticle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: an area of hard skin at the base of the nails on the fingers and toes
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 15th cent. (denoting a membrane of the body): from Latin cuticula, diminutive of cutis ‘skin’
