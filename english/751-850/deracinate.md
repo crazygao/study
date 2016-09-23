@@ -1,16 +1,7 @@
 deracinate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to force sb to leave the place or situation in which they feel comfortable
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 16th cent.: from French déraciner, from dé- (expressing removal) + racine ‘root’ (based on Latin radix)

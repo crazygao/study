@@ -1,16 +1,13 @@
 depraved
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: morally bad
+	+ __eg__: This is the work of a depraved mind
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a depraved father abused his two young daughters
 
-+ ZZE
++ CORRUPT
++ opposite(s): VIRTUOUS, MORAL
 
 

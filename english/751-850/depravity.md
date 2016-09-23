@@ -1,16 +1,17 @@
 depravity
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the state of being morally bad
+	+ __eg__: a life of depravity
 
 ### Origin
 
-ZZC
+mid 17th cent.: alteration (influenced by ↑deprave) of obsolete pravity, from Latin pravitas, from pravus ‘crooked, perverse’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she viewed her ex-husband as a monster of depravity
 
-+ ZZE
++ CORRUPTION
++ opposite(s): MORALITY
 
 
