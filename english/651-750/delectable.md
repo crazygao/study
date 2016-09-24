@@ -1,16 +1,24 @@
 delectable
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of food and drink) extremely pleasant to taste, smell or look at
+	+ __eg__: the delectable smell of freshly baked bread
++ _adj_: (humorous) (of a person) very attractive
+	+ __eg__: his delectable body
 
 ### Origin
 
-ZZC
+[delectable] late Middle English: via Old French from Latin delectabilis, from delectare ‘to charm’, frequentative of delicere.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a delectable meal
 
-+ ZZE
++ DELICIOUS
++ opposite(s): INEDIBLE, UNPALATABLE
+
+__eg__: the delectable Ms Davis
+
++ DELIGHTFUL
++ opposite(s): UGLY, UNATTRACTIVE
 
 

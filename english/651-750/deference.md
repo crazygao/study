@@ -1,16 +1,17 @@
 deference
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: behaviour that shows that you respect sb/sth
+	+ __eg__: The women wore veils in deference to the customs of the country
 
 ### Origin
 
-ZZC
+[deference deferential deferentially] mid 17th cent.: from French déférence, from déférer ‘refer’, from Latin differre, from dis- ‘apart’ + ferre ‘bring, carry’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his writings show excessive deference to the gentry
 
-+ ZZE
++ RESPECT
++ opposite(s): DISRESPECT
 
 

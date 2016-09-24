@@ -1,16 +1,4 @@
 deforestation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: the act of cutting down or burning the trees in an area
+	+ __eg__: land erosion caused by widespread deforestation

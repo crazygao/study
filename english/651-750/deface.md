@@ -1,16 +1,17 @@
 deface
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to damage the appearance of sth especially by drawing or writing on it
+	+ __eg__: They were charged with defacing public property
 
 ### Origin
 
-ZZC
+Middle English: from Old French desfacier, from des- (expressing removal) + face ‘face’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a graffiti artist who defaced buildings and motorway bridges
 
-+ ZZE
++ VANDALIZE
++ opposite(s): BEAUTIFY
 
 

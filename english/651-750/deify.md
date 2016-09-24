@@ -1,16 +1,20 @@
 deify
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to treat or worship sb as a god
+	+ __eg__: she was deified by the early Romans as a fertility goddess
 
 ### Origin
 
-ZZC
+Middle English (in the sense ‘make godlike in character’): from Old French deifier, from ecclesiastical Latin deificare, from deus ‘god’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was deified by the early Romans as a fertility goddess
 
-+ ZZE
++ WORSHIP
+
+__eg__: he was deified by his colleagues and the press
+
++ IDOLIZE
 
 

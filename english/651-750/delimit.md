@@ -1,16 +1,15 @@
 delimit
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to decide what the limits of sth are
 
 ### Origin
 
-ZZC
+mid 19th cent.: from French délimiter, from Latin delimitare, from de- ‘down, completely’ + limitare (from limes, limit- ‘boundary, limit’).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: their responsibilities will be more strictly delimited
 
-+ ZZE
++ DETERMINE
 
 

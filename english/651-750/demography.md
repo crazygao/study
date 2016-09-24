@@ -1,16 +1,8 @@
 demography
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the changing number of births, deaths, diseases, etc. in a community over a period of time; the scientific study of these changes
+	+ __eg__: the social demography of Africa
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 19th cent.: from Greek dēmos ‘the people’ + ↑-graphy.

@@ -1,16 +1,8 @@
 defoliator
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: an adult or larval insect which strips all the leaves from a tree or shrub
++ _noun_: a machine that removes the leaves from a root crop
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+from defoliate

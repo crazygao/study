@@ -1,16 +1,12 @@
 dejected
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: unhappy and disappointed
+	+ __eg__: She looked so dejected when she lost the game.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he looked so dejected that Alice began to have second thoughts
 
-+ ZZE
++ DOWNCAST
 
 
