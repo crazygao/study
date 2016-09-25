@@ -1,16 +1,21 @@
 denouement
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the end of a play, book, etc, in which everything is explained or settled; the end result of a situation
 
 ### Origin
 
-ZZC
+mid 18th cent.: French dénouement, from dénouer ‘unknot’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the film's denouement was unsatisfying and ambiguous
 
-+ ZZE
++ FINALE
++ opposite(s): BEGINNING
+
+__eg__: the debate had an unexpected denouement
+
++ OUTCOME
++ opposite(s): ORIGIN
 
 
