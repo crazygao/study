@@ -1,16 +1,17 @@
 deterioration
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Main entry: ↑deteriorate
+	+ __eg__: a serious deterioration in relations between the two countries
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a sharp deterioration in law and order
 
-+ ZZE
++ WORSENING
++ opposite(s): IMPROVEMENT
+
+__eg__: condensation in lofts can cause deterioration of the roof structure
+
++ DECAY
 
 

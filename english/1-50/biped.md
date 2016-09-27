@@ -1,16 +1,8 @@
 biped
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: any creature with two feet
+	+ __eg__: Humanoid bipeds shaped their vocal chords to reproduce the noises they heard about them
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Date: 1600-1700; Language: Latin; Origin: bipes, from bi- + pes 'foot']

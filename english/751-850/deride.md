@@ -1,16 +1,17 @@
 deride
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~ sb/sth (as sth) | + speech (formal) to treat sb/sth as ridiculous and not worth considering seriously
+	+ __eg__: His views were derided as old-fashioned
 
 ### Origin
 
-ZZC
+mid 16th cent.: from Latin deridere ‘scoff at’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the decision was derided by environmentalists
 
-+ ZZE
++ RIDICULE
++ opposite(s): RESPECT, PRAISE
 
 

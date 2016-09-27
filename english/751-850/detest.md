@@ -1,16 +1,17 @@
 detest
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt NOT used in progressive tenses_: ~ sb/sth | ~ doing sth to hate sb/sth very much
+	+ __eg__: They detested each other on sight
 
 ### Origin
 
-ZZC
+late 15th cent.: from Latin detestari, from de- ‘down’ + testari ‘witness, call upon to witness’ (from testis ‘a witness’).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I do detest social climbers
 
-+ ZZE
++ ABHOR
++ opposite(s): LOVE, ADMIRE
 
 

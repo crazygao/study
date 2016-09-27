@@ -1,16 +1,13 @@
 detrimental
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: ~ (to sb/sth) (formal) harmful
+	+ __eg__: the sun's detrimental effect on skin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the erosion will have a detrimental effect on water quality
 
-+ ZZE
++ HARMFUL
++ opposite(s): BENIGN ; BENEFICIAL
 
 

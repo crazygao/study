@@ -1,16 +1,22 @@
 deter
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: ~ (sb) (from sth/from doing sth) to make sb decide not to do sth or continue doing sth, especially by making them understand the difficulties and unpleasant results of their actions
+	+ __eg__: The present system does little to deter corporate crime
 
 ### Origin
 
-ZZC
+mid 16th cent.: from Latin deterrere, from de- ‘away from’ + terrere ‘frighten’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the high cost has deterred many from attending
 
-+ ZZE
++ PUT OFF
++ opposite(s): ENCOURAGE
+
+__eg__: the presence of a caretaker deters crime
+
++ PREVENT
++ opposite(s): ENCOURAGE
 
 

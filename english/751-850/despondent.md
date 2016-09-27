@@ -1,16 +1,12 @@
 despondent
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: ~ (about sth) | (especially NAmE) ~ (over sth) sad, without much hope
+	+ __eg__: She was becoming increasingly despondent about the way things were going
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they were tired and despondent
 
-+ ZZE
++ DISHEARTENED
 
 

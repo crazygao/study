@@ -1,16 +1,15 @@
 bibliography
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun countable_: a list of all the books and articles used in preparing a piece of writing
++ a list of books and articles that are all about a particular subject
+    + __eg__: a bibliography
 
-### Origin
-
-ZZC
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ list of references
++ book list
++ catalogue
 
 

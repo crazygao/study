@@ -1,16 +1,6 @@
 biosphere
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
++ the part of the world in which animals, plants etc can live
 
 

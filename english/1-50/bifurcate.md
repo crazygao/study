@@ -1,16 +1,14 @@
 bifurcate
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: if a road, river etc bifurcates, it divides into two separate parts
+    + __eg__: 
++ _noun_: bifurcation
 
 ### Origin
 
-ZZC
+early 17th cent.: from medieval Latin bifurcat- ‘divided into two forks’, from the verb bifurcare, from Latin bifurcus ‘two-forked’, from bi- ‘having two’ + furca ‘a fork’.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
-
-
++ fork diverge

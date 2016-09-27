@@ -1,16 +1,16 @@
 bigot
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: a person who has very strong, unreasonable beliefs or opinions about race, religion or politics and who will not listen to or accept the opinions of anyone who disagrees
+    + __eg__: a religious/racial bigot
 
 ### Origin
 
-ZZC
+late 16th cent. (denoting a superstitious religious hypocrite): from French, of unknown origin.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
-
++ DOGMATIST
++ partisan
++ sectarian
 

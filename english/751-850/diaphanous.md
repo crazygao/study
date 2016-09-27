@@ -1,16 +1,16 @@
 diaphanous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of cloth) so light and fine that you can almost see through it
 
 ### Origin
 
-ZZC
+[diaphanous] early 17th cent.: from medieval Latin diaphanus, from Greek diaphanēs, from dia ‘through’ + phainein ‘to show’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she wore a diaphanous dress of pale gold
 
-+ ZZE
++ SHEER
++ opposite(s): THICK ; OPAQUE
 
 

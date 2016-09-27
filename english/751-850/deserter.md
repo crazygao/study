@@ -1,16 +1,16 @@
 deserter
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: a person who leaves the army, navy, etc. without permission (= ↑deserts )
+	+ __eg__: He was convicted of hiding deserters
 
 ### Origin
 
-ZZC
+mid 17th cent.: from ↑desert ‘ abandon’, on the pattern of French déserteur.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a deserter from the Foreign Legion
 
-+ ZZE
++ ABSCONDER
 
 

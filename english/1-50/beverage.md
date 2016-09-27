@@ -1,16 +1,18 @@
 beverage
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun countable_: formal, a hot or cold drink
+    + __eg__: alcoholic beverages
+    + __eg__: the Food and Beverage Manager
 
 ### Origin
 
-ZZC
+Old French bevrage, from beivre 'to drink', from Latin bibere
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ drink
++ liquid refreshment
++ archaic potation
 
 

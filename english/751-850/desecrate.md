@@ -1,16 +1,17 @@
 desecrate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to damage a holy thing or place or treat it without respect
+	+ __eg__: desecrated graves
 
 ### Origin
 
-ZZC
+late 17th cent.: from ↑de- (expressing reversal) + a shortened form of ↑consecrate.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: invaders desecrated the temple
 
-+ ZZE
++ VIOLATE
++ opposite(s): VENERATE ; SANCTIFY
 
 

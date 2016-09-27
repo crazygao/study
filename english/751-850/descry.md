@@ -1,16 +1,15 @@
 descry
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to suddenly see sb/sth
 
 ### Origin
 
-ZZC
+Middle English: Old French descrier ‘publish, proclaim’, perhaps confused with obsolete descry ‘describe’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (poetic/literary) she descried two figures
 
-+ ZZE
++ SPOT
 
 

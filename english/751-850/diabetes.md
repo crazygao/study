@@ -1,16 +1,7 @@
 diabetes
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: a medical condition which makes the patient produce a lot of ↑urine and feel very thirsty. There are several types of diabetes
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[diabetes] mid 16th cent.: via Latin from Greek, literally siphon, from diabainein ‘go through’.

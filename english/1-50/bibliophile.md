@@ -1,16 +1,15 @@
 bibliophile
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: someone who likes books
 
 ### Origin
-
-ZZC
+early 19th cent.: from French, from Greek biblion ‘book’ + philos ‘loving’.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ BOOK LOVER
++ informal book worm
++ rare bibliomaniac
 
 

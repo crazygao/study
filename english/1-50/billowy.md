@@ -1,16 +1,17 @@
 billowy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: characterized by great swelling waves or surges
+    + __eg__: billowy storm clouds
 
 ### Origin
 
-ZZC
+billow
 
 ### Synonym
 
-__eg__: ZZD
++ billowing
++ surging
++ stormy
 
-+ ZZE
 
 

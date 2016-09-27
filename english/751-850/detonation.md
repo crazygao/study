@@ -1,16 +1,15 @@
 detonation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: an explosion; the action of making sth explode
 
 ### Origin
 
-ZZC
+late 17th cent.: from French détonation, from the verb détoner, from Latin detonare ‘thunder down’, from de- ‘down’ + tonare ‘to thunder’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the detonation of the first atomic bomb
 
-+ ZZE
++ EXPLOSION
 
 

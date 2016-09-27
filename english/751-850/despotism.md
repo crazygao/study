@@ -1,16 +1,13 @@
 despotism
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the rule of a ↑despot
 
 ### Origin
 
-ZZC
+[despotism] early 18th cent.: from French despotisme, from despote, via medieval Latin from Greek despotēs ‘master, absolute ruler’.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ TYRANNY
 
 

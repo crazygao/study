@@ -1,16 +1,12 @@
 destitution
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Main entry: ↑destitute
+	+ __eg__: homelessness and destitution
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he died leaving a wife and child in destitution
 
-+ ZZE
++ DIRE POVERTY
 
 

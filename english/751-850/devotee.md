@@ -1,16 +1,18 @@
 devotee
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: ~ (of sb/sth) a person who admires and is very enthusiastic about sb/sth
+	+ __eg__: a devotee of science fiction
++ _noun_: ~ (of sb/sth) a very religious person who belongs to a particular group
+	+ __eg__: devotees of Krishna
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a devotee of rock music
 
-+ ZZE
++ ENTHUSIAST
+
+__eg__: devotees thronged the temple
+
++ FOLLOWER
 
 

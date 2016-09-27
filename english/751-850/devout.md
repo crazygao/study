@@ -1,16 +1,22 @@
 devout
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: (of a person) believing strongly in a particular religion and obeying its laws and practices
+	+ __eg__: a devout Christian/Muslim
 
 ### Origin
 
-ZZC
+[devout devoutly] Middle English: from Old French devot, from Latin devotus ‘devoted’, past participle of devovere, from de- ‘formally’ + vovere ‘to vow’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a devout Christian
 
-+ ZZE
++ PIOUS
++ opposite(s): INSINCERE ; LAPSED
+
+__eg__: a devout soccer fan
+
++ DEDICATED
++ opposite(s): APATHETIC
 
 

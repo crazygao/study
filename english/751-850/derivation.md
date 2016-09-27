@@ -1,16 +1,20 @@
 derivation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: the origin or development of sth, especially a word
+	+ __eg__: a word of Greek derivation
 
 ### Origin
 
-ZZC
+late Middle English (denoting the drawing of a fluid, especially pus or blood; also in the sense ‘formation of a word from another word’): from Latin derivatio(n-), from the verb derivare, from de- ‘down, away’ + rivus ‘brook, stream’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the derivation of universal laws from empirical observation
 
-+ ZZE
++ DERIVING
+
+__eg__: the derivation of the word ‘toff’ 
+
++ ORIGIN
 
 

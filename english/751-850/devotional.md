@@ -1,16 +1,12 @@
 devotional
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: (of music, etc.) connected with or used in religious services
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the devotional paintings of the period
 
-+ ZZE
++ RELIGIOUS
++ opposite(s): SECULAR
 
 

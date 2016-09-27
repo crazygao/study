@@ -1,16 +1,13 @@
 despotic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: ↑despot
+	+ __eg__: despotic power/rule
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a despotic regime
 
-+ ZZE
++ AUTOCRATIC
++ opposite(s): DEMOCRATIC, ACCOUNTABLE
 
 

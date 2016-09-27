@@ -1,16 +1,22 @@
 bewilder
+
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: [usually passive] to confuse someone
+    + __eg__: He was bewildered by his daughter's reaction
 
 ### Origin
 
-ZZC
+wilder 'to lead the wrong way, confuse'
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: His words bewildered Sally
 
-+ ZZE
++ baffle
++ mystify
++ bemuse
 
+### Antonym
+
++ enlighten
 
