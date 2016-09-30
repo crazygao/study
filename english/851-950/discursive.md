@@ -1,16 +1,22 @@
 discursive
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Covering a wide field of subjects; rambling
++ _adj_: Proceeding to a conclusion through reason rather than intuition
 
 ### Origin
 
-ZZC
+[Medieval Latin discursīvus, from Latin discursus, running about. See discourse.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: dull, discursive prose
 
-+ ZZE
++ RAMBLING
++ opposite(s): CONCISE
+
+__eg__: an elegant piece of work combining sound judgement with an excellent discursive style
+
++ FLUENT
++ opposite(s): TERSE
 
 

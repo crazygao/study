@@ -1,16 +1,7 @@
 disenchant
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: To free from illusion or false belief; undeceive
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Obsolete French desenchanter, from Old French, to break a spell : des-, dis- + enchanter, to enchant; see enchant.]

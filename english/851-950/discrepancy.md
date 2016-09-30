@@ -1,16 +1,17 @@
 discrepancy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a difference between two or more things that should be the same
+	+ __eg__: wide discrepancies in prices quoted for the work
 
 ### Origin
 
-ZZC
+early 17th cent.: from Latin discrepantia, from discrepare ‘be discordant’, from dis- ‘apart, away’ + crepare ‘to creak’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the discrepancy between the two sets of figures
 
-+ ZZE
++ INCONSISTENCY
++ opposite(s): SIMILARITY, CORRESPONDENCE
 
 

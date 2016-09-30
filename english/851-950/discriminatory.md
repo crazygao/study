@@ -1,16 +1,13 @@
 discriminatory
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: unfair; treating sb or one group of people worse than others
+	+ __eg__: discriminatory practices/rules/measures
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: discriminatory employment practices
 
-+ ZZE
++ PREJUDICIAL
++ opposite(s): IMPARTIAL, FAIR
 
 

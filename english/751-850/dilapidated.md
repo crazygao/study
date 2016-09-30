@@ -1,16 +1,13 @@
 dilapidated
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: (of furniture and buildings) old and in very bad condition
+	+ __eg__: The old house was in a somewhat dilapidated condition
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a terrace of dilapidated Edwardian houses
 
-+ ZZE
++ RUN DOWN
++ opposite(s): SMART ; INTACT
 
 

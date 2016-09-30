@@ -1,16 +1,12 @@
 discomfiture
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Main entry: ↑discomfit
+	+ __eg__: He was clearly taking delight in her discomfiture
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Sweetman laughed at her obvious discomfiture
 
-+ ZZE
++ EMBARRASSMENT
 
 

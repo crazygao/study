@@ -1,16 +1,29 @@
 dire
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj usu before noun_: (formal) very serious
+	+ __eg__: living in dire poverty
++ _adj_: (BrE, informal) very bad
+	+ __eg__: The acting was dire.
 
 ### Origin
 
-ZZC
+mid 16th cent.: from Latin dirus ‘fearful, threatening’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the dire economic situation
 
-+ ZZE
++ TERRIBLE
++ opposite(s): GOOD
+
+__eg__: he was in dire need of help
+
++ URGENT
++ opposite(s): MILD
+
+__eg__: dire warnings of fuel shortages
+
++ OMINOUS
++ opposite(s): ENCOURAGING
 
 

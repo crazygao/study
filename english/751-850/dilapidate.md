@@ -1,16 +1,9 @@
 dilapidate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: To bring or fall into a state of partial ruin, decay, or disrepair
++ _vt & i_: ZZA
+	+ __eg__: Archaic. To squander; waste.
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin dīlapidāre, dīlapidāt-, to demolish, destroy : dī-, dis-, apart; see dis- + lapidāre, to throw stones (from lapis, lapid-, stone).]

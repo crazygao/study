@@ -1,16 +1,23 @@
 dilettante
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a person who does or studies sth but is not serious about it and does not have much knowledge
++ _adj_: Main entry: ↑dilettante
+	+ __eg__: a dilettante artist
 
 ### Origin
 
-ZZC
+mid 18th cent.: from Italian, person loving the arts, from dilettare ‘to delight’, from Latin delectare
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there is no room for the dilettante in this business
 
-+ ZZE
++ DABBLER
++ opposite(s): PROFESSIONAL
+
+__eg__: (archaic) heaven forbid that the dilettantes should all turn painters
+
++ ART LOVER
++ opposite(s): PHILISTINE
 
 

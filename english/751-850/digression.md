@@ -1,6 +1,6 @@
 digression
 ### Meaning
-+ _adj_: ZZA
++ _noun_: ZZA
 	+ __eg__: ZZB
 
 ### Origin

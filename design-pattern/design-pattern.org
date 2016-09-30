@@ -1,0 +1,85 @@
+* Design Pattern
+  http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html
+
+** Design Pattern Category
+   1. Creation: Factory, Abstract Factory, Singleton, Builder, Prototype
+   2. Structure: Adapter, Decorator, Proxy, Outlook, Bridge, Composite, Shared
+   3. Behavior: Strategy, Template, Observer, Iterator, Resposibility, Command, Reminder, State, Visitor, Mediator, Intepreter
+   4. Other: Parallel, ThreadPool
+
+** Design Pattern Principles
+
+*** Open Close Principle
+    Open to Extensions, Close to Modifications
+
+*** Liskov Substitution Principle, LSP
+    From where a base class appears, a inherited class could appear
+
+*** Dependence Inversion Principle
+    Code against Interface
+
+*** Interface Segregation Principle
+    Use Multiple Segregated Interfaces > Use Simgle Complicated Interface
+
+*** Demeter Principle
+    Entity should eliminate interactions between other entities
+
+*** Composite Reuse Principle
+    Use Composition instead of inheritance
+    
+** Design Pattern
+
+*** Factory: Normal Factory
+    Create Name -> Creator Dictonary.
+
+*** Factory: Multi-Factory
+    Class Method Name -> Creator Dictionary.
+
+*** Factory: Static Factory
+    Static Method Name -> Creator Dictionary.
+
+*** Factory: Abstract Factory, to remove code injection to Factory Class
+    Interface -> New Class -> Creator Dictionary
+
+*** Singleton: Only one instance.
+    Class -> private static Class variable
+    Class -> private constructor()
+    Class -> public getInstance()
+    Class -> public readResolve()
+
+    Synchronized Singleton creation and get.
+
+*** Builder: Create and Maintain a <DataStructure> of some classes
+
+*** Prototype: Clone in a chain.
+
+*** Adapter: Adapter for Class, Ways to implement a Interface.
+    Adapter A extends Source implements Target(INTF)
+    
+*** Adapter: Adapter for Instance
+    Adapter A has Source implements Target(INTF)
+
+*** Adapter: Adapter for Interface
+    Abstract Wrapper: Skeleton for the Interface.
+    Inherit from the Wrapper to make the real implementation.
+
+*** Decorator: Some other languages use this as a great syntax sugar. python.
+    Code before, code after.
+    Very little relation with which interface you want to implement
+    
+*** Proxy: Class you want to delegate you internal source.
+    Who implement the proxy is KEY
+
+*** Facade: Configuration for your classes.
+
+*** Bridge: Separate Instances and Interfaces.
+    A, B implements INTF
+    C is bridge of A & B, it can set source to either A or B.
+    D uses C as a bridge.
+
+*** Composite: Often Used in Data structure, such as tree.
+    
+*** Flyweight: Connection Pool.
+
+*** Strategy: Change algorithm core will not affect your 
+

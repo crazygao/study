@@ -1,16 +1,9 @@
 discombobulate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To throw into a state of confusion. See Synonyms at confuse
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
+[Perhaps alteration of discompose.]
 
 

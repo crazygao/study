@@ -1,16 +1,3 @@
 discompose
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: ~ sb (formal) to disturb sb and make them feel anxious

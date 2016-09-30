@@ -1,16 +1,17 @@
 dingy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: dark and dirty
+	+ __eg__: a dingy room/hotel
 
 ### Origin
 
-ZZC
+mid 18th cent.: perhaps based on Old English dynge ‘dung’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a dingy bed-sitting room
 
-+ ZZE
++ GLOOMY
++ opposite(s): BRIGHT ; CLEAN
 
 

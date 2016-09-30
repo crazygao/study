@@ -1,16 +1,7 @@
 discombobulated
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: completely confused – used humorously
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Date: 1800-1900; Origin: Probably from discompose or discomfit]

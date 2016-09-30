@@ -1,16 +1,17 @@
 discomfit
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt often passive_: ~ sb (literary) to make sb feel confused or embarrassed
+	+ __eg__: He was not noticeably discomfited by the request
 
 ### Origin
 
-ZZC
+Middle English (in the sense ‘defeat in battle’): from Old French desconfit, past participle of desconfire, based on Latin dis- (expressing reversal) + conficere ‘put together’, from con- ‘together’ + facere ‘make’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she kissed Sir John on the cheek, which discomfited him even more
 
-+ ZZE
++ EMBARRASS
++ opposite(s): REASSURE
 
 
