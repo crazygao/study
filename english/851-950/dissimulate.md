@@ -1,16 +1,15 @@
 dissimulate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: to hide your real feelings or intentions, often by pretending to have different ones
 
 ### Origin
 
-ZZC
+late Middle English: from Latin dissimulat- ‘hidden, concealed’, from the verb dissimulare
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: now they have power, they no longer need to dissimulate
 
-+ ZZE
++ PRETEND
 
 

@@ -1,16 +1,17 @@
 dissemble
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: to hide your real feelings or intentions, often by pretending to have different ones
+	+ __eg__: She was a very honest person who was incapable of dissembling
 
 ### Origin
 
-ZZC
+late Middle English: alteration (suggested by ↑semblance) of obsolete dissimule, via Old French from Latin dissimulare ‘disguise, conceal’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she is an honest, sincere person who has no need to dissemble
 
-+ ZZE
++ DISSIMULATE
++ opposite(s): REVEAL THE TRUTH
 
 

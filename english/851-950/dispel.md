@@ -1,16 +1,17 @@
 dispel
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to make sth, especially a feeling or belief, go away or disappear
+	+ __eg__: His speech dispelled any fears about his health
 
 ### Origin
 
-ZZC
+late Middle English: from Latin dispellere, from dis- ‘apart’ + pellere ‘to drive’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the sunshine did nothing to dispel her feelings of dejection
 
-+ ZZE
++ BANISH
++ opposite(s): ENGENDER
 
 

@@ -1,16 +1,13 @@
 disrepute
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: the fact that sb/sth loses the respect of other people
+	+ __eg__: The players' behaviour on the field is likely to bring the game into disrepute
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Beth had shamed herself and brought the family name into disrepute
 
-+ ZZE
++ DISGRACE
++ opposite(s): HONOUR
 
 

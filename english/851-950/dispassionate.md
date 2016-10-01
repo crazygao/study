@@ -1,16 +1,18 @@
 dispassionate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: not influenced by emotion
+	+ __eg__: taking a calm, dispassionate view of the situation
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she dealt with life's disasters in a dispassionate way
 
-+ ZZE
++ UNEMOTIONAL
++ opposite(s): EMOTIONAL
+
+__eg__: a dispassionate analysis of the issues
+
++ OBJECTIVE
++ opposite(s): BIASED
 
 

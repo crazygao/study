@@ -1,16 +1,21 @@
 disrupt
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to make it difficult for sth to continue in the normal way
+	+ __eg__: Demonstrators succeeded in disrupting the meeting
 
 ### Origin
 
-ZZC
+late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a 24 hour strike disrupted public transport
 
-+ ZZE
++ THROW INTO CONFUSION
+
+__eg__: the explosion would disrupt the walls of the crater
+
++ opposite(s): ORGANIZE ; ARRANGE
++ DISTORT
 
 

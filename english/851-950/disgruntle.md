@@ -1,16 +1,7 @@
 disgruntle
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: To make discontented
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[dis- + gruntle, to grumble (from Middle English gruntelen, frequentative of grunten, to grunt. See grunt).]

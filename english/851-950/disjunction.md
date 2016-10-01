@@ -1,16 +1,10 @@
 disjunction
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: The act of disjoining or the condition of being disjointed
+	+ __eg__: the wide disjunction between the cultural norms of his home and community and those of the school
++ _noun_: Logic. A proposition that presents two or more alternative terms, with the assertion that only one is true
++ _noun_: Genetics. The separation of homologous chromosomes during meiosis
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late Middle English: from Latin disjunctio(n-), from disjungere ‘disjoin’.

@@ -1,16 +1,17 @@
 disparity
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a difference, especially one connected with unfair treatment
+	+ __eg__: the wide disparity between rich and poor
 
 ### Origin
 
-ZZC
+mid 16th cent.: from French disparité, from late Latin disparitas, based on Latin paritas ‘parity’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there was a disparity between the two sets of figures
 
-+ ZZE
++ DISCREPANCY
++ opposite(s): PARITY, SIMILARITY
 
 

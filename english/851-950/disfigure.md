@@ -1,16 +1,17 @@
 disfigure
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to spoil the appearance of a person, thing or place
+	+ __eg__: Her face was disfigured by a long red scar
 
 ### Origin
 
-ZZC
+late Middle English: from Old French desfigurer, based on Latin figura ‘figure’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: disused quarries remain to disfigure the landscape
 
-+ ZZE
++ MAR
++ opposite(s): BEAUTIFY, ADORN, ENHANCE
 
 

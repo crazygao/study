@@ -1,16 +1,17 @@
 disprove
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: to show that sth is wrong or false
+	+ __eg__: The theory has now been disproved
 
 ### Origin
 
-ZZC
+late Middle English: from Old French desprover.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: new forensic evidence disproved the allegations
 
-+ ZZE
++ REFUTE
++ opposite(s): PROVE
 
 
