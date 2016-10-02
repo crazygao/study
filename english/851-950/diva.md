@@ -1,16 +1,9 @@
 diva
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: An operatic prima donna
++ _noun_: A very successful singer of nonoperatic music
+	+ __eg__: a jazz diva
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Italian, from Latin dīva, goddess, feminine of dīvus, god. See dyeu- in Indo-European Roots.]

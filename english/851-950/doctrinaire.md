@@ -1,16 +1,17 @@
 doctrinaire
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: strictly following a theory in all circumstances, even if there are practical problems or disagreement
+	+ __eg__: a doctrinaire communist
 
 ### Origin
 
-ZZC
+early 19th cent.: from French, from doctrine, from Latin doctrina ‘teaching, learning’, from doctor ‘teacher’, from docere ‘teach’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: democratic socialism was feared by doctrinaire Marxists
 
-+ ZZE
++ DOGMATIC
++ opposite(s): LIBERAL ; FLEXIBLE
 
 

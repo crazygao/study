@@ -1,16 +1,17 @@
 divulge
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: ~ sth (to sb) | ~ what, whether, etc… (formal) to give sb information that is supposed to be secret
+	+ __eg__: Police refused to divulge the identity of the suspect
 
 ### Origin
 
-ZZC
+late Middle English (in the sense ‘announce publicly’): from Latin divulgare, from di- ‘widely’ + vulgare ‘publish’ (from vulgus ‘common people’).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he refused to divulge Father O'Neill's whereabouts
 
++ DISCLOSE
 + ZZE
 
 

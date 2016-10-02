@@ -1,16 +1,8 @@
 ditty
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: a short simple song
+	+ __eg__: It reminds me of a little music-hall ditty my grandad used to sing
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English: from Old French dite ‘composition’, from Latin dictatum (neuter) ‘something dictated’, from dictare ‘to dictate’.

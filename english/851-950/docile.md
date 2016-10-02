@@ -1,16 +1,17 @@
 docile
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: quiet and easy to control
+	+ __eg__: a docile child/horse
 
 ### Origin
 
-ZZC
+[docile docilely docility] late 15th cent. (in the sense ‘apt or willing to learn’): from Latin docilis, from docere ‘teach’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Alex was of a docile nature and readily deferred to his parents
 
-+ ZZE
++ COMPLIANT
++ opposite(s): DISOBEDIENT ; WILFUL
 
 
