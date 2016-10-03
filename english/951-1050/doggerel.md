@@ -1,16 +1,7 @@
 doggerel
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[doggerel] late Middle English (as an adjective describing such verse): apparently from ↑dog (used contemptuously, as in dog Latin, a debased form of Latin) + -rel

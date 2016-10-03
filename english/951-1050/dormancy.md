@@ -1,16 +1,4 @@
 dormancy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Main entry: ↑dormant
+	+ __eg__: The volcano has been in a state of dormancy for many years

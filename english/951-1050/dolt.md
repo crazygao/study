@@ -1,16 +1,15 @@
 dolt
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A stupid person; a dunce
 
 ### Origin
 
-ZZC
+[Middle English dulte, from past participle of dullen, to dull, from dul, dull. See dull.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he makes me feel like a dolt
 
-+ ZZE
++ IDIOT
 
 

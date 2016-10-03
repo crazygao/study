@@ -1,16 +1,4 @@
 draftsmanship
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: = ↑draughtsmanship,the ability to draw well
+	+ __eg__: Her work shows sophisticated draftsmanship

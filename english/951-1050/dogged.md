@@ -1,16 +1,13 @@
 dogged
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj usu before noun_: showing determination; not giving up easily
+	+ __eg__: dogged determination/persistence
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a fine player and a dogged opening batsman
 
-+ ZZE
++ TENACIOUS
++ opposite(s): HESITANT ; HALF-HEARTED
 
 

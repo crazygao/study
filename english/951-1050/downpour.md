@@ -1,16 +1,12 @@
 downpour
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A heavy fall of rain
+	+ __eg__: We got caught in a torrential downpour
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the drizzle was becoming a downpour
 
-+ ZZE
++ RAINSTORM
 
 

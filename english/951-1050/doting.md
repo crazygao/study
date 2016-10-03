@@ -1,16 +1,13 @@
 doting
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj only before noun_: showing a lot of love for sb, often ignoring their faults
+	+ __eg__: a doting mother/father
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: all her doting admirers
 
-+ ZZE
++ ADORING
++ opposite(s): STONY
 
 

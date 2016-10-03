@@ -1,16 +1,14 @@
 doleful
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Filled with or expressing grief; mournful
++ _adj_: Causing grief
+	+ __eg__: a doleful loss
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she regarded him with doleful eyes
 
-+ ZZE
++ MOURNFUL
++ opposite(s): CHEERFUL
 
 

@@ -1,16 +1,4 @@
 downplay
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To minimize the significance of; play down
+	+ __eg__: downplayed the bad news
