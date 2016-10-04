@@ -1,16 +1,4 @@
 eclecticism
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An eclectic system or method
+	+ __eg__: Critics praised the originality and eclecticism of her work

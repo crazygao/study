@@ -1,16 +1,4 @@
 earsplitting
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Loud and shrill enough to hurt the ears
+	+ __eg__: The train's whistle made an earsplitting noise

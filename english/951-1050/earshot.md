@@ -1,16 +1,4 @@
 earshot
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The range within which sound can be heard by the unaided ear; hearing distance
+	+ __eg__: listened until the parade was out of earshot

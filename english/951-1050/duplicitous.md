@@ -1,16 +1,4 @@
 duplicitous
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Given to or marked by deliberate deceptiveness in behavior or speech
+	+ __eg__: duplicitous [=deceptive] tactics

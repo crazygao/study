@@ -1,16 +1,13 @@
 drudgery
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Tedious, menial, or unpleasant work
+	+ __eg__: domestic drudgery
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the housewives were left alone with their drudgery
 
-+ ZZE
++ HARD WORK
++ opposite(s): RELAXATION
 
 

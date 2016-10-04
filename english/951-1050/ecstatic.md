@@ -1,16 +1,18 @@
 ecstatic
 ### Meaning
-+ _adj_: ZZA
++ _adj_: Marked by or expressing ecstasy
++ _adj_: Being in a state of ecstasy; joyful or enraptured
 	+ __eg__: ZZB
 
 ### Origin
 
-ZZC
+[French extatique, from Greek ekstatikos, from ekstasis, distraction. See ecstasy.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was sometimes ecstatic with love
 
-+ ZZE
++ ENRAPTURED
++ opposite(s): MISERABLE
 
 

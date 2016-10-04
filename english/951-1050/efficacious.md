@@ -1,16 +1,17 @@
 efficacious
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Producing or capable of producing a desired effect
+	+ __eg__: They hope the new drug will prove especially efficacious in the relief of pain
 
 ### Origin
 
-ZZC
+[From Latin efficāx, efficāc-, from efficere, to effect. See effect.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a change in diet may be as efficacious as treatment with steroids
 
-+ ZZE
++ EFFECTIVE
++ opposite(s): INEFFICACIOUS
 
 

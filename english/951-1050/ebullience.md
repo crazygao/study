@@ -1,16 +1,13 @@
 ebullience
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Zestful enthusiasm
+	+ __eg__: I put her remarks down to youthful ebullience
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the director's ebullience is a fantastic morale booster for the cast
 
-+ ZZE
++ EXUBERANCE
++ opposite(s): DEPRESSION
 
 

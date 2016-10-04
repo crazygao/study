@@ -1,16 +1,5 @@
 egotistic
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: = egotist 
+ 1. A conceited, boastful person.
+ 2. A selfish, self-centered person

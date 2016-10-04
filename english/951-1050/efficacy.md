@@ -1,16 +1,17 @@
 efficacy
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Power or capacity to produce a desired effect; effectiveness
+	+ __eg__: to evaluate the efficacy and safety of the treatment
 
 ### Origin
 
-ZZC
+[Latin efficācia, from efficāx, efficāc-, efficacious. See efficacious.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: information on the safety and efficacy of drugs
 
-+ ZZE
++ EFFECTIVENESS
++ opposite(s): INEFFICACY
 
 

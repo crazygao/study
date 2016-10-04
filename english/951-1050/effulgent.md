@@ -1,16 +1,7 @@
 effulgent
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Shining brilliantly; resplendent
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin effulgēns, effulgent- present participle of effulgēre, to shine out : ex-, ex- + fulgēre, to shine; See bhel-1 in Indo-European Roots.
