@@ -1,16 +1,16 @@
 emissary
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: An agent sent on a mission to represent or advance the interests of another
+	+ __eg__: the King's special emissary
 
 ### Origin
 
-ZZC
+[Latin ēmissārius, from ēmissus, past participle of ēmittere, to send out. See emit.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he sent an emissary to Constantinople for bilateral talks
 
-+ ZZE
++ ENVOY
 
 

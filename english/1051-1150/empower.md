@@ -1,16 +1,19 @@
 empower
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To invest with power, especially legal power or official authority
++ _vt_: To equip or supply with an ability; enable
+	+ __eg__: “Computers... empower students to become intellectual explorers” (Edward B. Fiske).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the Act empowered Henry to punish heretics
 
-+ ZZE
++ AUTHORIZE
++ opposite(s): FORBID
+
+__eg__: movements to empower the poor
+
++ EMANCIPATE
++ opposite(s): ENSLAVE
 
 

@@ -1,16 +1,23 @@
 elliptical
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: having the shape of an ellipse
+	+ __eg__: Kepler published his discovery of the elliptical orbits of planets in 1609
++ _adj_: elliptical speech or writing is difficult to understand because more is meant than is actually said
+	+ __eg__: The language is often elliptical and ambiguous
 
 ### Origin
 
-ZZC
+[Date: 1600-1700; Language: Greek; Origin: elleiptikos, from elleipein; ⇨ ↑ellipsis]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an elliptical orbit 
 
-+ ZZE
++ OVAL
+
+__eg__: the elliptical phraseology of the law
+
++ TERSE
++ opposite(s): CLEAR, DIRECT
 
 

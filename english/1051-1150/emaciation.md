@@ -1,16 +1,13 @@
 emaciation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: ↑emaciated
+	+ __eg__: She was very thin, almost to the point of emaciation
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: animal rescue workers took away goats suffering from emaciation
 
-+ ZZE
++ STARVATION
++ opposite(s): OBESITY
 
 

@@ -1,16 +1,8 @@
 emulsify
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To make into an emulsion
+	+ __eg__: emulsify oil and vinegar
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[emulsion + -fy.]

@@ -1,16 +1,13 @@
 embolden
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To foster boldness or courage in; encourage
+	+ __eg__: With such a majority, the administration was emboldened to introduce radical new policies
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: emboldened by the brandy, he walked over to her table
 
-+ ZZE
++ GIVE COURAGE
++ opposite(s): DISHEARTEN, DISCOURAGE
 
 

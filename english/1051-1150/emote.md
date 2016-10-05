@@ -1,16 +1,8 @@
 emote
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vi_: To express emotion, especially in an excessive or theatrical manner
+	+ __eg__: “The more she emotes, the less he listens, and the less he listens, the more strident and emotive she becomes” (Maggie Scarf).
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Back-formation from emotion.]

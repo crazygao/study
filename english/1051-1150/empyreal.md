@@ -1,16 +1,9 @@
 empyreal
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Empyrean
++ _adj_: Of the sky; celestial
++ _adj_: Elevated; sublime
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English emperiall, from Medieval Latin empyreus, from Late Latin empyrius, fiery, from Greek empurios: en-, in; see en-2 + pūr, fire; See paəwr̥ in Indo-European Roots.]

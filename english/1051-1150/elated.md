@@ -1,16 +1,13 @@
 elated
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Exultantly proud and joyful
+	+ __eg__: They were elated at the result
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was elated at having pocketed some £400,000
 
-+ ZZE
++ THRILLED
++ opposite(s): MISERABLE
 
 

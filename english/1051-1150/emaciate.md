@@ -1,16 +1,7 @@
 emaciate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt & i_: To make or become extremely thin, especially as a result of starvation
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin ēmaciāre, ēmaciāt- : ē-, ex-, intensive pref.; see ex- + maciāre, to make thin; See māk- in Indo-European Roots.]

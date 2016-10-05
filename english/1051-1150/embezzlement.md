@@ -1,16 +1,12 @@
 embezzlement
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: ↑embezzle
+	+ __eg__: She was found guilty of embezzlement
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the embezzlement of public funds
 
-+ ZZE
++ MISAPPROPRIATION
 
 
