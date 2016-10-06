@@ -1,16 +1,13 @@
 enrapture
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To fill with rapture or delight
+	+ __eg__: All of us in the theatre were enraptured by the music
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: all of us in the theatre were enraptured by the music
 
-+ ZZE
++ DELIGHT
++ opposite(s): REPEL
 
 

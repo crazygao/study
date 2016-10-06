@@ -1,16 +1,19 @@
 entreat
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To make an earnest request of
+	+ __eg__: Please help me, I entreat you
++ _vt_: To ask for earnestly; petition for
++ _vt_: Archaic. To deal with; treat
++ _vi_: To make an earnest request or petition
 
 ### Origin
 
-ZZC
+[Middle English entreten, from Anglo-Norman entreter: en-, causative pref.; see en-1 + treter, to treat; see treat.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: my lord, I entreat you to believe what you find in this letter
 
-+ ZZE
++ IMPLORE
 
 

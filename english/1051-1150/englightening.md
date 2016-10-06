@@ -1,16 +1,4 @@
-englightening
+enlightening
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Main entry: ↑enlighten
+	+ __eg__: It was a very enlightening interview

@@ -1,16 +1,18 @@
 enamor
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To attract and hold by charm, beauty, or excellence.
+	+ __eg__: The children were captivated by her stories
++ _vt_: Archaic. To capture
 
 ### Origin
 
-ZZC
+[Late Latin captivāre, captivāt-, to capture, from Latin captīvus, prisoner. See captive.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his audiences found themselves captivated by his energy and enthusiasm
 
-+ ZZE
++ ENTHRAL
++ opposite(s): REPEL ; BORE
 
 

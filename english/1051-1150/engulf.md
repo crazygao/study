@@ -1,16 +1,16 @@
 engulf
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To swallow up or overwhelm by or as if by overflowing and enclosing
+	+ __eg__: The spring tide engulfed the beach houses
 
 ### Origin
 
-ZZC
+mid 16th cent. (formerly also as ingulf): from ↑en-, ↑in- ‘in, on’ + ↑gulf
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: their new home was engulfed by stinking brown flood water
 
-+ ZZE
++ INUNDATE
 
 

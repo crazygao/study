@@ -1,16 +1,7 @@
 encomiast
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A person who delivers or writes an encomium; a eulogist
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Greek enkōmiastēs, from enkōmiazein, to praise, from enkōmion, encomium. See encomium.]

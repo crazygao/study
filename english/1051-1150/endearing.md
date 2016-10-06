@@ -1,16 +1,12 @@
 endearing
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Inspiring affection or warm sympathy
+	+ __eg__: the endearing charm of a little child
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: hedgehogs are endearing creatures
 
-+ ZZE
++ LOVABLE
 
 

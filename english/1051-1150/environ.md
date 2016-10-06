@@ -1,16 +1,15 @@
 environ
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To encircle; surround
 
 ### Origin
 
-ZZC
+[Middle English envirounen, from Old French environner, from environ, round about : en-, in; see en-1 + viron, circle (from virer, to turn. See veer1).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: at home I am environed by pets
 
-+ ZZE
++ SURROUND
 
 

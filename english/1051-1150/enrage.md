@@ -1,16 +1,17 @@
 enrage
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To put into a rage; infuriate
+	+ __eg__: She was enraged at his stupidity
 
 ### Origin
 
-ZZC
+[Middle English *enragen, from Old French enrager: en-, causative pref.; see en-1 + rage, rage; see rage.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the scheme is bound to enrage farmers
 
-+ ZZE
++ ANGER
++ opposite(s): PLACATE ; PLEASE
 
 

@@ -1,16 +1,17 @@
 ennui
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Listlessness and dissatisfaction resulting from lack of interest; boredom
+	+ __eg__: “The servants relieved their ennui with gambling and gossip about their masters” (John Barth).
 
 ### Origin
 
-ZZC
+mid 18th cent.: French, from Latin in odio(n-), from mihi in odio est ‘it is hateful to me’. Compare with ↑annoy
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (French) an ennui bred of long familiarity
 
-+ ZZE
++ BOREDOM
++ opposite(s): ANIMATION ; CONTENTMENT
 
 

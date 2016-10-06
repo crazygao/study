@@ -1,16 +1,12 @@
 enmesh
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: To entangle, involve, or catch in or as if in a mesh.
+	+ __eg__: The dolphin was enmeshed [=entangled] in/by the net
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the party became increasingly enmeshed in the parliamentary system
 
-+ ZZE
++ ENTANGLE
 
 

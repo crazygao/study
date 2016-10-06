@@ -1,16 +1,14 @@
 enduring
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Lasting; continuing; durable
+	+ __eg__: a novel of enduring interest
++ _adj_: Long-suffering; patient
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an enduring commitment to democracy and human rights
 
-+ ZZE
++ LASTING
++ opposite(s): SHORT-LIVED
 
 

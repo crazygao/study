@@ -1,16 +1,17 @@
 enmity
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Deep-seated, often mutual hatred
+	+ __eg__: personal enmities and political conflicts
 
 ### Origin
 
-ZZC
+[Middle English enemite, from Old French enemistie, from Vulgar Latin *inimīcitās, from Latin inimīcus, enemy. See enemy.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a world free from enmity between nations and races
 
-+ ZZE
++ HOSTILITY
++ opposite(s): FRIENDSHIP ; GOODWILL
 
 

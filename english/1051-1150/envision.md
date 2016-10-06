@@ -1,16 +1,12 @@
 envision
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To picture in the mind; imagine
+	+ __eg__: They envision an equal society, free of poverty and disease
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we now have the chance to build the world envisioned by the founders of the UN
 
-+ ZZE
++ VISUALIZE
 
 

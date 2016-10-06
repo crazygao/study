@@ -1,16 +1,16 @@
 entreaty
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: An earnest request or petition; a plea
+	+ __eg__: Despite her entreaties, he left
 
 ### Origin
 
-ZZC
+late Middle English (in the sense ‘treatment, management’; formerly also as intreaty): from ↑entreat, on the pattern of treaty
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he ignored her entreaties
 
-+ ZZE
++ PLEA
 
 

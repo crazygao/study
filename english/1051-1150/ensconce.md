@@ -1,16 +1,17 @@
 ensconce
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To settle (oneself) securely or comfortably
+	+ __eg__: She ensconced herself in an armchair
++ _vt_: To place or conceal in a secure place
 
 ### Origin
 
-ZZC
+late 16th cent. (in the senses ‘fortify’ and ‘shelter within or behind a fortification’; formerly also as insconce): from ↑en-, ↑in- ‘in’ + sconce ‘ a small fort used to defend a ford, pass or castle gate’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Agnes ensconced herself in their bedroom
 
-+ ZZE
++ SETTLE
 
 

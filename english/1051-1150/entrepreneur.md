@@ -1,16 +1,16 @@
 entrepreneur
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A person who organizes, operates, and assumes the risk for a business venture
+	+ __eg__: a recent MBA graduate and budding entrepreneur
 
 ### Origin
 
-ZZC
+[French, from Old French, from entreprendre, to undertake. See enterprise.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an entrepreneur who had set up his own firms
 
-+ ZZE
++ BUSINESSMAN
 
 
