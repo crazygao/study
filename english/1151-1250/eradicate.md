@@ -1,16 +1,17 @@
 eradicate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To tear up by the roots
++ _vt_: To get rid of as if by tearing up by the roots
+	+ __eg__: Their goal was to eradicate poverty
 
 ### Origin
 
-ZZC
+[Middle English eradicaten, from Latin ērādīcāre, ērādīcāt- : ē-, ex-, ex- + rādīx, rādīc-, root; See wrād- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: make sure that the lice have all been eradicated
 
-+ ZZE
++ GET RID OF
 
 

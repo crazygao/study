@@ -1,16 +1,9 @@
 equine
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Of, relating to, or characteristic of a horse
+	+ __eg__: equine disciplines such as dressage and showjumping
++ _adj_: Of or belonging to the family Equidae, which includes the horses, asses, and zebras
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin equīnus, from equus, horse. See ekwo- in Indo-European Roots.]

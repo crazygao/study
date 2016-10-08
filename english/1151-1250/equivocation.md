@@ -1,16 +1,14 @@
 equivocation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The use of equivocal language
+	+ __eg__: These actions must be condemned without equivocation
++ _noun_: An equivocal statement or expression
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: these attacks must be condemned without equivocation
 
-+ ZZE
++ PREVARICATION
++ opposite(s): DIRECTNESS
 
 

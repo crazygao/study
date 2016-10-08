@@ -1,16 +1,10 @@
 estimable
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Possible to estimate
+	+ __eg__: estimable assets; an estimable distance
++ _adj_: Deserving of esteem; admirable
+	+ __eg__: an estimable young professor
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Old French, from Latin aestimābilis, from aestimāre, to value.]

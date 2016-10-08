@@ -1,6 +1,6 @@
 ### Meaning
 + _adj_: ZZA
-	+ __eg__: ZZB
+    + __eg__: ZZB
 
 ### Origin
 

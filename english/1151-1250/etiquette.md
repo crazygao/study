@@ -1,16 +1,16 @@
 etiquette
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: The practices and forms prescribed by social convention or by authority
+	+ __eg__: advice on etiquette
 
 ### Origin
 
-ZZC
+[French, from Old French estiquet, label. See ticket.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the club's brochure includes advice on etiquette
 
-+ ZZE
++ PROTOCOL
 
 

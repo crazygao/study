@@ -1,16 +1,16 @@
 espousal
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: 
+   1. A betrothal.
+   2. A wedding ceremony
++ _noun_: Adoption of an idea or a cause
+	+ __eg__: His espousal of socialism has been a surprise to many former colleagues
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they began to retreat from their espousal of populist causes
 
-+ ZZE
++ ADOPTION
++ opposite(s): REJECTION ; OPPOSITION
 
 

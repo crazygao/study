@@ -1,16 +1,16 @@
 ethos
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement
+	+ __eg__: “They cultivated a subversive alternative ethos” (Anthony Burgess).
 
 ### Origin
 
-ZZC
+[Greek ēthos, character. See s(w)e- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the governing body has responsibility for the ethos of the school
 
-+ ZZE
++ SPIRIT
 
 

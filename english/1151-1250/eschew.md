@@ -1,16 +1,17 @@
 eschew
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To avoid; shun
+	+ __eg__: He had eschewed politics in favour of a life practising law
 
 ### Origin
 
-ZZC
+[Middle English escheuen, from Old French eschivir, of Germanic origin akin to shy1.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he firmly eschewed political involvement
 
-+ ZZE
++ ABSTAIN FROM
++ opposite(s): INDULGE IN
 
 

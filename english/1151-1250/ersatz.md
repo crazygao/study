@@ -1,16 +1,17 @@
 ersatz
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Being an imitation or a substitute, usually an inferior one; artificial
+	+ __eg__: ersatz coffee made mostly of chicory
 
 ### Origin
 
-ZZC
+[German, replacement, from ersetzen, to replace, from Old High German irsezzan: ir-, out; See ud- in Indo-European Roots + sezzan, to set; See sed- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: ersatz coffee
 
-+ ZZE
++ ARTIFICIAL
++ opposite(s): GENUINE
 
 
