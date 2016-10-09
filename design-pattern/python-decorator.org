@@ -1,0 +1,7 @@
+* Python Decorator
+** http://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators-in-python#answer-1594484
+** Prerequisites: Function is Object
+   1. function name is a variable
+   2. function name can be defined in another function.
+
+** TODO
