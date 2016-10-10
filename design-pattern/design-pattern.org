@@ -83,7 +83,7 @@
 
 *** Strategy: Change algorithm core will not affect your real implementation.
 
-*** Template, abstract class
+*** Template, abstract class, and a lot of classes inherited it.
 
 *** Observer
 
@@ -92,14 +92,38 @@
 *** Chain of responsibility
 
 *** Command
+[Command](http://dl.iteye.com/upload/attachment/0083/1239/98cda4fc-00b1-300d-a25b-63229f0f1cbd.jpg)
+OData Protocol
 
 *** Memento
+Logs
 
 *** State
+DFS, NFS
 
 *** Visitor
+    One type of subject, a type visitor.
+    visitor(Subject subject);
+    subject(Visitor visitor);
 
 *** Mediator
+    A<->B
+    Mediator -> A
+    Mediator -> B
 
-*** Intepretor
+*** Intepreter
+    Input + Context
 
+** Why Design Pattern
+
+*** From the model of von'Neumann, we know that Data and Functions are the same. In early times of asm, C, Lisp, functions can be transferred between variables.
+    Pointer is the key point in C, which is definitely the representative for von'Neumann computer. However, it is too hard for your mind to really take care of them,
+    eg, maintain a tree.
+    Object Oriented Programming, function and data type is combined inside one 'Class' -> Paradigm
+
+    Memory allocation -> constructor, deconstructor
+    Virtual table-> a table that points the real function.
+
+    Java, elimination of all function pointers, and object pointers. VMs, Reflections
+
+    This will be especially more effort when you design something like GCD, queues, runtime added features, currying.
