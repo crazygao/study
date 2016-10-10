@@ -1,16 +1,13 @@
 euphonious
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Pleasing or agreeable to the ear
+	+ __eg__: a euphonious name
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the great woodrush's euphonious scientific name, Luzula sylvatica
 
-+ ZZE
++ PLEASANT-SOUNDING
++ opposite(s): CACOPHONOUS
 
 

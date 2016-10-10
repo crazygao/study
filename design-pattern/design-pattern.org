@@ -81,5 +81,25 @@
     
 *** Flyweight: Connection Pool.
 
-*** Strategy: Change algorithm core will not affect your 
+*** Strategy: Change algorithm core will not affect your real implementation.
+
+*** Template, abstract class
+
+*** Observer
+
+*** Iterator
+
+*** Chain of responsibility
+
+*** Command
+
+*** Memento
+
+*** State
+
+*** Visitor
+
+*** Mediator
+
+*** Intepretor
 

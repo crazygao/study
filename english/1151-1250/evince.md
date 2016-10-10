@@ -1,16 +1,17 @@
 evince
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To show or demonstrate clearly; manifest
+	+ __eg__: evince distaste by grimacing
 
 ### Origin
 
-ZZC
+[Latin ēvincere, to prevail, prove. See evict.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his letters evince the excitement he felt
 
-+ ZZE
++ REVEAL
++ opposite(s): CONCEAL
 
 

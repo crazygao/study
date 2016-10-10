@@ -1,16 +1,18 @@
 evict
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To put out (a tenant, for example) by legal process; expel
++ _vt_: To force out; eject
++ _vt_: Law. To recover (property, for example) by a superior claim or legal process
 
 ### Origin
 
-ZZC
+[Middle English evicten, from Latin ēvincere, ēvict-, to vanquish : ē-, ex-, intensive pref.; see ex- + vincere, to defeat; See weik-3 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the police moved in and evicted the squatters
 
-+ ZZE
++ EXPEL
++ opposite(s): ADMIT
 
 

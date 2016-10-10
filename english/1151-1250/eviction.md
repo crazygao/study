@@ -1,16 +1,13 @@
 eviction
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: ↑evict
+	+ __eg__: to face eviction from your home
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the eviction of workers from company houses
 
-+ ZZE
++ EXPULSION
++ opposite(s): ADMISSION
 
 

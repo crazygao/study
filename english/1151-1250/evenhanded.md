@@ -1,16 +1,4 @@
 evenhanded
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Showing no partiality; fair
+	+ __eg__: I thought it was an evenhanded assessment/analysis/treatment of her performance
