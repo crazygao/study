@@ -2,6 +2,7 @@
   http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html
 
 ** Design Pattern Category
+
    1. Creation: Factory, Abstract Factory, Singleton, Builder, Prototype
    2. Structure: Adapter, Decorator, Proxy, Outlook, Bridge, Composite, Shared
    3. Behavior: Strategy, Template, Observer, Iterator, Resposibility, Command, Reminder, State, Visitor, Mediator, Intepreter

@@ -1,16 +1,14 @@
 exhaustive
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Treating all parts or aspects without omission; thorough
+	+ __eg__: an exhaustive study
++ _adj_: Tending to exhaust
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an exhaustive study of the subject | exhaustive health tests
 
-+ ZZE
++ COMPREHENSIVE
++ opposite(s): PERFUNCTORY, INCOMPLETE
 
 

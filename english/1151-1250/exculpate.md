@@ -1,16 +1,14 @@
 exculpate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To clear of guilt or blame
+	+ __eg__: The defendant was able to exculpate himself from liability
 
 ### Origin
 
-ZZC
+[Medieval Latin exculpāre, exculpāt- : Latin ex-, ex- + Latin culpa, guilt.]
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ absolve, acquit, clear, discharge, excuse, exonerate, pardon, vindicate
 
 

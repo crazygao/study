@@ -1,16 +1,19 @@
 exodus
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A departure of a large number of people
++ _noun_: Exodus
+   1. The departure of the Israelites from Egypt.
+   2. Abbr. Ex or Exod.
 
 ### Origin
 
-ZZC
+[Late Latin, from Greek exodos: ex-, out; see exo- + hodos, way, journey.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the exodus of refugees from Albania | the mass exodus of the middle classes from inner-city areas
 
-+ ZZE
++ MASS DEPARTURE
++ opposite(s): ARRIVAL
 
 

@@ -1,7 +1,9 @@
 expediency
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Appropriateness to the purpose at hand; fitness
++ _noun_: Adherence to self-serving means
+	+ __eg__: an ambitious politician, guided by expediency rather than principle
++ _noun_: A means; an expedient
 
 ### Origin
 
@@ -9,8 +11,9 @@ ZZC
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he has abandoned his principles for the sake of political expediency
 
-+ ZZE
++ CONVENIENCE
++ opposite(s): DISADVANTAGE
 
 

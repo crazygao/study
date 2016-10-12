@@ -1,16 +1,20 @@
 exacting
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Making severe demands; rigorous
+	+ __eg__: an exacting instructor
++ _adj_: Requiring great care, effort, or attention
+	+ __eg__: an exacting task
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he set himself an exacting training routine
 
-+ ZZE
++ DEMANDING
++ opposite(s): EASY
+
+__eg__: a highly efficient but exacting boss
+
++ STRICT
++ opposite(s): EASY-GOING
 
 

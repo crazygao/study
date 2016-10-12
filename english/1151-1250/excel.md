@@ -1,16 +1,20 @@
 excel
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To do or be better than; surpass
++ _vi_: To show superiority; surpass others
 
 ### Origin
 
-ZZC
+[Middle English excellen, from Latin excellere. See kel-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he excelled at football
 
-+ ZZE
++ SHINE
+
+__eg__: she excelled him in her command of the language | the players have excelled themselves
+
++ SURPASS
 
 

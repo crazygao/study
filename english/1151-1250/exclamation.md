@@ -1,16 +1,14 @@
 exclamation
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: An abrupt, forceful utterance
+	+ __eg__: an exclamation of delight
++ _adj_: An outcry, as of protest
++ _adj_: Grammar. An interjection
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an exclamation of amazement
 
-+ ZZE
++ CRY
 
 

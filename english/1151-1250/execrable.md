@@ -1,16 +1,18 @@
 execrable
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Deserving of execration; hateful
++ _adj_: Extremely inferior; very bad
+	+ __eg__: an execrable meal
 
 ### Origin
 
-ZZC
+[Middle English, from Latin execrābilis, from execrārī, exsecrārī, to execrate. See execrate.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an execrable piece of work | his execrable behaviour
 
-+ ZZE
++ APPALLING
++ opposite(s): GOOD, ADMIRABLE
 
 

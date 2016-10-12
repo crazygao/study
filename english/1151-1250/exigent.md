@@ -1,16 +1,8 @@
 exigent
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Requiring immediate action or remedy
++ _adj_: Requiring much effort or expense; demanding
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin exigēns, exigent- present participle of exigere, to demand. See exact.]

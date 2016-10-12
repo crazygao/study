@@ -1,16 +1,17 @@
 expiate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To make amends or reparation for; atone
+	+ __eg__: expiate one's sins by acts of penance
++ _vi_: To make amends; atone
 
 ### Origin
 
-ZZC
+[Latin expiāre, expiāt- : ex-, intensive pref.; see ex- + piāre, to atone (from pius, devout).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an attempt to expiate his sins
 
-+ ZZE
++ ATONE FOR
 
 

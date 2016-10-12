@@ -1,16 +1,17 @@
 expertise
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Expert advice or opinion
++ _noun_: Skill or knowledge in a particular area
 
 ### Origin
 
-ZZC
+[French, from expert, experienced. See expert.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: GPs will require a high level of expertise in psychiatry
 
-+ ZZE
++ SKILL
++ opposite(s): INCOMPETENCE
 
 
