@@ -1,16 +1,16 @@
 fragrant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having a pleasant odor
 
 ### Origin
 
-ZZC
+[Middle English, from Latin frāgrāns, frāgrant- past participle of frāgrāre, to emit an odor.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: fragrant herbs play a great part in aromatherapy
 
-+ ZZE
++ SWEET-SCENTED
++ opposite(s): SMELLY
 
 

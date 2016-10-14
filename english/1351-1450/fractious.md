@@ -1,16 +1,22 @@
 fractious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Inclined to make trouble; unruly
++ _adj_: Having a peevish nature; cranky
 
 ### Origin
 
-ZZC
+[From fraction, discord (obsolete).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they fight and squabble like fractious children
 
-+ ZZE
++ GRUMPY
++ opposite(s): CONTENTED ; AFFABLE
+
+__eg__: the National Olympic Committee has to hold its fractious members together
+
++ WAYWARD
++ opposite(s): DUTIFUL
 
 

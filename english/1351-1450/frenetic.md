@@ -1,16 +1,17 @@
 frenetic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Wildly excited or active; frantic; frenzied
+    + __eg__: to live at a frenetic pace
 
 ### Origin
 
-ZZC
+[Middle English frenetik, from Old French frenetique, from Latin phrenēticus, from Greek phrenītikos, from phrenītis, brain disease, from phrēn, mind. See gʷhren- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the frenetic bustle of the metropolis
 
-+ ZZE
++ FRANTIC
++ opposite(s): CALM
 
 

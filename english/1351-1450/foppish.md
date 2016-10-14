@@ -1,16 +1,11 @@
 foppish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, or characteristic of a fop; dandified
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the clothes were less foppish than his usual attire
 
-+ ZZE
++ DANDYISH
 
 

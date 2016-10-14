@@ -1,16 +1,7 @@
 fosse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A ditch or moat
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Old French, from Latin fossa. See fossa.]

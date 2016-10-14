@@ -1,16 +1,21 @@
 ford
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A shallow place in a body of water, such as a river, where one can cross by walking or riding on an animal or in a vehicle
+
++ _vt_: To cross (a body of water) at a ford
 
 ### Origin
 
-ZZC
+[Middle English, from Old English. See per-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a ford across the Tweed
 
-+ ZZE
++ CROSSING PLACE
+
+__eg__: if I could find the river, I could ford it somehow
+
++ CROSS
 
 

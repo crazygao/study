@@ -1,16 +1,11 @@
 forger
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: a person who makes illegal copies of money, documents, etc. in order to cheat people
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the painting was the work of a forger
 
-+ ZZE
++ COUNTERFEITER
 
 

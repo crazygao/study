@@ -1,16 +1,12 @@
 forestry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: 
+   1. The science and art of cultivating, maintaining, and developing forests.
+   2. The management of a forestland
++ _noun_: A forestland
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ FOREST MANAGEMENT
 
 

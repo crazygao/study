@@ -1,16 +1,18 @@
 foresight
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Perception of the significance and nature of events before they have occurred
++ _noun_: Care in providing for the future; prudence
++ _noun_: The act of looking forward
 
 ### Origin
 
-ZZC
+[foresight] Middle English: from ↑fore- + ↑sight, probably suggested by Old Norse forsjá, forsjó.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a little foresight might have saved them a lot of money
 
-+ ZZE
++ FORETHOUGHT
++ opposite(s): HINDSIGHT
 
 

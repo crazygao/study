@@ -1,16 +1,16 @@
 fortitude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Strength of mind that allows one to endure pain or adversity with courage
 
 ### Origin
 
-ZZC
+[Middle English, from Latin fortitūdō, from fortis, strong. See bhergh-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he accepted his increasing illness with fortitude
 
-+ ZZE
++ COURAGE
++ opposite(s): FAINT-HEARTEDNESS
 
 

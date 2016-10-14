@@ -1,16 +1,11 @@
 foreshadow
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To present an indication or a suggestion of beforehand; presage
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the city's decline was foreshadowed by earlier events
 
-+ ZZE
++ AUGUR
 
 
