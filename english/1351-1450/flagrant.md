@@ -1,16 +1,18 @@
 flagrant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Conspicuously bad, offensive, or reprehensible
+    + __eg__: a flagrant miscarriage of justice; flagrant cases of wrongdoing at the highest levels of government
++ _adj_: Obsolete. Flaming; blazing
 
 ### Origin
 
-ZZC
+[Latin flagrāns, flagrant- present participle of flagrāre, to burn. See bhel-1 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a flagrant disregard for human rights
 
-+ ZZE
++ BLATANT
++ opposite(s): UNOBTRUSIVE ; SLIGHT
 
 

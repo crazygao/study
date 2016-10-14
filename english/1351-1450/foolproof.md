@@ -1,16 +1,15 @@
 foolproof
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Designed so as to be impervious to human incompetence, error, or misuse
+    + __eg__: a foolproof detonator; a foolproof safety lock
++ _adj_: Effective; infallible
+    + __eg__: a foolproof scheme
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we need a foolproof security system
 
-+ ZZE
++ INFALLIBLE
++ opposite(s): FLAWED
 
 

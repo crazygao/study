@@ -1,16 +1,11 @@
 flagging
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Declining; weakening
+    + __eg__: flagging strength
++ _adj_: Languid; drooping
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ fading, declining, deteriorating, faltering, waning, weakening, wilting
 
 

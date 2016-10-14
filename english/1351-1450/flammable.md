@@ -1,16 +1,17 @@
 flammable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Easily ignited and capable of burning rapidly; inflammable
+    + __eg__: highly flammable liquids
 
 ### Origin
 
-ZZC
+[From Latin flammāre, to set fire to, from flamma, flame. See bhel-1 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: hazardous commodities such as flammable liquids
 
-+ ZZE
++ INFLAMMABLE
++ opposite(s): NON-FLAMMABLE
 
 

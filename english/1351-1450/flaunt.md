@@ -1,16 +1,20 @@
 flaunt
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To exhibit ostentatiously or shamelessly
+    + __eg__: flaunts his knowledge
++ _vi_: To parade oneself ostentatiously; show oneself off
++ _vi_: To wave grandly
+    + __eg__: pennants flaunting in the wind
 
 ### Origin
 
-ZZC
+mid 16th cent.: of unknown origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he hated the way the rich flaunted their possessions
 
-+ ZZE
++ SHOW OFF
++ opposite(s): BE MODEST ABOUT, HIDE
 
 
