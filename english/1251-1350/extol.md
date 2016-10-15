@@ -1,16 +1,16 @@
 extol
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To praise highly; exalt
 
 ### Origin
 
-ZZC
+[Middle English extollen, from Latin extollere, to lift up, praise : ex-, up from; see ex- + tollere, to lift; See telə- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: nutritionists have long extolled the virtues of rice
 
-+ ZZE
++ PRAISE ENTHUSIASTICALLY
++ opposite(s): CRITICIZE
 
 

@@ -1,16 +1,18 @@
 fatuous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Vacuously, smugly, and unconsciously foolish
++ _adj_: Delusive; unreal
+    + __eg__: fatuous hopes
 
 ### Origin
 
-ZZC
+[From Latin fatuus.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was irritated by a fatuous question
 
-+ ZZE
++ SILLY
++ opposite(s): INTELLIGENT, SENSIBLE
 
 

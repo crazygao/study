@@ -1,16 +1,4 @@
 fallibility
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: liability to err
+    + __eg__: The play deals with the fallibility of human nature

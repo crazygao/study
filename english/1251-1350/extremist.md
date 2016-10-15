@@ -1,16 +1,12 @@
 extremist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One who advocates or resorts to measures beyond the norm, especially in politics
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the attack was carried out by a group of right-wing extremists
 
-+ ZZE
++ FANATIC
++ opposite(s): MODERATE
 
 

@@ -1,16 +1,17 @@
 factual
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of the nature of fact; real
++ _adj_: Of or containing facts
 
 ### Origin
 
-ZZC
+[factual factually] mid 19th cent.: from ↑fact, on the pattern of actual
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a factual account of events
 
-+ ZZE
++ TRUTHFUL
++ opposite(s): FICTITIOUS
 
 

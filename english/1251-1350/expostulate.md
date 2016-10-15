@@ -1,16 +1,15 @@
 expostulate
 ### Meaning
-+ _vi_: ZZA
-    + __eg__: ZZB
++ _vi_: To reason earnestly with someone in an effort to dissuade or correct; remonstrate
 
 ### Origin
 
-ZZC
+[Latin expostulāre, expostulāt- : ex-, intensive pref.; see ex- + postulāre, to demand; See prek- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: one of the prisoners expostulated with him
 
-+ ZZE
++ REMONSTRATE
 
 

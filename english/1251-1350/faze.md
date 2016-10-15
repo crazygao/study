@@ -1,16 +1,7 @@
 faze
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To disrupt the composure of; disconcert
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English fesen, to drive away, frighten, from Old English fēsian.]

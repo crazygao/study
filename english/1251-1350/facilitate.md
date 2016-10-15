@@ -1,16 +1,17 @@
 facilitate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make easy or easier
+    + __eg__: political agreements that facilitated troop withdrawals
 
 ### Origin
 
-ZZC
+[French faciliter, from Old French, from Italian facilitare, from facile, facile, from Latin facilis. See facile.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: working in pairs appears to facilitate learning
 
-+ ZZE
++ MAKE EASY/EASIER
++ opposite(s): IMPEDE
 
 

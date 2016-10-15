@@ -1,16 +1,10 @@
 extravert
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: an energetic, happy person who enjoys being with other people (= extrovert)
+    + __eg__: Most sales people are extroverts
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ opposite: introvert
 
 

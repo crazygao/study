@@ -1,16 +1,16 @@
 fad
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fashion that is taken up with great enthusiasm for a brief period of time; a craze
+    + __eg__: the latest/current fad
 
 ### Origin
 
-ZZC
+[Possibly from fidfad, fussy person, fussy, from fiddle-faddle.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there is a general fad for see-through products
 
-+ ZZE
++ CRAZE
 
 

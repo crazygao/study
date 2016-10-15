@@ -1,16 +1,18 @@
 extrude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To push or thrust out
++ _vt_: To shape (a plastic, for instance) by forcing it through a die
++ _vi_: To protrude or project
 
 ### Origin
 
-ZZC
+[Latin extrūdere: ex-, ex- + trūdere, to thrust; See treud- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: lava that has been extruded under water
 
-+ ZZE
++ FORCE OUT
++ opposite(s): SUCK IN
 
 

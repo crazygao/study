@@ -1,16 +1,17 @@
 extricate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To release from an entanglement or difficulty; disengage
++ _vt_: Archaic. To distinguish from something related
 
 ### Origin
 
-ZZC
+[Latin extrīcāre, extrīcāt- : ex-, ex- + trīcae, hindrances, perplexities.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Deborah managed to extricate herself from the melee
 
-+ ZZE
++ EXTRACT
++ opposite(s): ENTANGLE ; INVOLVE
 
 

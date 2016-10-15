@@ -1,16 +1,7 @@
-fauce
+fauces
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: The passage from the back of the mouth to the pharynx, bounded by the soft palate, the base of the tongue, and the palatine arches
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Latin faucēs.]

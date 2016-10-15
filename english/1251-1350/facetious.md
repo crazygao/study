@@ -1,16 +1,17 @@
 facetious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Playfully jocular; humorous
+    + __eg__: facetious remarks
 
 ### Origin
 
-ZZC
+[French facétieux, from facétie, jest, from Latin facētia, from facētus, witty.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: no facetious remarks, please
 
-+ ZZE
++ FLIPPANT
++ opposite(s): SERIOUS
 
 

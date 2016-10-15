@@ -1,16 +1,15 @@
 extort
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To obtain from another by coercion or intimidation
 
 ### Origin
 
-ZZC
+[Latin extorquēre, extort-, to wrench out, extort : ex-, ex- + torquēre, to twist; See terkʷ- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was convicted of extorting money from local residents | all political interviewers hope to extort an apology from him
 
-+ ZZE
++ FORCE
 
 

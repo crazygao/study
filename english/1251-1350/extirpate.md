@@ -1,16 +1,18 @@
 extirpate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To pull up by the roots
++ _vt_: To destroy totally; exterminate
++ _vt_: To remove by surgery
 
 ### Origin
 
-ZZC
+[Latin exstirpāre, exstirpāt- : ex-, ex- + stirps, root.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: those who tried to extirpate Christianity
 
-+ ZZE
++ WEED OUT
++ opposite(s): FOUND ; SUPPORT
 
 

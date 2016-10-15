@@ -1,16 +1,8 @@
 fatuity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Smug stupidity; utter foolishness
++ _noun_: Something that is utterly stupid or silly
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin fatuitās, from fatuus, silly, foolish.]
