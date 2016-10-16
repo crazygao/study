@@ -1,16 +1,19 @@
 fusillade
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A discharge from a number of firearms, fired simultaneously or in rapid succession
++ _noun_: A rapid outburst or barrage
+    + __eg__: a fusillade of insults
+
++ _vt_: To attack with a fusillade
 
 ### Origin
 
-ZZC
+[French, from fusiller, to shoot, from fusil, firearm. See fusil.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a fusillade of missiles
 
-+ ZZE
++ SALVO
 
 

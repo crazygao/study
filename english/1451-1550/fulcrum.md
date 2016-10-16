@@ -1,16 +1,9 @@
 fulcrum
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The point or support on which a lever pivots
++ _noun_: Zoology. An anatomical structure that acts as a hinge or a point of support
++ _noun_: An agent through which vital powers are exercised
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin, bedpost, from fulcīre, to support.]

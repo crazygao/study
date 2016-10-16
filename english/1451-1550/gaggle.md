@@ -1,16 +1,9 @@
 gaggle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A flock of geese
++ _noun_: A cluster or group
+    + __eg__: “A gaggle of photographers huddled on the sidewalk beside a swelling crowd of onlookers” (Gioia Diliberto)
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English gagel, from gagelen, to cackle, probably of imitative origin.]

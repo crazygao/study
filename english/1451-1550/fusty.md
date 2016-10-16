@@ -1,16 +1,22 @@
 fusty
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Smelling of mildew or decay; musty
++ _adj_: Old-fashioned; antique.
 
 ### Origin
 
-ZZC
+[Middle English, from Old French fust, piece of wood, wine cask, from Latin fūstis, stick, club.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a fusty drawing room
 
-+ ZZE
++ STUFFY
++ opposite(s): AIRY, VENTILATED
+
+__eg__: a fusty conservative
+
++ OLD-FASHIONED
++ opposite(s): MODERN, UP-TO-DATE
 
 

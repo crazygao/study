@@ -1,16 +1,3 @@
 fungicide
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A chemical substance that destroys or inhibits the growth of fungi

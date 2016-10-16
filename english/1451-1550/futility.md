@@ -1,16 +1,14 @@
 futility
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality of having no useful result; uselessness
++ _noun_: Lack of importance or purpose; frivolousness
++ _noun_: A futile act
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he could see the futility of his actions
 
-+ ZZE
++ FRUITLESSNESS
++ opposite(s): USEFULNESS, FRUITFULNESS
 
 
