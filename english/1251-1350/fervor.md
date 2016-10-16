@@ -1,16 +1,8 @@
 fervor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Great warmth and intensity of emotion
++ _noun_: Intense heat
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English fervour, from Old French, from Latin fervor, from fervēre, to boil. See bhreu- in Indo-European Roots.]

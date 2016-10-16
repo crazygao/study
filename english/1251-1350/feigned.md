@@ -1,16 +1,14 @@
 feigned
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not real; pretended
+    + __eg__: a feigned modesty
++ _adj_: Made-up; fictitious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he accepted the invitation with feigned enthusiasm
 
-+ ZZE
++ PRETENDED
++ opposite(s): SINCERE
 
 

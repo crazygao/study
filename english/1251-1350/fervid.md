@@ -1,16 +1,18 @@
 fervid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Marked by great passion or zeal
+    + __eg__: a fervid patriot
++ _adj_: Extremely hot; burning
 
 ### Origin
 
-ZZC
+[Latin fervidus, from fervēre, to boil. See bhreu- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: fervid protestations of love
 
-+ ZZE
++ FERVENT
++ opposite(s): HALF-HEARTED
 
 

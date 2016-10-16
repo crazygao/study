@@ -1,16 +1,16 @@
 fetus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The unborn young of a viviparous vertebrate having a basic structural resemblance to the adult animal
++ _noun_: In humans, the unborn young from the end of the eighth week after conception to the moment of birth, as distinguished from the earlier embryo
 
 ### Origin
 
-ZZC
+[Middle English, from Latin fētus, offspring. See dhē(i)- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: antibodies are passed via the placenta to the fetus
 
-+ ZZE
++ EMBRYO
 
 

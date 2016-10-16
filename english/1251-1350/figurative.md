@@ -1,16 +1,21 @@
 figurative
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_:
+   1. Based on or making use of figures of speech; metaphorical:
+    + __eg__: figurative language
+   2. Containing many figures of speech; ornate
++ _adj_: Represented by a figure or resemblance; symbolic or emblematic
++ _adj_: Of or relating to artistic representation by means of animal or human figures
 
 ### Origin
 
-ZZC
+[figurative figuratively] Middle English: from late Latin figurativus, from figurare ‘to form or fashion’, from figura ‘shape, figure, form’; related to fingere ‘form, contrive’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a figurative expression
 
-+ ZZE
++ METAPHORICAL
++ opposite(s): LITERAL
 
 

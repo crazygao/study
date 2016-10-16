@@ -1,16 +1,16 @@
 figment
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Something invented, made up, or fabricated
+    + __eg__: just a figment of the imagination
 
 ### Origin
 
-ZZC
+[Middle English, from Latin figmentum, from fingere, to form. See dheigh- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: all this nonsense about ghosts is just a figment of her imagination
 
-+ ZZE
++ INVENTION
 
 

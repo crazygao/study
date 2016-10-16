@@ -1,16 +1,17 @@
 fecund
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Capable of producing offspring or vegetation; fruitful
++ _adj_: Marked by intellectual productivity
 
 ### Origin
 
-ZZC
+[Middle English, from Old French fecond, from Latin fēcundus. See dhē(i)- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a lush and fecund garden
 
-+ ZZE
++ FERTILE
++ opposite(s): BARREN
 
 

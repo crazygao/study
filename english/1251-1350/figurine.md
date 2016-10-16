@@ -1,16 +1,7 @@
 figurine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A small molded or sculptured figure; a statuette
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French, from Italian figurina, diminutive of figura, figure, from Latin figūra. See figure.]

@@ -1,16 +1,10 @@
 fermentation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_:
+   1. The anaerobic conversion of sugar to carbon dioxide and alcohol by yeast.
+   2. Any of a group of chemical reactions induced by living or nonliving ferments that split complex organic compounds into relatively simple substances
++ _noun_: Unrest; agitation
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late Middle English: from late Latin fermentatio(n-), from Latin fermentare ‘to ferment’ (see ferment)

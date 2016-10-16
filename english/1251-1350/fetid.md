@@ -1,16 +1,16 @@
 fetid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having an offensive odor
 
 ### Origin
 
-ZZC
+[Middle English, from Latin fētidus, from fētēre, to stink.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the air was heavy and fetid
 
-+ ZZE
++ STINKING
++ opposite(s): FRAGRANT
 
 

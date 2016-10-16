@@ -1,16 +1,5 @@
 fecundity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The quality or power of producing abundantly; fruitfulness or fertility
++ _noun_: Productive or creative power
+    + __eg__: fecundity of the mind

@@ -1,16 +1,16 @@
 figurehead
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A carved figure on the prow of a ship
++ _noun_: A person given a position of nominal leadership but having no actual authority
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the president was just a figurehead
 
-+ ZZE
++ TITULAR HEAD
+
+__eg__: the figurehead on the Cutty Sark
+
++ CARVING
 
 

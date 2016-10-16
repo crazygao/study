@@ -1,16 +1,13 @@
 fern
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of numerous flowerless, seedless vascular plants having roots, stems, and fronds and reproducing by spores
 
 ### Origin
 
-ZZC
+[Middle English, from Old English fearn. See per-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ BRACKEN
 
 
