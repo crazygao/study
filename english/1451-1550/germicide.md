@@ -1,16 +1,3 @@
 germicide
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An agent that kills germs, especially pathogenic microorganisms; a disinfectant

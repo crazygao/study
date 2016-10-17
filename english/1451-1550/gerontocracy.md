@@ -1,16 +1,8 @@
 gerontocracy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Government based on rule by elders
++ _noun_: A governing group of elders
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+mid 19th cent.: from Greek gerōn, geront- ‘old man’ + ↑-cracy

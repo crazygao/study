@@ -1,16 +1,22 @@
 giggle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To laugh with repeated short, spasmodic sounds
++ _vt_: To utter while giggling
+
++ _noun_: A short, spasmodic laugh
 
 ### Origin
 
-ZZC
+[Of imitative origin.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Rory couldn't help but giggle at the ridiculous picture
 
-+ ZZE
++ TITTER
+
+__eg__: she suppressed a giggle with difficulty
+
++ TITTER
 
 

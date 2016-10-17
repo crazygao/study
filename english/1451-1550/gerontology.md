@@ -1,16 +1,7 @@
 gerontology
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The scientific study of the biological, psychological, and sociological phenomena associated with old age and aging
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[gerontology] early 20th cent.: from Greek gerōn, geront- ‘old man’ + ↑-logy.

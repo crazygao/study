@@ -1,16 +1,18 @@
 glean
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To gather grain left behind by reapers
++ _vt_: To gather (grain) left behind by reapers
++ _vt_: To collect bit by bit
+    + __eg__: “records from which historians glean their knowledge” (Kemp Malone).
 
 ### Origin
 
-ZZC
+[Middle English glenen, from Old French glener, from Late Latin glennāre, probably of Celtic origin.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the information is gleaned from press cuttings
 
-+ ZZE
++ OBTAIN
 
 

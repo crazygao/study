@@ -1,16 +1,8 @@
 girder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A beam, as of steel, wood, or reinforced concrete, used as a main horizontal support in a building or bridge
+    + __eg__: It was a confusing picture of pipes and girders
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+early 17th cent.: from ↑gird in the archaic sense ‘brace, strengthen’.

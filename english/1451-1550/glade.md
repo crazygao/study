@@ -1,16 +1,8 @@
 glade
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An open space in a forest
++ _noun_: An everglade
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, perhaps from glad, bright and shining. See glad1.]

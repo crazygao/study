@@ -1,16 +1,18 @@
 gingerly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Cautious; careful
+
++ _adv_: With great care or delicacy; cautiously
 
 ### Origin
 
-ZZC
+[Possibly alteration of obsolete French gensor, delicate, from Old French, comparative of gent, gentle. See gent1.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he stepped gingerly on to the ice
 
-+ ZZE
++ CAUTIOUSLY
++ opposite(s): CARELESSLY ; RECKLESSLY
 
 

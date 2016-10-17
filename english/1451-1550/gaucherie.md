@@ -1,16 +1,9 @@
-gaucherie
+gaucherie/gaucheness
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An awkward or tactless act, manner, or expression
++ _noun_: A lack of tact; awkwardness
+    + __eg__: the gaucheness of youth
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French, from gauche, gauche. See gauche.]

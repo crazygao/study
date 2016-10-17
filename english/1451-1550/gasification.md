@@ -1,16 +1,3 @@
 gasification
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: conversion into gas; especially : conversion of coal into natural gas

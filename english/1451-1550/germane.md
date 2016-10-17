@@ -1,16 +1,16 @@
 germane
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Being both pertinent and fitting
 
 ### Origin
 
-ZZC
+[Middle English germain, having the same parents, closely connected. See german2.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: those factors are not germane to the present discussion
 
-+ ZZE
++ RELEVANT
++ opposite(s): IRRELEVANT
 
 

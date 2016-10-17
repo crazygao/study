@@ -1,16 +1,9 @@
 gargoyle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A roof spout in the form of a grotesque or fantastic creature projecting from a gutter to carry rainwater clear of the wall
++ _noun_: A grotesque ornamental figure or projection
++ _noun_: A person of bizarre or grotesque appearance
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English gargoile, from Old French gargole, gargouille, throat, waterspout.]

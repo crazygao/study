@@ -1,16 +1,17 @@
 german
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An intricate dance for many couples
++ _noun_: A party for dancing at which this dance is featured
 
 ### Origin
 
-ZZC
+[Short for German cotillion.]
 
-### Synonym
+german
+### Meaning
++ _adj_: Having the same parents or the same grandparents on either the mother's or the father's side. Often used in combination
+    + __eg__: a cousin-german
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+[Middle English germain, from Old French, from Latin germānus, from germen, offshoot. See genə- in Indo-European Roots.]

@@ -1,7 +1,6 @@
 garrulity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Excessive talkativeness; loquaciousness
 
 ### Origin
 
@@ -9,8 +8,9 @@ ZZC
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they were irritated by his ungovernable garrulity
 
-+ ZZE
++ TALKATIVENESS
++ opposite(s): TACITURNITY
 
 

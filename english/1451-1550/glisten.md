@@ -1,16 +1,17 @@
 glisten
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To shine by reflection with a sparkling luster
+
++ _noun_: A sparkling, lustrous shine
 
 ### Origin
 
-ZZC
+[Middle English glisnen, from Old English glisnian. See ghel-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the sea glistened in the early morning light
 
-+ ZZE
++ SHINE
 
 
