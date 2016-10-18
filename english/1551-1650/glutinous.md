@@ -1,16 +1,16 @@
 glutinous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of the nature of or resembling glue; sticky
 
 ### Origin
 
-ZZC
+[Middle English, from Latin glūtinōsus, from glūten, glūtin-, glue.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a glutinous liquid
 
-+ ZZE
++ STICKY
++ opposite(s): DRY
 
 
