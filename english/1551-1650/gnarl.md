@@ -1,16 +1,17 @@
 gnarl
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To snarl; growl
 
 ### Origin
 
-ZZC
+[Frequentative of gnar.]
 
-### Synonym
+gnarl
+### Meaning
++ _noun_: A protruding knot on a tree
 
-__eg__: ZZD
++ _vt_: To make knotted; twist
 
-+ ZZE
+### Origin
 
-
+[Back-formation from gnarled.]

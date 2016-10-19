@@ -1,16 +1,11 @@
 gluttonous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Given to or marked by gluttony
++ _adj_: Indulging in something, such as an activity, to excess; voracious
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ GREEDY
++ opposite(s): MODERATE, ABSTEMIOUS
 
 

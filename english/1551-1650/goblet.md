@@ -1,16 +1,14 @@
 goblet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A drinking vessel, such as a glass, that has a stem and base
++ _noun_: Archaic. A drinking bowl without handles
 
 ### Origin
 
-ZZC
+[Middle English gobelet, from Old French, diminutive of gobel, cup, probably of Celtic origin.]
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ WINE GLASS
 
 
