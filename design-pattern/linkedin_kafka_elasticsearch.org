@@ -1,0 +1,44 @@
+* kafka & elastic search
+
+** What is journal
+    log = data + timestamp
+    
+** Why logging system
+
+   1) Search
+
+** logging analysis sytem
+   Index, search, sort, cluster, visualize, analyse
+   Extend by scale
+   cross-datacenter
+   support enhancement, conecting to other system
+   1) System sustainablity
+   2) Stability, user info protection
+   3) Sampling, or logging everything
+
+** From
+   ?? ~ 2012 Splunk, good to use but expensive.
+   2014 ~ 2015 ELK, opensource, ElasticSearch Logstash Kibana
+
+** Why not this
+   Logstash Agent maintainence, Daemon, and jvm memory
+
+** Main Log standardize
+   Java service, 15 + log
+   access log
+   Java Container Logger
+
+   V2: Kafka ES Logstash Kibana
+
+** V2 problem:
+   ELK Cluster, stop intervene
+   Logstash ES separation
+   make good partition under kafka
+
+** V3 problem
+   inter-service searching
+   inter-datacenter searching -> ES cannot handle.
+
+** Tribe? no layering.
+
+** V4 problem, SLOW.

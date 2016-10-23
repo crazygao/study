@@ -1,0 +1,39 @@
+* Netflix data streams on Kafka
+
+** Controller 100% on Amazon Cloud
+
+** Netflex is a data logging company...
+
+** Atlas: (Netflix open source)
+   Keystone system
+
+** Even producer, chuhua -> s3 -> hadoop
+** 1.5 Keystone   chukwa -> kafka -> router -> elastic search
+
+
+
+** v2.0 Keystone, Front Kafka
+
+** Strategy: Max effort passing,
+   eliminate memory
+   no blocking user threading.
+
+** Strategy, Kafka proxy error
+   drop message
+   running producer can serve
+
+** dynamic routing, Archaius
+
+** Strategy: Archaius partition
+   round-roubin -> not good in linger.ms
+   sticky -> good at linger.ms
+
+* Data caching (Kafka)
+** Fronting Kafka, Consumer kafka
+** Strategy, limitation of size
+** limit size of partition, etc
+
+* Zone -aware topic partition ?
+
+
+

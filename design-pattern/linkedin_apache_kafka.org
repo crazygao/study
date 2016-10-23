@@ -1,0 +1,14 @@
+Apache kafka: distributed streaming system.
+
+** Performance
+*** Case by case
+    traffic pattern
+    application pattern specific
+
+*** Producer performance is more interesting
+    Especially for ack=all
+
+*** Limit message type
+    Low end to end latency.
+
+*** In-line large message handling, vs large message reference.

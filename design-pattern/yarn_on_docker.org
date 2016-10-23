@@ -1,0 +1,26 @@
+* Yarn on Docker, need presentation!
+
+** Why yarn on docker?
+   1) Resources reuseablity low
+   2) deployment and extension complexity
+   3) Resources cannot dynmaically adapt
+   4) no quick responsible to services
+
+   5) Separate queues
+   6) Separate resources in low granularity
+   7) NOdeManager -> CPU, memory
+   8) Yarn -> CPU, memory
+
+** Swarm Resources allocation
+*** Docker virtuallization
+** Upgrading Hadoop Resources reusability
+*** For data center: 
+
+
+*** Jenkins
+
+
+Dockerfile
+
+Shipyard
+

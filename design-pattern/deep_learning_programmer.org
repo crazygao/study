@@ -1,0 +1,49 @@
+* Deep Learning for Programmer
+
+*** Artificial Intelligence --> Deep Learning
+
+*** Artificial Intelligent Items
+    Too many algorithms -> too many 
+
+
+** Why learn deep learning
+
+*** Engine(neural - net)
+*** Fuel(big data)
+*** Why study ? -> Path to real AI
+*** Data science scales in DEEP Learning
+*** example:  3000 miles training -> Good performance in auto-drive.
+
+** Why nerve - net
+
+*** Bio, a scientist drop a brain into NO3- ???
+*** Yann LeCun, Geoffrey Hilton(Deep Learning), Yoshua Bengio(RNN), Andrew NG, V. Vapnik(SVM).
+    1) separator, anti-spam
+       www.quora.com
+    2) 
+
+** Machinary ?
+
+*** CPU, DSP, GPGPU, FPGA
+
+*** Limitation of GPU: PCIe, Limited Memory, Rewrite algorithm for GPU, not flexible
+
+*** CUDA
+
+*** Linux compatibility, disable Nouveau, Nvidia Driver, Cuda Toolkit, cuDNN,
+    Dependency: Python, GCC, Bazel ...
+    AWS: p2.xlarge 8xlarge 16xlarge
+
+*** SOftware kit
+    Scikit-learn: Python library
+    Caffe: not maintained,good at picture-recognizing
+    Theano: 
+
+    TensorFlow: Google opensource, after DistBelief.
+    torch: Lua jit, good performance, by facebook
+
+*** Use TensorFlow ?
+
+    1) Good Documentation
+    2) Good references
+    3) Good developer network

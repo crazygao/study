@@ -1,0 +1,42 @@
+** synchronize service logs
+*** Use sync method for service logs, for reverse.
+
+** log number GAIR
+*** Global_Id, global id
+*** Answer_Id, answer id, unique in service, for a response
+*** InRequest_ID, for a received request, in a inner system
+*** Request_ID, for a self-motivated request
+
+** meta-data driven service
+*** good for protocol
+
+** Asynchronize
+*** Old: async base on events.
+*** SEDA, segmented event driven, InRequest -> InReply -> OutReply etc.
+*** Disrupter
+
+** inter-process stateless
+*** for scale up.
+
+*** sender set state
+*** only one server serve a state.
+*** state share, cache. time-slices ? security ? 
+*** state share, persistance.
+
+** data consistency
+*** Old, transaction, 2 time of submission, submit & rollback
+*** Ultimate consistency
+    Reliable event, in event queues, only once and exist once
+    compensation mode
+    TCC mode, try confirm cancel mode.
+
+** combination of services
+*** Configuartion & Graphics
+ifttt.com
+
+** Concentrate Manager for services
+*** before running static configuration
+*** runtime dynamic configuration
+1) separate configuartion and code, by mottos
+2) make one, the framework
+3) concentrate in one platform
