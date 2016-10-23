@@ -1,16 +1,12 @@
 guileless
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Free of guile; artless
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Paulette's questioning had the guileless innocence of a child
 
-+ ZZE
++ ARTLESS
++ opposite(s): SCHEMING
 
 

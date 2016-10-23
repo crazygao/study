@@ -1,16 +1,8 @@
 grueling
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Physically or mentally demanding to the point of exhaustion
+    + __eg__: a grueling campaign
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[gruelling] mid 19th cent.: from the verb gruel ‘exhaust, punish’, from an old phrase get one's gruel ‘receive one's punishment’.

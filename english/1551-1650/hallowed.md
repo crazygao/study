@@ -1,16 +1,15 @@
 hallowed
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Sanctified; consecrated
+    + __eg__: a hallowed cemetery
++ _adj_: Highly venerated; sacrosanct
+    + __eg__: our hallowed war heroes
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: water was sprayed over the hallowed ground
 
-+ ZZE
++ HOLY
++ opposite(s): CURSED
 
 

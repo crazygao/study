@@ -1,16 +1,8 @@
 hallow
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make or set apart as holy
++ _vt_: To respect or honor greatly; revere
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English halwen, from Old English hālgian. See kailo- in Indo-European Roots.]

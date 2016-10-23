@@ -1,16 +1,16 @@
 grisly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Inspiring repugnance; gruesome
 
 ### Origin
 
-ZZC
+[Middle English grisli, from Old English grislīc. See ghrēi- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the grisly details of human sacrifices
 
-+ ZZE
++ GRUESOME
++ opposite(s): PLEASANT ; ATTRACTIVE
 
 

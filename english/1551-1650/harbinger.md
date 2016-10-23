@@ -1,16 +1,17 @@
 harbinger
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One that indicates or foreshadows what is to come; a forerunner
+
++ _vt_: To signal the approach of; presage
 
 ### Origin
 
-ZZC
+[Middle English herbengar, person sent ahead to arrange lodgings, from Old French herbergeor, from herbergier, to provide lodging for, from herberge, lodging, of Germanic origin. See koro- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: witch hazels are the harbingers of spring
 
-+ ZZE
++ HERALD
 
 

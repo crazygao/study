@@ -1,16 +1,26 @@
 hamper
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To prevent the free movement, action, or progress of
+
++ _noun_: Necessary but encumbering equipment on a ship
 
 ### Origin
 
-ZZC
+[Middle English hamperen.]
+
+hamper
+### Meaning
++ _noun_: A large basket, usually with a cover
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an attempt to hamper the investigations
 
-+ ZZE
++ HINDER
++ opposite(s): HELP
+
+__eg__: a picnic hamper
+
++ BASKET
 
 

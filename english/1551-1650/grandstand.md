@@ -1,16 +1,6 @@
 grandstand
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A roofed stand for spectators at a stadium or racetrack
++ _noun_: The spectators or audience at an event
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vi_: To perform ostentatiously so as to impress an audience

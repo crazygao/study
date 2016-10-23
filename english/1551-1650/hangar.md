@@ -1,16 +1,7 @@
 hangar
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A shelter especially for housing or repairing aircraft
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[French, from Old French hangard, of Germanic origin. See tkei- in Indo-European Roots.]

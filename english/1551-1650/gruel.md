@@ -1,16 +1,8 @@
 gruel
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A thin watery porridge
++ _noun_: Chiefly British. Severe punishment
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Old French, of Germanic origin.]

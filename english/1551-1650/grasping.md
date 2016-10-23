@@ -1,16 +1,12 @@
 grasping
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Exceedingly eager for material gain; avaricious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a grasping corporate executive
 
-+ ZZE
++ AVARICIOUS
++ opposite(s): GENEROUS, ALTRUISTIC
 
 

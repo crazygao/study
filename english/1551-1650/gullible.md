@@ -1,16 +1,12 @@
 gullible
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Easily deceived or duped
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the swindler preyed upon gullible old women
 
-+ ZZE
++ CREDULOUS
++ opposite(s): CYNICAL ; SUSPICIOUS
 
 

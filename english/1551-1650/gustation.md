@@ -1,16 +1,7 @@
 gustation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act or faculty of tasting
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin gustātiō, gustātiōn-, an appetizer, from gustātus, past participle of gustāre, to taste, from gustus, taste. See gusto.]

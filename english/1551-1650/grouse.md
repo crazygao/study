@@ -1,16 +1,29 @@
 grouse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of various plump, chickenlike game birds of the family Tetraonidae, chiefly of the Northern Hemisphere and having mottled brown or grayish plumage
 
 ### Origin
 
-ZZC
+[Origin unknown.]
+
+grouse
+### Meaning
++ _vi_: To complain; grumble
+
++ _noun_: A cause for complaint; a grievance
+
+### Origin
+
+[Perhaps from French dialectal groucer, from Old French grouchier. See grudge.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she groused about having to sit next to Kim
 
-+ ZZE
++ GRUMBLE
+
+__eg__: our biggest grouse was about the noise of construction work
+
++ GRUMBLE
 
 

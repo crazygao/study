@@ -1,16 +1,13 @@
 gripping
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: exciting or interesting in a way that keeps your attention
+    + __eg__: His books are always so gripping
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a gripping thriller
 
-+ ZZE
++ ENGROSSING
++ opposite(s): BORING
 
 

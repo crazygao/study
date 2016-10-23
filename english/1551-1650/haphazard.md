@@ -1,16 +1,16 @@
 haphazard
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Dependent upon or characterized by mere chance
 
-### Origin
++ _noun_: Mere chance; fortuity
 
-ZZC
++ _adv_: By chance; casually
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: things were strewn around in a haphazard fashion
 
-+ ZZE
++ RANDOM
++ opposite(s): METHODICAL ; SYSTEMATIC
 
 

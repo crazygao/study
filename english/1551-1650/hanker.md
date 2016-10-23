@@ -1,16 +1,16 @@
 hanker
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To have a strong, often restless desire
 
 ### Origin
 
-ZZC
+[Perhaps from Dutch dialectal hankeren. See konk- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she still hankered to go back | they hankered for the bright lights of the capital
 
-+ ZZE
++ YEARN
++ opposite(s): BE AVERSE
 
 

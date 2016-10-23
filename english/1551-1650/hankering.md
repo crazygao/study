@@ -1,16 +1,13 @@
 hankering
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: a strong desire
+    + __eg__: a hankering for a wealthy lifestyle
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a hankering for the sea
 
-+ ZZE
++ LONGING
++ opposite(s): AVERSION
 
 

@@ -1,16 +1,4 @@
 gravitational
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: connected with or caused by the force of ↑gravity
+    + __eg__: a gravitational field

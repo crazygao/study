@@ -1,16 +1,23 @@
 guzzle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To drink greedily or habitually
+    + __eg__: guzzle beer
++ _vt_: To consume to excess
+    + __eg__: a car that guzzles gas
++ _vi_: To drink, especially alcoholic beverages, greedily or habitually
 
 ### Origin
 
-ZZC
+[Origin unknown.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he guzzled all that was on the table
 
-+ ZZE
++ GOBBLE (UP)
+
+__eg__: she guzzled down the orange juice
+
++ GULP DOWN
 
 

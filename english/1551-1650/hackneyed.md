@@ -1,16 +1,12 @@
 hackneyed
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Overfamiliar through overuse; trite
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: hackneyed old sayings
 
-+ ZZE
++ OVERUSED
++ opposite(s): ORIGINAL, FRESH
 
 

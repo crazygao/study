@@ -1,16 +1,8 @@
 gristle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Cartilage, especially when present in meat
+    + __eg__: a lump of gristle
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Old English.]

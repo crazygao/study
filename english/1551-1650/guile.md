@@ -1,16 +1,19 @@
 guile
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Treacherous cunning; skillful deceit
++ _noun_: Obsolete. A trick or stratagem
+
++ _vt_: To beguile; deceive
 
 ### Origin
 
-ZZC
+[Middle English, from Old French, of Germanic origin; akin to Old English wigle, divination, sorcery.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they penetrated the city's defences by guile
 
-+ ZZE
++ CUNNING
++ opposite(s): HONESTY ; CANDOUR
 
 
