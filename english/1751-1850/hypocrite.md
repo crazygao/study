@@ -1,16 +1,15 @@
 hypocrite
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A person given to hypocrisy
 
 ### Origin
 
-ZZC
+[Middle English ipocrite, from Old French, from Late Latin hypocrita, from Greek hupocritēs, actor, from hupokrīnesthai, to play a part, pretend. See hypocrisy.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he condemned her as superficial and a hypocrite
 
-+ ZZE
++ SANCTIMONIOUS PERSON
 
 

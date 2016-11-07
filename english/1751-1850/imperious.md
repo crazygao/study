@@ -1,16 +1,17 @@
 imperious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Arrogantly domineering or overbearing
++ _adj_: Urgent; pressing
++ _adj_: Obsolete. Regal; imperial
 
 ### Origin
 
-ZZC
+[From Latin imperiōsus, from imperium, imperium. See empire.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he spoke to her in a very imperious manner
 
-+ ZZE
++ PEREMPTORY
 
 

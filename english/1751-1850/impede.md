@@ -1,16 +1,16 @@
 impede
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To retard or obstruct the progress of
 
 ### Origin
 
-ZZC
+[Latin impedīre. See ped- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the programme has been impeded by several problems
 
-+ ZZE
++ HINDER
++ opposite(s): FACILITATE
 
 

@@ -1,16 +1,14 @@
 impersonate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: To assume the character or appearance of, especially fraudulently
+    + __eg__: impersonate a police officer
++ _adj_: To imitate the appearance, voice, or manner of; mimic
+    + __eg__: an entertainer who impersonates celebrities
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she tried to impersonate her boss
 
-+ ZZE
++ IMITATE
 
 

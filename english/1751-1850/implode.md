@@ -1,16 +1,9 @@
 implode
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To collapse inward violently
++ _vt_: To cause to collapse inward violently
++ _vt_: To demolish (a building) by causing to collapse inward
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[in-2 + explode.]

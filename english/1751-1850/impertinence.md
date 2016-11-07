@@ -1,16 +1,15 @@
 impertinence
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality or condition of being impertinent, especially:
+   1. Insolence.
+   2. Irrelevance
++ _noun_: An impertinent act or statement
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they gasped at the impertinence of the suggestion
 
-+ ZZE
++ RUDENESS
++ opposite(s): POLITENESS
 
 

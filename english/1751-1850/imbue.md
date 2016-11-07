@@ -1,16 +1,18 @@
 imbue
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To inspire or influence thoroughly; pervade
+    + __eg__: work imbued with the revolutionary spirit
++ _vt_: To permeate or saturate
++ _vt_: To stain or dye deeply
 
 ### Origin
 
-ZZC
+[Middle English enbuen, imbeuen, from Latin imbuere, to moisten, stain.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a society imbued with a sense of fairness
 
-+ ZZE
++ PERMEATE
 
 

@@ -1,16 +1,7 @@
 hypotenuse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The side of a right triangle opposite the right angle
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Latin hypotēnūsa, from Greek hupoteinousa, from feminine present participle of hupoteinein, to stretch or extend under : hupo-, hypo- + teinein, to stretch; See ten- in Indo-European Roots.]

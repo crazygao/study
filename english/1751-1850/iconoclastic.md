@@ -1,16 +1,12 @@
 iconoclastic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: criticizing popular beliefs or established customs and ideas
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a fresh, even an iconoclastic, influence could work wonders
 
-+ ZZE
++ CRITICAL
++ opposite(s): CONFORMIST
 
 

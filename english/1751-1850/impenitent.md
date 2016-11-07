@@ -1,16 +1,12 @@
 impenitent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not penitent; unrepentant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I am quite impenitent at having encouraged her rebellion
 
-+ ZZE
++ UNREPENTANT
++ opposite(s): PENITENT
 
 

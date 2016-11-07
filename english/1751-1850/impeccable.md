@@ -1,16 +1,17 @@
 impeccable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having no flaws; perfect
++ _adj_: Incapable of sin or wrongdoing
 
 ### Origin
 
-ZZC
+[Latin impeccābilis: in-, not; see in-1 + peccāre, to sin; See ped- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a youth of impeccable character
 
-+ ZZE
++ FLAWLESS
++ opposite(s): IMPERFECT ; SINFUL
 
 

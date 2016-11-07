@@ -1,16 +1,22 @@
 illicit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Not sanctioned by custom or law; unlawful
++ _adj_: Linguistics. Improperly formed; ungrammatical
 
 ### Origin
 
-ZZC
+[Latin illicitus: in-, not; see in-1 + licitus, lawful; see licit.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: illicit drugs
 
-+ ZZE
++ ILLEGAL
++ opposite(s): LICIT, LEGAL
+
+__eg__: an illicit love affair
+
++ TABOO
++ opposite(s): ABOVE BOARD
 
 

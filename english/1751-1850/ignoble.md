@@ -1,16 +1,17 @@
 ignoble
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Not noble in quality, character, or purpose; base or mean
++ _adj_: Not of the nobility; common
 
 ### Origin
 
-ZZC
+[Middle English, of low birth, from Old French, from Latin ignōbilis: i-, in-, not; see in-1 + nōbilis, gnōbilis, noble; see noble.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the war is being fought over an ignoble cause
 
-+ ZZE
++ DISHONOURABLE
++ opposite(s): NOBLE
 
 

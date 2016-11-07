@@ -1,16 +1,12 @@
 impending
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: an impending event or situation, especially an unpleasant one, is going to happen very soon
+    + __eg__: She had a sense of impending disaster
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had a strange feeling of impending danger
 
-+ ZZE
++ IMMINENT
 
 

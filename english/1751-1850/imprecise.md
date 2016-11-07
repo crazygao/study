@@ -1,16 +1,21 @@
 imprecise
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not precise
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: this is a rather imprecise definition
 
-+ ZZE
++ VAGUE
++ opposite(s): PRECISE, NARROW
+
+__eg__: an imprecise estimate
+
++ INEXACT
++
+opposite(s): PRECISE, EXACT.
+
+LDOCE5
+Collapse article
 
 

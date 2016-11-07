@@ -1,16 +1,16 @@
 immemorial
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Reaching beyond the limits of memory, tradition, or recorded history
 
 ### Origin
 
-ZZC
+[Medieval Latin immemoriālis: Latin in-, not; see in-1 + Latin memoriālis, memorial; see memorial.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an immemorial custom
 
-+ ZZE
++ ANCIENT
++ opposite(s): RECENT
 
 

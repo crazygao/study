@@ -1,16 +1,4 @@
 hypertension
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Arterial disease in which chronic high blood pressure is the primary symptom
++ _noun_: Abnormally elevated blood pressure

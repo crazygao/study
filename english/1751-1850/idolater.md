@@ -1,16 +1,8 @@
 idolater
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who worships idols
++ _noun_: One who blindly or excessively admires or adores another
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English idolatre, from Old French, from Latin īdōlolatrēs, from Greek eidōlolatrēs: eidōlon, idol; see idol + -latrēs, worshiper.]

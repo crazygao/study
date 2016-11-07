@@ -1,16 +1,7 @@
 hydrant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fire hydrant
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+early 19th cent. (originally US): formed irregularly from ↑hydro- ‘relating to water’ + ↑-ant.

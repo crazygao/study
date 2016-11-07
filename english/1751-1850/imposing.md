@@ -1,16 +1,13 @@
 imposing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Impressive, as by virtue of size, bearing, or power
+    + __eg__: the monarch's imposing presence
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an imposing mansion | his imposing physical presence
 
-+ ZZE
++ IMPRESSIVE
++ opposite(s): UNIMPOSING, MODEST
 
 

@@ -1,16 +1,8 @@
 illuminati
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _n.pl_: People claiming to be unusually enlightened with regard to a subject
++ _n.pl_: Illuminati Any of various groups claiming special religious enlightenment
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin illūminātī, from pl. of illūminātus past participle of illūmināre, to light up. See illuminate.

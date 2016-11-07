@@ -1,16 +1,18 @@
 impalpable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not perceptible to the touch; intangible
++ _adj_: Difficult to perceive or grasp by the mind
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an impalpable ghost
 
-+ ZZE
++ INTANGIBLE
++ opposite(s): PALPABLE
+
+__eg__: the impalpable but irresistible influences of authority
+
++ ABSTRUSE
++ opposite(s): UNDERSTANDABLE
 
 

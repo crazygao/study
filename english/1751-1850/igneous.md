@@ -1,16 +1,10 @@
 igneous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, or characteristic of fire
++ _adj_: Geology.
+   1. Formed by solidification from a molten state. Used of rocks.
+   2. Of or relating to rock so formed; pyrogenic
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[From Latin igneus, from ignis, fire.]

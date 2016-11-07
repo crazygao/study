@@ -1,16 +1,16 @@
 ideology
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The body of ideas reflecting the social needs and aspirations of an individual, group, class, or culture
++ _noun_: A set of doctrines or beliefs that form the basis of a political, economic, or other system
 
 ### Origin
 
-ZZC
+[French idéologie: idéo-, ideo- + -logie, -logy.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the horrors spawned by Nazi ideology
 
-+ ZZE
++ BELIEFS
 
 

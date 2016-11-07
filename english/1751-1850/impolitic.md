@@ -1,16 +1,13 @@
 impolitic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not wise or expedient; not politic
+    + __eg__: an impolitic approach to a sensitive issue
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it would be impolitic not to make amends with this man
 
-+ ZZE
++ IMPRUDENT
++ opposite(s): PRUDENT, WISE
 
 

@@ -1,16 +1,12 @@
 implausible
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Difficult to believe; not plausible
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they despaired of his adherence to implausible theories
 
-+ ZZE
++ UNLIKELY
++ opposite(s): PLAUSIBLE ; CONVINCING
 
 

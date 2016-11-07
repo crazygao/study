@@ -1,16 +1,7 @@
 illusive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Illusory
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+early 17th cent.: from medieval Latin illusivus, from Latin illus- ‘mocked’, from the verb illudere (see illusion)

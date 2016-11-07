@@ -1,16 +1,3 @@
 hyperactivity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_:  state or condition of being excessively or pathologically active; especially : attention deficit disorder

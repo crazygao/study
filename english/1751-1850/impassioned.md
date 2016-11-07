@@ -1,16 +1,13 @@
 impassioned
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Filled with passion; fervent
+    + __eg__: an impassioned plea for justice
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she made an impassioned plea for the return of her abducted child
 
-+ ZZE
++ EMOTIONAL
++ opposite(s): HALF-HEARTED
 
 

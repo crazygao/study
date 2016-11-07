@@ -1,16 +1,29 @@
 ignorant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lacking education or knowledge
++ _adj_: Showing or arising from a lack of education or knowledge
+    + __eg__: an ignorant mistake
++ _adj_: Unaware or uninformed
 
 ### Origin
 
-ZZC
+[Middle English ignoraunt, from Old French ignorant, from Latin ignōrāns, ignōrant- present participle of ignōrāre, to be ignorant, not to know. See gnō- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an ignorant country girl
 
-+ ZZE
++ UNEDUCATED
++ opposite(s): EDUCATED, KNOWLEDGEABLE
+
+__eg__: middle-class women were ignorant of working-class life
+
++ WITHOUT KNOWLEDGE
++ opposite(s): KNOWLEDGEABLE ABOUT
+
+__eg__: she could be very ignorant, and he had no intention of getting in an argument
+
++ RUDE
++ opposite(s): POLITE
 
 

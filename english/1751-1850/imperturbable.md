@@ -1,16 +1,12 @@
 imperturbable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Unshakably calm and collected
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: my father was a solid, imperturbable man
 
-+ ZZE
++ SELF-POSSESSED
++ opposite(s): EDGY ; EXCITABLE
 
 

@@ -1,16 +1,17 @@
 imminent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: About to occur; impending
+    + __eg__: in imminent danger
 
 ### Origin
 
-ZZC
+[Middle English iminent, from Old French imminent, from Latin imminēns, imminent- present participle of imminēre, to overhang : in-, in; see in-2 + -minēre, to jut, threaten; See men-2 in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there was speculation that a ceasefire was imminent
 
-+ ZZE
++ IMPENDING
++ opposite(s): REMOTE
 
 
