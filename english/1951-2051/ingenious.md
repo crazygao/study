@@ -1,16 +1,19 @@
 ingenious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Marked by inventive skill and imagination
++ _adj_: Having or arising from an inventive or cunning mind; clever
+    + __eg__: an ingenious scheme
++ _adj_: Obsolete. Having genius; brilliant
 
 ### Origin
 
-ZZC
+[Middle English, from Old French ingenios, from Latin ingeniōsus, from ingenium, inborn talent. See genə- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an ingenious engineer | an ingenious solution
 
-+ ZZE
++ INVENTIVE
++ opposite(s): UNIMAGINATIVE
 
 

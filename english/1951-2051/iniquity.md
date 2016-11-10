@@ -1,16 +1,22 @@
 iniquity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Gross immorality or injustice; wickedness
++ _noun_: A grossly immoral act; a sin
 
 ### Origin
 
-ZZC
+[Middle English iniquite, from Old French, from Latin inīquitās, from inīquus, unjust, harmful : in-, not; see in-1 + aequus, equal.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the iniquity of throwing people into workhouses
 
-+ ZZE
++ WICKEDNESS
++ opposite(s): GOODNESS, VIRTUE
+
+__eg__: I will forgive their iniquity
+
++ SIN
++ opposite(s): VIRTUE
 
 

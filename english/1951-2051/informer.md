@@ -1,16 +1,11 @@
 informer
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: An informant, especially one who informs against others, often for compensation
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the police had a good network of informers
 
-+ ZZE
++ INFORMANT
 
 

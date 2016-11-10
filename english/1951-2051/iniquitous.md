@@ -1,16 +1,17 @@
 iniquitous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Characterized by iniquity; wicked
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we protest against this iniquitous decision
 
-+ ZZE
++ WICKED
++ opposite(s): GOOD
+
+__eg__: his iniquitous uncle
+
++ DISHONOURABLE
++ opposite(s): VIRTUOUS
 
 

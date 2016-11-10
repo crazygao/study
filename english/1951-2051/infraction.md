@@ -1,16 +1,15 @@
 infraction
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: The act or an instance of infringing; a violation
 
 ### Origin
 
-ZZC
+late Middle English: from Latin infractio(n-), from the verb infringere, from in- ‘into’ + frangere ‘to break’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an infraction of the rules
 
-+ ZZE
++ INFRINGEMENT
 
 

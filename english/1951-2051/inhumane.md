@@ -1,16 +1,12 @@
 inhumane
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Lacking pity or compassion
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: torture and inhumane treatment are banned in this country
 
-+ ZZE
++ CRUEL
++ opposite(s): HUMANE, COMPASSIONATE
 
 

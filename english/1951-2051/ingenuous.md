@@ -1,16 +1,17 @@
 ingenuous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lacking in cunning, guile, or worldliness; artless
++ _adj_: Openly straightforward or frank; candid
 
 ### Origin
 
-ZZC
+[Latin ingenuus, honest, freeborn. See genə- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he looked at her with wide, ingenuous eyes
 
-+ ZZE
++ NAIVE
++ opposite(s): DISINGENUOUS ; ARTFUL
 
 

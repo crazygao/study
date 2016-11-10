@@ -1,16 +1,20 @@
 infinitesimal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Immeasurably or incalculably minute
++ _adj_: Mathematics. Capable of having values approaching zero as a limit
+
++ _noun_: An immeasurably or incalculably minute amount or quantity
++ _noun_: Mathematics. A function or variable continuously approaching zero as a limit
 
 ### Origin
 
-ZZC
+[From New Latin īnfīnītēsimus, infinite in rank, from Latin īnfīnītus, infinite. See infinite.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a tiny fish with infinitesimal white scales
 
-+ ZZE
++ MINUTE
++ opposite(s): HUGE
 
 
