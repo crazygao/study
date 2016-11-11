@@ -1,16 +1,16 @@
 jamb
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One of a pair of vertical posts or pieces that together form the sides of a door, window frame, or fireplace, for example
++ _noun_: A projecting mass or columnar part
 
 ### Origin
 
-ZZC
+[Middle English jambe, from Old French, leg, jamb, from Late Latin gamba, horse's hock, leg. See gambol.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he leaned against the door jamb
 
-+ ZZE
++ POST
 
 

@@ -1,16 +1,9 @@
 Krishna
 ### Meaning
-+ _adj_: ZZA
++ _noun_: Hinduism
+ The eighth and principal avatar of Vishnu, often depicted as a handsome young man playing a flute. He appears as a charioteer and advisor of Arjuna in the Bhagavad-Gita
     + __eg__: ZZB
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Sanskrit Kṛṣṇaḥ, from kṛṣṇa-, black.]

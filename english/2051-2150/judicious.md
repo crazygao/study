@@ -1,16 +1,16 @@
 judicious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having or exhibiting sound judgment; prudent
 
 ### Origin
 
-ZZC
+[From French judicieux, from Latin iūdicium, judgment, from iūdex, iūdic-, judge. See judge.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a judicious course of action
 
-+ ZZE
++ WISE
++ opposite(s): INJUDICIOUS, FOOLISH, ILL-ADVISED
 
 

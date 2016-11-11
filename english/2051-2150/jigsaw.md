@@ -1,16 +1,10 @@
 jigsaw
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A usually power-driven saw with a narrow vertical blade, used to cut sharp curves
+
++ _vt_: To cut or form with a jigsaw
++ _vt_: To arrange intricately; interlock
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+late 19th cent.: from the verb ↑jig + the noun ↑saw

@@ -1,16 +1,15 @@
 jubilation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_:A celebration or other expression of joy
++ _noun_:
+   1. The act of rejoicing.
+   2. The condition or feeling of being jubilant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Arlene was unable to conceal her jubilation
 
-+ ZZE
++ EXULTATION
++ opposite(s): DESPONDENCY
 
 

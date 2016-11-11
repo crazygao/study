@@ -1,16 +1,14 @@
 jaundiced
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Affected with jaundice
++ _adj_: Yellow or yellowish
++ _adj_: Affected by or exhibiting envy, prejudice, or hostility
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a jaundiced view of the world
 
-+ ZZE
++ BITTER
++ opposite(s): OPTIMISTIC ; CHARITABLE
 
 

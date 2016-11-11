@@ -1,16 +1,12 @@
 jarring
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: See main entry: ↑jar
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the jarring juxtaposition of opposites
 
-+ ZZE
++ CLASHING
++ opposite(s): HARMONIOUS ; PLEASING
 
 

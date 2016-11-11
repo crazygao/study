@@ -1,16 +1,20 @@
 jaded
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Worn out; wearied
+    + __eg__: “My father's words had left me jaded and depressed” (William Styron).
++ _adj_: Dulled by surfeit; sated
+    + __eg__: “the sickeningly sweet life of the amoral, jaded, bored upper classes” (John Simon).
++ _adj_: Cynically or pretentiously callous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there are soups exotic enough for the most jaded palate
 
-+ ZZE
++ SATIATED
+
+__eg__: she has an eye for the detail a more jaded journalist might overlook
+
++ TIRED
++ opposite(s): FRESH
 
 

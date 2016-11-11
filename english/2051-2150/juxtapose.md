@@ -1,16 +1,15 @@
 juxtapose
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To place side by side, especially for comparison or contrast
 
 ### Origin
 
-ZZC
+[French juxtaposer: Latin iūxtā, close by; See yeug- in Indo-European Roots + French poser, to place (from Old French. See pose1).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her work juxtaposes images from serious and popular art
 
-+ ZZE
++ PLACE/SET SIDE BY SIDE
 
 

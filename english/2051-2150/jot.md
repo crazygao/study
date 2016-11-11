@@ -1,16 +1,22 @@
 jot
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The smallest bit; iota
+
++ _vt_: To write down briefly or hastily
+    + __eg__: jot down an address
 
 ### Origin
 
-ZZC
+[Middle English jote, from Latin iōta, iota, from Greek, iota. See iota.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I've jotted down a few details
 
-+ ZZE
++ WRITE DOWN
+
+__eg__: they have not produced a jot of evidence | she didn't care a jot about him
+
++ IOTA
 
 

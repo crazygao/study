@@ -1,16 +1,13 @@
 jaunt
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A short trip or excursion, usually for pleasure; an outing
 
-### Origin
-
-ZZC
++ _vi_: To make a short journey
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his wife went off for a jaunt round Oxford
 
-+ ZZE
++ TRIP
 
 

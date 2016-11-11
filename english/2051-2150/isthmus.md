@@ -1,16 +1,16 @@
 isthmus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A narrow strip of land connecting two larger masses of land
++ _noun_: Anatomy.
+   1. A narrow strip of tissue joining two larger organs or parts of an organ.
+   2. A narrow passage connecting two larger cavities
 
 ### Origin
 
-ZZC
+mid 16th cent.: via Latin from Greek isthmos
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ strip, spit
 
 

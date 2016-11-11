@@ -1,16 +1,14 @@
 jocund
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Sprightly and lighthearted in disposition, character, or quality
 
 ### Origin
 
-ZZC
+[Middle English, from Old French jocond, from Latin iūcundus, iōcundus, from iuvāre, to help, delight.]
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ CHEERFUL
++ opposite(s): SAD, MISERABLE
 
 

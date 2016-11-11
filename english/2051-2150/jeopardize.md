@@ -1,16 +1,12 @@
 jeopardize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To expose to loss or injury; imperil
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: relocating outside London will jeopardize their competitiveness
 
-+ ZZE
++ THREATEN
++ opposite(s): SAFEGUARD
 
 

@@ -1,16 +1,17 @@
 jocular
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Characterized by joking
++ _adj_: Given to joking
 
 ### Origin
 
-ZZC
+[Latin ioculāris, droll, from ioculus, diminutive of iocus, joke. See yek- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: jocular comments | a jocular mood
 
-+ ZZE
++ HUMOROUS
++ opposite(s): SOLEMN, SERIOUS, EARNEST
 
 

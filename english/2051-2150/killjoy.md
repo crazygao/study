@@ -1,16 +1,11 @@
 killjoy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_:  One who spoils the enthusiasm or fun of others
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: sun worshippers feel the anti-sun lobby are just killjoys
 
-+ ZZE
++ SPOILSPORT
 
 

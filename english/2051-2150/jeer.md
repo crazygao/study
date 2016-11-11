@@ -1,16 +1,25 @@
 jeer
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To speak or shout derisively; mock
++ _vt_: To abuse vocally; taunt
+    + __eg__: jeered the speaker off the stage
+
++ _noun_: A scoffing or taunting remark or shout
 
 ### Origin
 
-ZZC
+[Origin unknown.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the crowd jeered at the referee | the demonstrators jeered the police
 
-+ ZZE
++ TAUNT
++ opposite(s): CHEER ; APPLAUD
+
+__eg__: the jeers of the crowd
+
++ TAUNT
++ opposite(s): CHEER ; APPLAUSE ; APPROVAL
 
 
