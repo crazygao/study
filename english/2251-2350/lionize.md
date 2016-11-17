@@ -1,16 +1,11 @@
 lionize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To look on or treat (a person) as a celebrity
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the band's leader has been lionized by the media
 
-+ ZZE
++ TREAT AS A CELEBRITY
 
 

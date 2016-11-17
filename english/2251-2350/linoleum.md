@@ -1,16 +1,7 @@
 linoleum
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_:  A durable, washable material made in sheets by pressing a mixture of heated linseed oil, rosin, powdered cork, and pigments onto a burlap or canvas backing. Linoleum is used as a covering especially for floors
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Originally a trademark
