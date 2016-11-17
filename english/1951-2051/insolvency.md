@@ -1,16 +1,13 @@
 insolvency
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The condition of being insolvent
++ _noun_: An instance of being insolvent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the firm is on the brink of insolvency
 
-+ ZZE
++ BANKRUPTCY
++ opposite(s): SOLVENCY
 
 

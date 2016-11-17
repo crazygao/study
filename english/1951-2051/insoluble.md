@@ -1,16 +1,22 @@
 insoluble
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: That cannot be dissolved
+    + __eg__: insoluble matter
++ _adj_: Difficult or impossible to solve or explain; insolvable
+    + __eg__: insoluble riddles
 
 ### Origin
 
-ZZC
+[Middle English insolible, from Latin īnsolūbilis: in-, not; see in-1 + solvere, to loosen; see soluble.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we must face the fact that some problems are insoluble
 
-+ ZZE
++ UNSOLVABLE
+
+__eg__: these minerals are relatively insoluble
+
++ NOT SOLUBLE
 
 

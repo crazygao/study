@@ -1,16 +1,18 @@
 inquisitive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_:
++ ZZE
++ _adj_: Unduly curious and inquiring
 
 ### Origin
 
-ZZC
+[Middle English inquisitif, from Old French, from Late Latin inquīsītīvus, from Latin inquīsītus, past participle of inquīrere, to inquire. See inquire.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: their inquisitive neighbours had gathered at the gate
 
-+ ZZE
++ CURIOUS
++ opposite(s): UNINTERESTED
 
 

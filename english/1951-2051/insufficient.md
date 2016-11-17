@@ -1,16 +1,12 @@
 insufficient
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not sufficient; inadequate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there was insufficient time available
 
-+ ZZE
++ INADEQUATE
++ opposite(s): SUFFICIENT
 
 

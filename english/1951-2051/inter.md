@@ -1,16 +1,16 @@
 inter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To place in a grave or tomb; bury
 
 ### Origin
 
-ZZC
+[Middle English enteren, from Old French enterrer, from Medieval Latin interrāre: Latin in-, in; see in-2 + Latin terra, earth; See ters- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his remains were interred in the new cemetery
 
-+ ZZE
++ BURY
++ opposite(s): EXHUME
 
 

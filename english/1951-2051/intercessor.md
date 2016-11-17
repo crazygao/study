@@ -1,16 +1,11 @@
 intercessor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: see intercession form intercede
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they act as priests, intercessors between the people and the gods
 
-+ ZZE
++ MEDIATOR
 
 

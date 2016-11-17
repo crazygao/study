@@ -1,16 +1,9 @@
 insecticide
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A chemical substance used to kill insects
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ PESTICIDE
 
 

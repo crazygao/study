@@ -1,16 +1,21 @@
 insulate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To cause to be in a detached or isolated position
++ _vt_: To prevent the passage of heat, electricity, or sound into or out of, especially by surrounding with a nonconducting material
 
 ### Origin
 
-ZZC
+[Latin īnsula, island + -ate1.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: pipes in the attic must be insulated
 
-+ ZZE
++ WRAP
+
+__eg__: the Netherlands was largely insulated from the full impact of the Great War
+
++ PROTECT
++ opposite(s): INVOLVE
 
 

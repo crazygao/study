@@ -1,16 +1,13 @@
 interplay
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Reciprocal action and reaction; interaction
 
-### Origin
-
-ZZC
++ _vi_: To act or react on each other; interact
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the interplay between military and civilian populations
 
-+ ZZE
++ INTERACTION
 
 

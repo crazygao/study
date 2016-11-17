@@ -1,16 +1,11 @@
 intermingle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt & i_: To mix or become mixed together
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the two species of finch rarely intermingle | continue cooking to intermingle the flavours
 
-+ ZZE
++ MIX
 
 

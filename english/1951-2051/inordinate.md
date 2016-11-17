@@ -1,16 +1,17 @@
 inordinate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Exceeding reasonable limits; immoderate
++ _adj_: Not regulated; disorderly
 
 ### Origin
 
-ZZC
+[Middle English inordinat, from Latin inōrdinātus, disordered : in-, not; see in-1 + ōrdinātus, past participle of ōrdināre, to set in order (from ōrdō, ōrdin-, order. See ar- in Indo-European Roots).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the job had taken an inordinate amount of time | she had inordinate financial reserves
 
-+ ZZE
++ EXCESSIVE
++ opposite(s): MODERATE ; LIMITED
 
 

@@ -1,16 +1,12 @@
 instructive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Conveying knowledge or information; enlightening
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a recent study of cooperatives makes instructive reading
 
-+ ZZE
++ INFORMATIVE
++ opposite(s): UNENLIGHTENING
 
 

@@ -1,16 +1,10 @@
 insincerity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: insincere
+    + __eg__: She accused him of insincerity
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ deceitfulness, dishonesty, dissimulation, duplicity, hypocrisy, pretence, untruthfulness
 
 

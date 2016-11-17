@@ -1,16 +1,13 @@
 insolence
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality or condition of being insolent
++ _noun_: An instance of insolent behavior, treatment, or speech
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I will not stand for your insolence!
 
-+ ZZE
++ IMPERTINENCE
++ opposite(s): POLITENESS
 
 

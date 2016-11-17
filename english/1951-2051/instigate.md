@@ -1,16 +1,22 @@
 instigate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To urge on; goad
++ _vt_: To stir up; foment
 
 ### Origin
 
-ZZC
+[Latin īnstīgāre, īnstīgāt-. See steig- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the Commission instigated formal proceedings | he accused union leaders of instigating the disturbances
 
-+ ZZE
++ SET IN MOTION
++ opposite(s): HALT
+
+__eg__: the clergy were criticized for instigating men to refuse allegiance
+
++ INCITE
++ opposite(s): DISSUADE
 
 

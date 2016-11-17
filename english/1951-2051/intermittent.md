@@ -1,16 +1,18 @@
 intermittent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Stopping and starting at intervals
++ _adj_: Alternately containing and empty of water
+    + __eg__: an intermittent lake
 
 ### Origin
 
-ZZC
+[intermittent intermittently] mid 16th cent.: from Latin intermittent- ‘ceasing’, from the verb intermittere, from inter- ‘between’ + mittere ‘let go’
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they heard intermittent bursts of gunfire
 
-+ ZZE
++ SPORADIC
++ opposite(s): CONTINUOUS ; STEADY
 
 

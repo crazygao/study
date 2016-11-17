@@ -1,16 +1,15 @@
 insomnia
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Chronic inability to fall asleep or remain asleep for an adequate length of time
 
 ### Origin
 
-ZZC
+[Latin īnsomnia, from īnsomnis, sleepless : in-, not; see in-1 + somnus, sleep; See swep- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Anna was suffering from anxiety and insomnia
 
-+ ZZE
++ SLEEPLESSNESS
 
 

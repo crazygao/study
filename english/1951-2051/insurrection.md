@@ -1,16 +1,15 @@
 insurrection
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act or an instance of open revolt against civil authority or a constituted government
 
 ### Origin
 
-ZZC
+[Middle English, from Old French, from Late Latin īnsurrēctiō, īnsurrēctiōn-, from Latin īnsurrēctus, past participle of īnsurgere, to rise up. See insurgent.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the leaders of the insurrection surrendered
 
-+ ZZE
++ REBELLION
 
 

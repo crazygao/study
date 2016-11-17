@@ -1,16 +1,16 @@
 intercede
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To plead on another's behalf
++ _vi_: To act as mediator in a dispute
 
 ### Origin
 
-ZZC
+[Latin intercēdere, to intervene : inter-, inter- + cēdere, to go; See ked- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: several nations offered to intercede on the captives' behalf
 
-+ ZZE
++ MEDIATE
 
 

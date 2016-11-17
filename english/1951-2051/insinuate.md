@@ -1,16 +1,22 @@
 insinuate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
+
++ _vt_: To introduce or insert (oneself) by subtle and artful means
++ _vt_: To introduce or otherwise convey (a thought, for example) gradually and insidiously
++ _vi_: To make insinuations
 
 ### Origin
 
-ZZC
+[Latin īnsinuāre, īnsinuāt- : in-, in; see in-2 + sinuāre, to curve (from sinus, curve).]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he insinuated that she lied
 
-+ ZZE
++ IMPLY
+
+__eg__: he insinuated his right hand under her arm
+
++ SLIDE
 
 
