@@ -1,16 +1,16 @@
 loathe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To dislike (someone or something) greatly; abhor
 
 ### Origin
 
-ZZC
+Middle English lothen, from Old English lāthian
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the staff at school loathed him | cats loathe vinegar
 
-+ ZZE
++ HATE
++ opposite(s): LOVE, LIKE
 
 

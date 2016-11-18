@@ -1,16 +1,19 @@
 lithe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Readily bent; supple
+    + __eg__: lithe birch branches
++ _adj_: Marked by effortless grace
+    + __eg__: a lithe ballet dancer
 
 ### Origin
 
-ZZC
+Middle English, from Old English līthe, flexible, mild
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his tall lithe figure
 
-+ ZZE
++ AGILE
++ opposite(s): CLUMSY, STIFF
 
 

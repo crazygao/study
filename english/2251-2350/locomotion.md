@@ -1,16 +1,16 @@
 locomotion
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act of moving from place to place
++ _noun_: The act of moving from place to place
 
 ### Origin
 
-ZZC
+Latin locō, from a place, ablative of locus, place + motion
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: spider monkeys have prehensile tails used in posture, locomotion, and grasping | steam locomotion
 
-+ ZZE
++ MOVEMENT
 
 

@@ -1,16 +1,17 @@
 loath
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Unwilling or reluctant; disinclined
+    + __eg__: I am loath to go on such short notice
 
 ### Origin
 
-ZZC
+Middle English loth, displeasing, loath, from Old English lāth, hateful, loathsome
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the batsmen were loath to take risks
 
-+ ZZE
++ RELUCTANT
++ opposite(s): WILLING, EAGER
 
 

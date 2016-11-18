@@ -1,16 +1,8 @@
 lissome
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Easily bent; supple
++ _adj_: Having the ability to move with ease; limber
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Alteration of lithesome

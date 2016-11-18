@@ -1,16 +1,7 @@
 literati
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _npl_: The literary intelligentsia
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin litterātī, līterātī, pl. of litterātus, literate. See literate.
