@@ -1,16 +1,12 @@
 lustrous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having a sheen or glow
++ _adj_: Gleaming with or as if with brilliant light; radiant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: lustrous black hair
 
-+ ZZE
++ SHINY
 
 

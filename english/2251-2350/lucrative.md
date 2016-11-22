@@ -1,16 +1,17 @@
 lucrative
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Producing wealth; profitable
+    + __eg__: a lucrative income; a lucrative marketing strategy
 
 ### Origin
 
-ZZC
+Middle English lucratif, from Old French, from Latin lucrātīvus, from lucrātus, past participle of lucrārī, to profit, from lucrum, profit. See lau- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a lucrative business
 
-+ ZZE
++ PROFITABLE
++ opposite(s): UNPROFITABLE
 
 

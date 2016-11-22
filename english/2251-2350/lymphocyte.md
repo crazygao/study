@@ -1,16 +1,3 @@
 lymphocyte
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Any of the nearly colorless cells found in the blood, lymph, and lymphoid tissues, constituting approximately 25 percent of white blood cells and including B cells, which function in humoral immunity, and T cells, which function in cellular immunity

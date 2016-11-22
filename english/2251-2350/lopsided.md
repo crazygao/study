@@ -1,16 +1,15 @@
 lopsided
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Heavier, larger, or higher on one side than on the other
++ _adj_: Sagging or leaning to one side
++ _adj_: Characterized by the domination of one competitor over another
+    + __eg__: a lopsided victory
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he gave a rather lopsided grin
 
-+ ZZE
++ ASYMMETRICAL
++ opposite(s): EVEN, LEVEL, BALANCED
 
 

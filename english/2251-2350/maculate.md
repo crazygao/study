@@ -1,16 +1,10 @@
 maculate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To spot, blemish, or pollute
+
++ _adj_: Spotted or blotched
++ _adj_: Stained; impure
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English maculaten, from Latin maculāre, maculāt-, from macula, spot

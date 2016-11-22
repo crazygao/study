@@ -1,16 +1,33 @@
 lucid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Easily understood; intelligible
++ _adj_: Mentally sound; sane or rational
++ _adj_: Translucent or transparent
 
 ### Origin
 
-ZZC
+Latin lūcidus, from lūcēre, to shine. See leuk- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a lucid introduction to the philosophy of mind
 
-+ ZZE
++ INTELLIGIBLE
++ opposite(s): CONFUSING, UNCLEAR, AMBIGUOUS
+
+__eg__: occasionally she has these lucid moments where she's herself again
+
++ RATIONAL
++ opposite(s): MUDDLED
+
+__eg__: (poetic/literary) the lucid stars
+
++ BRIGHT
++ opposite(s): DARK, DULL
+
+__eg__: the lucid waves
+
++ TRANSLUCENT
++ opposite(s): OPAQUE ; CLOUDY
 
 

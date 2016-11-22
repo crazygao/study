@@ -1,16 +1,4 @@
 lumberjack
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: One who fells trees and transports the timber to a mill; a logger
++ _noun_: A short, warm outer jacket. Also called lumber jacket

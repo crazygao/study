@@ -1,16 +1,15 @@
 loon
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of several fish-eating, diving birds of the genus Gavia of northern regions, having a short tail, webbed feet, and a laughlike cry
 
 ### Origin
 
-ZZC
+Perhaps alteration of dialectal loom, guillemot, diver, from Old Norse lōmr
 
-### Synonym
+loon
+### Meaning
++ _noun_: One who is crazy or deranged
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+Probably from loon1(from from its loud cry), and influenced by lunatic

@@ -1,16 +1,9 @@
 lye
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: See potassium hydroxide
++ _noun_: See sodium hydroxide
++ _noun_: The liquid obtained by leaching wood ashes
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English lie, from Old English lēag. See leu(ə)- in Indo-European Roots

@@ -1,16 +1,11 @@
 loutish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having the characteristics of a lout; awkward, stupid, and boorish
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a loutish youth | his loutish behaviour
 
-+ ZZE
++ UNCOUTH
 
 

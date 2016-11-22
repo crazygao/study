@@ -1,16 +1,16 @@
 loquacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Very talkative; garrulous
 
 ### Origin
 
-ZZC
+From Latin loquāx, loquāc-, from loquī, to speak. See tolkʷ- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a loquacious and precocious boy
 
-+ ZZE
++ TALKATIVE
++ opposite(s): RETICENT, TACITURN
 
 

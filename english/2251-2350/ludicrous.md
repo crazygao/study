@@ -1,16 +1,16 @@
 ludicrous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Laughable or hilarious because of obvious absurdity or incongruity
 
 ### Origin
 
-ZZC
+From Latin lūdicrus, sportive, from lūdus, game. See leid- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it was ludicrous to be so young, and yet a has-been | a ludicrous situation
 
-+ ZZE
++ ABSURD
++ opposite(s): SENSIBLE, SERIOUS, SOLEMN
 
 

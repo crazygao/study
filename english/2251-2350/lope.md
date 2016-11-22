@@ -1,16 +1,17 @@
 lope
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To run or ride with a steady, easy gait
+
++ _noun_: A steady, easy gait
 
 ### Origin
 
-ZZC
+Middle English lopen, to leap, from Old Norse hlaupa
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he loped off down the corridor
 
-+ ZZE
++ STRIDE
 
 
