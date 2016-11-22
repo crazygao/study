@@ -1,16 +1,10 @@
 leniency
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The condition or quality of being lenient
++ _noun_: A lenient act
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ tolerance, clemency, compassion, forbearance, indulgence, mercy, moderation, pity, quarter
 
 

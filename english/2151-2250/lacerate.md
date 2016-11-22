@@ -1,16 +1,21 @@
 lacerate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To rip, cut, or tear
++ _vt_: To cause deep emotional pain to; distress
+
++ _adj_: Torn; mangled
++ _adj_: Wounded
++ _adj_: Having jagged, deeply cut edges
+    + __eg__: lacerate leaves
 
 ### Origin
 
-ZZC
+[Middle English laceraten, from Latin lacerāre, lacerāt-, from lacer, torn.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: jagged edges that lacerated their arms
 
-+ ZZE
++ CUT (OPEN)
 
 

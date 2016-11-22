@@ -1,16 +1,21 @@
 largesse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: the act or quality of being generous with money; money that you give to people who have less than you
+    + __eg__: She is not noted for her largesse
 
 ### Origin
 
-ZZC
+[largesse] Middle English: from Old French, from Latin largus ‘copious’.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Tupper took advantage of his friend's largesse
 
-+ ZZE
++ GENEROSITY
++ opposite(s): MEANNESS, MISERLINESS
+
+__eg__:  he had distributed largesse on a big scale to the locals
+
++ GIFTS
 
 

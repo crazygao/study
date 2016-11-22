@@ -1,16 +1,14 @@
 leisurely
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Acting, proceeding, or done without haste; unhurried
 
-### Origin
-
-ZZC
++ _adv_: In an unhurried manner; slowly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the journey was taken at a leisurely pace | a leisurely stroll
 
-+ ZZE
++ UNHURRIED
++ opposite(s): BRISK, HURRIED
 
 

@@ -1,16 +1,20 @@
 lair
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The den or dwelling of a wild animal
++ _noun_: A den or hideaway
 
 ### Origin
 
-ZZC
+[Middle English, from Old English leger. See legh- in Indo-European Roots.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the lair of a large python
 
-+ ZZE
++ DEN
+
+__eg__: the lair of a villain
+
++ HIDEAWAY
 
 

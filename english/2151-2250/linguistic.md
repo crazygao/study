@@ -1,16 +1,11 @@
 linguistic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of or relating to language or linguistics
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the meanings of linguistic expressions | a child's linguistic ability
 
-+ ZZE
++ LANGUAGE-PRODUCING
 
 

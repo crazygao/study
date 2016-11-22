@@ -1,16 +1,13 @@
 leery
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Suspicious or distrustful; wary
+    + __eg__: was leery of aggressive salespeople
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a bit leery of her from the buffeting she'd given him earlier
 
-+ ZZE
++ WARY
++ opposite(s): HEEDLESS, TRUSTFUL
 
 

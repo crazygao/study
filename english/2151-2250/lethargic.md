@@ -1,16 +1,11 @@
 lethargic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, causing, or characterized by lethargy
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she became depressed and lethargic
 
-+ ZZE
-
++ SLUGGISH
++ opposite(s): VIGOROUS, ENERGETIC, ANIMATED
 

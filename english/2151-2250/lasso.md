@@ -1,16 +1,9 @@
 lasso
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A long rope with a running noose at one end, used especially to catch horses and cattle. Also called lariat
+
++ _vt_: To catch with or as if with such a long rope
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Spanish lazo, from Vulgar Latin *laceum, noose. See lace

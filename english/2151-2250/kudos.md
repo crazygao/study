@@ -1,16 +1,16 @@
 kudos
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Acclaim or praise for exceptional achievement
 
 ### Origin
 
-ZZC
+[Greek kūdos, magical glory.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: much kudos is attached to the position
 
-+ ZZE
++ PRESTIGE
++ opposite(s): OBSCURITY, INFAMY
 
 

@@ -1,16 +1,17 @@
 lethargy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of sluggishness, inactivity, and apathy
++ _noun_: A state of unconsciousness resembling deep sleep
 
 ### Origin
 
-ZZC
+Middle English letargie, from Old French, from Late Latin lēthārgia, from Greek lēthārgiā, from lēthārgos, forgetful : lēthē, forgetfulness + ārgos, idle (a-, without; see a-1 + ergon, work; See werg- in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: with an effort, Miles shook off the lethargy that had been creeping over him since his wife's death
 
-+ ZZE
++ SLUGGISHNESS
++ opposite(s): VIGOUR, ENERGY, ANIMATION
 
 

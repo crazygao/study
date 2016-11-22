@@ -1,16 +1,18 @@
 lambaste
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To give a thrashing to; beat
++ _vt_: To scold sharply; berate
 
 ### Origin
 
-ZZC
+
+[Perhaps lam1 + baste3.]
+
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the manager fiercely lambasted his team
 
-+ ZZE
++ CRITICIZE
 
 

@@ -1,16 +1,5 @@
 latency
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The state or quality of being latent
++ _noun_: Psychology. The latency period
++ _noun_: A latent period

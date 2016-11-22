@@ -1,16 +1,8 @@
 kinetic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, or produced by motion
++ _adj_: Relating to or exhibiting kinesis
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Greek kīnētikos, from kīnētos, moving, from kīnein, to move. See kei-2 in Indo-European Roots.]

@@ -1,16 +1,16 @@
 lassitude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state or feeling of weariness, diminished energy, or listlessness
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin lassitūdō, from lassus, weary. See lē- in Indo-European Roots.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: prolonged periods of lassitude which she ascribed to the heat
 
-+ ZZE
++ LETHARGY
++ opposite(s): VIGOUR, ENERGY
 
 

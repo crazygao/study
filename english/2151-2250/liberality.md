@@ -1,16 +1,10 @@
 liberality
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality or state of being liberal or generous
++ _noun_: An instance of being liberal
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ generosity, beneficence, benevolence, bounty, charity, kindness, largesse or largess, munificence, philanthropy
 
 

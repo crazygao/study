@@ -1,16 +1,19 @@
 knave
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An unprincipled, crafty fellow
++ _noun_:
+   a. A male servant.
+   b. A man of humble birth
++ _noun_: Games. See jack
 
 ### Origin
 
-ZZC
+[Middle English, from Old English cnafa, boy, male servant.]
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: (archaic) don't let yourself by hoodwinked by that knave
 
-+ ZZE
++ SCOUNDREL
 
 

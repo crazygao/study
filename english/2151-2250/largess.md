@@ -1,16 +1,10 @@
 largess
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_:
+   1. Liberality in bestowing gifts, especially in a lofty or condescending manner.
+   2. Money or gifts bestowed
++ _noun_: Generosity of spirit or attitude
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English largesse, from Old French, from large, generous, from Latin largus.]

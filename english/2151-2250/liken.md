@@ -1,16 +1,15 @@
 liken
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To see, mention, or show as similar; compare
 
 ### Origin
 
-ZZC
+Middle English liknen, from like, similar. See like2
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: these sculptures have been likened to seashells
 
-+ ZZE
++ COMPARE
 
 

@@ -1,16 +1,10 @@
 lancet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Medicine. A surgical knife with a short, wide, pointed double-edged blade, used especially for making punctures and small incisions. Also called lance
++ _noun_: Architecture.
+   1. A lancet arch.
+   2. A lancet window
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[Middle English, from Old French, diminutive of lance, lance. See lance.]

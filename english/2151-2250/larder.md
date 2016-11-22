@@ -1,16 +1,14 @@
 larder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A place, such as a pantry or cellar, where food is stored
++ _noun_: A supply of food
 
 ### Origin
 
-ZZC
+[Middle English, from Anglo-Norman, from Medieval Latin lārdārium, from Latin lārdum, bacon.]
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ PANTRY
 
 

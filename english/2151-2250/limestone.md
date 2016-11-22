@@ -1,16 +1,3 @@
 limestone
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A common sedimentary rock consisting mostly of calcium carbonate, CaCO3, used as a building stone and in the manufacture of lime, carbon dioxide, and cement

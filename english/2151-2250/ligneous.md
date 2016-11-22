@@ -1,16 +1,7 @@
 ligneous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Consisting of or having the texture or appearance of wood; woody
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin ligneus, from lignum, wood. See leg- in Indo-European Roots

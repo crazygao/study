@@ -1,16 +1,22 @@
 knotty
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Tied or snarled in knots
++ _adj_: Covered with knots or knobs; gnarled
++ _adj_: Difficult to understand or solve
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a knotty legal problem
 
-+ ZZE
++ COMPLEX
++ opposite(s): STRAIGHTFORWARD, SIMPLE
+
+__eg__: knotty roots of gorse bushes
+
++ GNARLED
+
+__eg__: a knotty piece of thread
+
++ KNOTTED
 
 
