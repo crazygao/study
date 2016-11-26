@@ -1,16 +1,7 @@
 malfeasance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Misconduct or wrongdoing, especially by a public official
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Anglo-Norman malfaisance, from Old French malfaisant, malfeasant, present participle of malfaire, to do evil, from Latin malefacere. See malefactor

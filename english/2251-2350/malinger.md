@@ -1,16 +1,15 @@
 malinger
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To feign illness or other incapacity in order to avoid duty or work
 
 ### Origin
 
-ZZC
+From French malingre, sickly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the doctor alleged that the plaintiff was malingering
 
-+ ZZE
++ PRETEND TO BE ILL
 
 

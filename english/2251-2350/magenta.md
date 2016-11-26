@@ -1,16 +1,14 @@
 magenta
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: See fuchsin
++ _noun_: A purplish red, one of the subtractive primary colors
 
 ### Origin
 
-ZZC
+After Magenta, a town of northwest Italy
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ REDDISH-PURPLE
 
 

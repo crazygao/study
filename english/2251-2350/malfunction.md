@@ -1,16 +1,19 @@
 malfunction
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To fail to function
++ _vi_: To function improperly
 
-### Origin
-
-ZZC
++ _noun_: Failure to function
++ _noun_: Faulty or abnormal functioning
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the computer has malfunctioned
 
-+ ZZE
++ CRASH
+
+__eg__: a major computer malfunction
+
++ CRASH
 
 

@@ -1,16 +1,14 @@
 malapropism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Ludicrous misuse of a word, especially by confusion with one of similar sound
++ _noun_: An example of such misuse
 
 ### Origin
 
-ZZC
+From malaprop
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ WRONG WORD
 
 

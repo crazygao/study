@@ -1,16 +1,8 @@
 maize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: See corn1
++ _noun_: A light yellow to moderate orange yellow
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Spanish maíz, from Arawakan mahiz, mahís

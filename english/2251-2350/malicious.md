@@ -1,16 +1,13 @@
 malicious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having the nature of or resulting from malice; deliberately harmful; spiteful
+    + __eg__: malicious gossip
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he bore their malicious insults with dignity
 
-+ ZZE
++ SPITEFUL
++ opposite(s): BENEVOLENT
 
 

@@ -1,16 +1,17 @@
 maladroit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Marked by a lack of adroitness; inept
+
++ _noun_: An inept person
 
 ### Origin
 
-ZZC
+French : mal-, mal- + adroit, adroit; see adroit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: both men are unhappy about the maladroit way the matter has been handled
 
-+ ZZE
++ BUNGLING
 
 

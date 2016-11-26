@@ -1,16 +1,18 @@
 mammoth
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of various large, hairy, extinct elephants of the genus Mammuthus, especially the woolly mammoth
++ _noun_: Something of great size
+
++ _adj_: Of enormous size; huge
 
 ### Origin
 
-ZZC
+Obsolete Russian mamut, mamot
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a mammoth task | a crisis of mammoth proportions
 
-+ ZZE
++ HUGE
 
 

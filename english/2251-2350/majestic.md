@@ -1,16 +1,11 @@
 majestic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having or showing lofty dignity or nobility; stately
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: majestic mountain scenery | his father's majestic presence
 
-+ ZZE
++ EXALTED
 
 

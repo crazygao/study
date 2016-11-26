@@ -1,16 +1,13 @@
 magnanimity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality of being magnanimous
++ _noun_: A magnanimous act
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Herbert's magnanimity in making do with the smaller bedroom
 
-+ ZZE
++ GENEROSITY
++ opposite(s): MEANNESS, SELFISHNESS
 
 
