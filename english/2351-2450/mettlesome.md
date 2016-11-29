@@ -1,16 +1,11 @@
 mettlesome
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Full of mettle; spirited and plucky
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a rider who likes a mettlesome horse
 
-+ ZZE
++ SPIRITED
 
 

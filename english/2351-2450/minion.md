@@ -1,16 +1,18 @@
 minion
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An obsequious follower or dependent; a sycophant
++ _noun_: A subordinate official
++ _noun_: One who is highly esteemed or favored; a darling
 
 ### Origin
 
-ZZC
+French mignon, darling, from Old French mignot, mignon
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Inspector Cotton and his minion Sergeant Mack
 
-+ ZZE
++ UNDERLING
++ opposite(s): PEER
 
 

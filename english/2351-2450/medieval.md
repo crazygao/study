@@ -1,16 +1,21 @@
 medieval
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Relating or belonging to the Middle Ages
++ _adj_: Informal. Old-fashioned; unenlightened
+    + __eg__: parents with a medieval attitude toward dating
 
 ### Origin
 
-ZZC
+From New Latin medium aevum, the middle age : Latin, neuter of medius, middle; See medhyo- in Indo-European Roots + Latin aevum, age; See aiw- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
++ OF THE MIDDLE AGES
++ opposite(s): MODERN
 
-+ ZZE
+__eg__: the plumbing's a bit medieval, I'm afraid | their medieval behaviour
+
++ PRIMITIVE
++ opposite(s): MODERN
 
 

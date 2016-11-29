@@ -1,16 +1,15 @@
 measly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Slang. Contemptibly small; meager
+    + __eg__: gave the parking attendant a measly tip
++ _adj_: Infected with measles
 
 ### Origin
 
-ZZC
+late 16th cent. (describing a pig or pork infected with measles): from ↑measles + ↑-y. The current sense dates from the mid 19th cent
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ meagre, miserable, paltry, pathetic, pitiful, poor, puny, scanty, skimpy
 
 

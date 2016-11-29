@@ -1,16 +1,15 @@
 meteoric
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, or formed by a meteoroid
++ _adj_: Of or relating to the earth's atmosphere
++ _adj_: Similar to a meteor in speed, brilliance, or brevity
+    + __eg__: a meteoric rise to fame
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her meteoric rise to fame
 
-+ ZZE
++ RAPID
++ opposite(s): SLOW, GRADUAL, LONG-DRAWN-OUT
 
 

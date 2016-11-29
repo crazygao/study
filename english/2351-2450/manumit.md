@@ -1,16 +1,7 @@
 manumit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To free from slavery or bondage; emancipate
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English manumitten, from Old French manumitter, from Latin manūmittere: manū, ablative of manus, hand; See man-2 in Indo-European Roots + mittere, to send from

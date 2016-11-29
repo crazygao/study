@@ -1,16 +1,7 @@
 menthol
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A white crystalline organic compound, CH3C6H9(C3H7)OH, obtained from peppermint oil or synthesized. It is used in perfumes, in cigarettes, as a mild topical anesthetic, and as a mint flavoring
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+German, from Latin menta, mentha, mint. See mint2

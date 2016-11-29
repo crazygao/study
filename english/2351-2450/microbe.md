@@ -1,16 +1,15 @@
 microbe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A minute life form; a microorganism, especially a bacterium that causes disease. Not in technical use
 
 ### Origin
 
-ZZC
+French : Greek mīkro-, micro- + Greek bios, life; See gʷei- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: microbes which cause dangerous diseases
 
-+ ZZE
++ MICRO-ORGANISM
 
 

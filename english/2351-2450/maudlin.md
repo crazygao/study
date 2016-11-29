@@ -1,16 +1,22 @@
 maudlin
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Effusively or tearfully sentimental
+    + __eg__: “displayed an almost maudlin concern for the welfare of animals” (Aldous Huxley).
 
 ### Origin
 
-ZZC
+Alteration of Mary Magdalene, who was frequently depicted as a tearful penitent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a bout of maudlin self-pity
 
-+ ZZE
++ SENTIMENTAL
++ opposite(s): AUSTERE, UNDEMONSTRATIVE
+
+__eg__: a maudlin Irish ballad
+
++ MAWKISH
++ opposite(s): UNDERSTATED, DRY, PROSAIC
 
 

@@ -1,16 +1,13 @@
 methodical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Arranged or proceeding in regular, systematic order
++ _adj_: Characterized by ordered and systematic habits or behavior
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a methodical approach to the evaluation of computer systems
 
-+ ZZE
++ ORDERLY
++ opposite(s): DISORGANIZED, CHAOTIC, INEFFICIENT
 
 

@@ -1,16 +1,7 @@
 minaret
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A tall slender tower attached to a mosque, having one or more projecting balconies from which a muezzin summons the people to prayer
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French, from Turkish minārat, from Arabic manāra, lamp. See nwr in Semitic Roots

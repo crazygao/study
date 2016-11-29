@@ -1,16 +1,17 @@
 mawkish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Excessively and objectionably sentimental
++ _adj_: Sickening or insipid in taste
 
 ### Origin
 
-ZZC
+From Middle English mawke, maggot, variant of magot. See maggot
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a long and mawkish poem
 
-+ ZZE
++ SENTIMENTAL
++ opposite(s): COOL, DRY
 
 

@@ -1,16 +1,22 @@
 meek
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Showing patience and humility; gentle
++ _adj_: Easily imposed on; submissive
 
 ### Origin
 
-ZZC
+Middle English meke, of Scandinavian origin; akin to Old Norse mjūkr, soft
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they used to call her Miss Mouse because she was so meek and mild
 
-+ ZZE
++ PATIENT
++ opposite(s): IMPATIENT, ASSERTIVE
+
+__eg__: the meek compliance of our politicians
+
++ SUBMISSIVE
++ opposite(s): ASSERTIVE, OVERBEARING
 
 

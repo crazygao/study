@@ -1,16 +1,7 @@
 marionette
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A jointed puppet manipulated from above by strings or wires attached to its limbs
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French marionnette, from Old French, musical instrument, diminutive of mariole the Virgin Mary, from diminutive of Marie, Mary (influenced by the name Marion), from Late Latin Maria. See Mary1

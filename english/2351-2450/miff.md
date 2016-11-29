@@ -1,16 +1,10 @@
 miff
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A petulant, bad-tempered mood; a huff
++ _noun_: A petty quarrel or argument; a tiff
+
++ _vt_: To cause to become offended or annoyed
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Possibly expressive of disgust

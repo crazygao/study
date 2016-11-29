@@ -1,16 +1,16 @@
 meritorious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Deserving reward or praise; having merit
 
 ### Origin
 
-ZZC
+Middle English, from Latin meritōrius, earning money, from meritus, past participle of merēre, to earn. See merit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the captain was awarded a medal for meritorious conduct
 
-+ ZZE
++ PRAISEWORTHY
++ opposite(s): WORTHLESS, DISCREDITABLE
 
 

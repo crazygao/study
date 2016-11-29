@@ -1,16 +1,23 @@
 mar
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To inflict damage, especially disfiguring damage, on
++ _vt_: To impair the soundness, perfection, or integrity of; spoil
+
++ _vt_: A disfiguring mark; a blemish
 
 ### Origin
 
-ZZC
+Middle English merren, from Old English mierran, merran, to impede
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an ugly scar marred his features
 
-+ ZZE
++ SPOIL
++ opposite(s): IMPROVE, ENHANCE
+
+__eg__: the celebrations were marred by violence
+
++ SPOIL
 
 

@@ -1,16 +1,19 @@
 mendacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lying; untruthful
+    + __eg__: a mendacious child
++ _adj_: False; untrue
+    + __eg__: a mendacious statement
 
 ### Origin
 
-ZZC
+From Latin mendācium, lie, from mendāx, mendāc-, mendacious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: mendacious propaganda
 
-+ ZZE
++ LYING
++ opposite(s): TRUTHFUL
 
 

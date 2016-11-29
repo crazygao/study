@@ -1,16 +1,7 @@
 margarine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fatty solid butter substitute consisting of a blend of hydrogenated vegetable oils mixed with emulsifiers, vitamins, coloring matter, and other ingredients
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French, from Greek margaron, pearl, probably back-formation from margarītēs. See margarite

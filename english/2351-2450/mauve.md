@@ -1,16 +1,7 @@
 mauve
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A moderate grayish violet to moderate reddish purple
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French, from Old French mallow, from Latin malva. See mallow

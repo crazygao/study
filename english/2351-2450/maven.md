@@ -1,16 +1,7 @@
 maven
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A person who has special knowledge or experience; an expert
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Yiddish meyvn, from Hebrew mēbîn, active participle of hēbîn, to understand derived stem of bîn, to discern. See byn in Semitic Roots

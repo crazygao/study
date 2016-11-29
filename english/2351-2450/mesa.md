@@ -1,16 +1,7 @@
 mesa
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A broad, flat-topped elevation with one or more clifflike sides, common in the southwest United States
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Spanish, table, mesa, from Old Spanish, table, from Latin mēnsa

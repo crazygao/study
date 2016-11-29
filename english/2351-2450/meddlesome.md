@@ -1,16 +1,11 @@
 meddlesome
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Inclined to meddle or interfere
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a growing demand for more efficient and less meddlesome government
 
-+ ZZE
++ INTERFERING
 
 

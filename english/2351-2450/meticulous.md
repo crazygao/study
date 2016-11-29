@@ -1,16 +1,17 @@
 meticulous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Extremely careful and precise
++ _adj_: Extremely or excessively concerned with details
 
 ### Origin
 
-ZZC
+From Latin metīculōsus, timid, from metus, fear
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: meticulous attention to detail
 
-+ ZZE
++ CAREFUL
++ opposite(s): CARELESS, SLOPPY, SLAPDASH
 
 

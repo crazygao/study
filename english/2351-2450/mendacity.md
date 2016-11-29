@@ -1,16 +1,10 @@
 mendacity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The condition of being mendacious; untruthfulness
++ _noun_: A lie; a falsehood
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ LYING
 
 
