@@ -1,16 +1,14 @@
 nepotism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Favoritism shown or patronage granted to relatives, as in business
 
 ### Origin
 
-ZZC
+French népotisme, from Italian nepotismo, from nepote, nephew, from Latin nepōs, nepōt-. See nepōt- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ FAVOURITISM
++ opposite(s): IMPARTIALITY
 
 

@@ -1,16 +1,16 @@
 nauseate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: To feel or cause to feel nausea
++ _vt & i_: To feel or cause to feel loathing or disgust
 
 ### Origin
 
-ZZC
+Latin nauseāre, nauseāt-, from nausea, nausea. See nausea
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the smell of the meat nauseated her
 
-+ ZZE
++ CAUSE TO FEEL SICK
 
 

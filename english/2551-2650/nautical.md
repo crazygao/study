@@ -1,16 +1,13 @@
 nautical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, or characteristic of ships, shipping, sailors, or navigation on a body of water
 
 ### Origin
 
-ZZC
+From Latin nauticus, from Greek nautikos, from nautēs, sailor, from naus, ship. See nāu- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ MARITIME
 
 

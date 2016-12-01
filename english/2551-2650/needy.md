@@ -1,16 +1,13 @@
 needy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Being in need; impoverished
++ _adj_: Wanting or needing affection, attention, or reassurance, especially to an excessive degree
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the food went to needy families in the area
 
-+ ZZE
++ POOR
++ opposite(s): WEALTHY, AFFLUENT, RICH, WELL OFF
 
 

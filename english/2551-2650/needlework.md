@@ -1,16 +1,9 @@
 needlework
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Work, such as sewing or embroidery, that is done with a needle
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ SEWING
 
 

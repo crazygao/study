@@ -1,16 +1,16 @@
 nefarious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Infamous by way of being extremely wicked
 
 ### Origin
 
-ZZC
+Latin nefārius, from nefās, crime, transgression : ne-, not; See ne in Indo-European Roots + fās, divine law; See dhē- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the nefarious activities of the body-snatchers
 
-+ ZZE
++ WICKED
++ opposite(s): GOOD, ADMIRABLE
 
 

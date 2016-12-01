@@ -1,16 +1,7 @@
 neurology
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The medical science that deals with the nervous system and disorders affecting it
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[neurology] late 17th cent.: from modern Latin neurologia, from ↑neuro- + ↑-logy

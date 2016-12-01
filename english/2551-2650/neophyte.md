@@ -1,16 +1,24 @@
 neophyte
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A recent convert to a belief; a proselyte
++ _noun_: A beginner or novice
+    + __eg__: a neophyte at politics
++ _noun_:
+   1. Roman Catholic Church. A newly ordained priest.
+   2. A novice of a religious order or congregation
 
 ### Origin
 
-ZZC
+Middle English, from Late Latin neophytus, from Greek neophutos: neo-, neo- + -phutos, planted (from phuein, to bring forth. See bheuə- in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a neophyte of the monastery of St James
 
-+ ZZE
++ NOVICE
+
+__eg__: four-day cooking classes are offered to neophytes and experts alike
+
++ BEGINNER
 
 
