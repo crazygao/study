@@ -1,16 +1,30 @@
 mischievous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Causing mischief
++ _adj_: Playful in a naughty or teasing way
++ _adj_: Troublesome; irritating
+    + __eg__: a mischievous prank
++ _adj_: Causing harm, injury, or damage
+    + __eg__: mischievous rumors and falsehoods
 
 ### Origin
 
-ZZC
+Middle English mischevous, from mischef, mischief. See mischief
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a mischievous child
 
-+ ZZE
++ NAUGHTY
++ opposite(s): WELL BEHAVED, GOOD
+
+__eg__: a mischievous smile
+
++ PLAYFUL
+
+__eg__: mischievous gossip
+
++ MALICIOUS
++ opposite(s): HARMLESS, WELL INTENTIONED
 
 

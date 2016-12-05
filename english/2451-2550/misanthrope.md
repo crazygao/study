@@ -1,16 +1,13 @@
 misanthrope
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who hates or mistrusts humankind
 
 ### Origin
 
-ZZC
+French, from Greek mīsanthrōpos, hating mankind : mīso-, miso- + anthrōpos, man.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ HATER OF MANKIND
 
 

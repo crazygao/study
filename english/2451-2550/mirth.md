@@ -1,16 +1,16 @@
 mirth
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Gladness and gaiety, especially when expressed by laughter
 
 ### Origin
 
-ZZC
+Middle English, from Old English myrgth. See mregh-u- in Indo-European Roots.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she giggled, making an effort to control her mirth
 
-+ ZZE
++ MERRIMENT
++ opposite(s): GLOOM, MISERY
 
 
