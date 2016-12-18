@@ -1,16 +1,6 @@
 moldy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _adj_: Covered with or containing mold
+    + __eg__: moldy bread
++ _adj_: Musty or stale, as from age or decay
 

@@ -1,16 +1,16 @@
 morose
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Sullenly melancholy; gloomy
 
 ### Origin
 
-ZZC
+Latin mōrōsus, peevish, from mōs, mōr-, self-will, caprice, manner. See mē-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Louis sat alone at a table, looking morose
 
-+ ZZE
++ SULLEN
++ opposite(s): CHEERFUL, HAPPY, COMMUNICATIVE
 
 

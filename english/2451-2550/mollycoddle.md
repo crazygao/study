@@ -1,16 +1,21 @@
 mollycoddle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To be overprotective and indulgent toward
+
++ _noun_: A person, especially a man or a boy, who is pampered and overprotected
 
 ### Origin
 
-ZZC
+molly, milksop (from the name Molly, nickname for Mary) + coddle
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his parents have mollycoddled him since he was a baby
 
-+ ZZE
++ PAMPER
+
+__eg__: the boy's a mollycoddle
+
++ MILKSOP
 
 

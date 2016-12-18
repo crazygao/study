@@ -1,16 +1,21 @@
 monotonous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Sounded or spoken in an unvarying tone
++ _adj_: Tediously repetitious or lacking in variety
 
 ### Origin
 
-ZZC
+From Greek monotonos: mono-, mono- + tonos, tone; see tone
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a monotonous job
 
-+ ZZE
++ TEDIOUS
++ opposite(s): VARIED, INTERESTING, EXCITING
+
+__eg__: a monotonous voice
+
++ TONELESS
 
 

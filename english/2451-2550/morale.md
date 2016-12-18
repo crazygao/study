@@ -1,16 +1,15 @@
 morale
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The state of the spirits of a person or group as exhibited by confidence, cheerfulness, discipline, and willingness to perform assigned tasks
 
 ### Origin
 
-ZZC
+French, morality, good conduct, from feminine of moral, moral, from Old French. See moral
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: morale in the team was higher than it had been for a long time
 
-+ ZZE
++ CONFIDENCE
 
 

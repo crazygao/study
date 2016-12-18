@@ -1,16 +1,11 @@
 mottle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: A variegated pattern, as on marble
+
++ _noun_: To mark with spots or blotches of different shades or colors
++ _noun_: A spot or blotch of color
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Probably back-formation from motley
 

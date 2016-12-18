@@ -1,16 +1,13 @@
 monocle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: An eyeglass for one eye
 
 ### Origin
 
-ZZC
+French, from Late Latin monoculus, having one eye : Greek mono-, mono- + Latin oculus, eye; See okʷ- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ EYEGLASS
 
 

@@ -1,16 +1,12 @@
 misrepresent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To give an incorrect or misleading representation of
++ _vt_: To serve incorrectly or dishonestly as an official representative of
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: you are misrepresenting the views of the government
 
-+ ZZE
++ GIVE A FALSE ACCOUNT OF
 
 

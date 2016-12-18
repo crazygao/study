@@ -1,16 +1,12 @@
 misgiving
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A feeling of doubt, distrust, or apprehension.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: despite occasional misgivings, he was optimistic
 
-+ ZZE
++ QUALM
++ opposite(s): CONFIDENCE
 
 

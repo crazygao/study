@@ -1,16 +1,23 @@
 moribund
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Approaching death; about to die
++ _adj_: On the verge of becoming obsolete
+    + __eg__: moribund customs; a moribund way of life
 
 ### Origin
 
-ZZC
+Latin moribundus, from morī, to die. See mer- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the patient was moribund
 
-+ ZZE
++ DYING
++ opposite(s): THRIVING ; RECOVERING
+
+__eg__: the country's moribund shipbuilding industry
+
++ DECLINING
++ opposite(s): FLOURISHING
 
 

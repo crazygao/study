@@ -1,16 +1,8 @@
 mosque
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A Muslim house of worship
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French mosquée, from Old French mousquaie, from Old Italian moschea, from moscheta, from Old Spanish mezquita, from Arabic masjid. See masjid
 

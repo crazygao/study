@@ -1,16 +1,17 @@
 mitigate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To moderate (a quality or condition) in force or intensity; alleviate
++ _vi_: To become milder
 
 ### Origin
 
-ZZC
+Middle English mitigaten, from Latin mītigāre, mītigāt- : mītis, soft + agere, to drive, do; see act.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: drugs which mitigated the worst symptoms of the disease
 
-+ ZZE
++ ALLEVIATE
++ opposite(s): AGGRAVATE, INCREASE, INTENSIFY
 
 

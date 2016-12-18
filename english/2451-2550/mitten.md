@@ -1,16 +1,8 @@
 mitten
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A covering for the hand that encases the thumb separately and the four fingers together
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English, from Old French mitaine(from mite, cat's caress, mitten, from mit, cat), and from Medieval Latin mitta, mitten (possibly from Old French mite)
 

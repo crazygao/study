@@ -1,16 +1,17 @@
 misshapen
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: not the normal or natural shape
+    + __eg__: an old woman struggling to walk on misshapen feet
 
 ### Origin
 
-ZZC
+mis- + shapen, old past participle of shape
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his bowed legs and misshapen feet
 
-+ ZZE
++ DEFORMED
++ opposite(s): WELL PROPORTIONED, WELL BUILT
 
 

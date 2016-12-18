@@ -1,16 +1,23 @@
 mongrel
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An animal or a plant resulting from various interbreedings, especially a dog of mixed or undetermined breed
++ _noun_: A cross between different breeds, groups, or varieties, especially a mixture that is or appears to be incongruous
+
++ _adj_: Of mixed origin or character
 
 ### Origin
 
-ZZC
+Middle English, probably from mong, mixture, from Old English gemang. See mag- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a rough-haired mongrel with a dash of Airedale
 
-+ ZZE
++ CROSS-BREED
+
+__eg__: a mongrel bitch
+
++ CROSS-BRED
++ opposite(s): PEDIGREE
 
 

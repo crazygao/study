@@ -1,16 +1,17 @@
 mortification
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A feeling of shame, humiliation, or wounded pride
++ _noun_: Discipline of the body and the appetites by self-denial or self-inflicted privation
++ _noun_: Pathology. Death or decay of one part of a living body; gangrene or necrosis
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: scarlet with mortification, Leonora looked away
 
-+ ZZE
++ EMBARRASSMENT
+
+__eg__: the mortification of the flesh
+
++ SUBDUING
 
 

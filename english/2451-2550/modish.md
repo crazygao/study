@@ -1,16 +1,9 @@
 modish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Being in or conforming to the prevailing or current fashion; stylish
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ FASHIONABLE
 
 

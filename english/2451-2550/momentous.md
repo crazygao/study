@@ -1,16 +1,13 @@
 momentous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of utmost importance; of outstanding significance or consequence
+    + __eg__: a momentous occasion; a momentous decision
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a momentous decision
 
-+ ZZE
++ IMPORTANT
++ opposite(s): UNIMPORTANT, TRIVIAL, INSIGNIFICANT
 
 

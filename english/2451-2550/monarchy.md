@@ -1,16 +1,20 @@
 monarchy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Government by a monarch
++ _noun_: A state ruled or headed by a monarch
 
 ### Origin
 
-ZZC
+Middle English monarchie, from Old French, from Latin monarchia, from Greek monarkhiā, from monarkhos, monarch. See monarch
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the country is a constitutional monarchy
 
-+ ZZE
++ KINGDOM
+
+__eg__: few questioned the moral justification of hereditary monarchy
+
++ KINGSHIP
 
 

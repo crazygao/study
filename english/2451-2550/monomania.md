@@ -1,16 +1,12 @@
 monomania
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Pathological obsession with one idea or subject
++ _noun_: Intent concentration on or exaggerated enthusiasm for a single subject or idea
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his profound interest in the subject verges on monomania
 
-+ ZZE
++ OBSESSION
 
 

@@ -1,16 +1,22 @@
 monotony
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Uniformity or lack of variation in pitch, intonation, or inflection
++ _noun_: Tedious sameness or repetitiousness
+    + __eg__: the monotony of daily routine
 
 ### Origin
 
-ZZC
+Greek monotoniā, from monotonos, monotonous. See monotonous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the monotony of everyday life
 
-+ ZZE
++ TEDIUM
++ opposite(s): VARIETY, EXCITEMENT
+
+__eg__: the monotony of her voice
+
++ TONELESSNESS
 
 

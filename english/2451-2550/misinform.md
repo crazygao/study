@@ -1,16 +1,11 @@
 misinform
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To provide with incorrect information
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I'm afraid you have been misinformed
 
-+ ZZE
++ MISLEAD
 
 
