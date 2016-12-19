@@ -1,16 +1,11 @@
 obtainable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: See obtain
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: frozen food is acceptable if fresh vegetables or meat are not obtainable
 
-+ ZZE
++ AVAILABLE
 
 

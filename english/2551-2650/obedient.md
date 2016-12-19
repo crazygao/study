@@ -1,16 +1,16 @@
 obedient
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Dutifully complying with the commands, orders, or instructions of one in authority
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin oboediēns, oboedient- present participle of oboedīre, to obey. See obey
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Lucinda had always been very obedient
 
-+ ZZE
++ COMPLIANT
++ opposite(s): DISOBEDIENT, REBELLIOUS, UNRULY
 
 

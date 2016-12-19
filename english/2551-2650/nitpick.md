@@ -1,16 +1,3 @@
 nitpick
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vi_: To be concerned with or find fault with insignificant details

@@ -1,16 +1,13 @@
 nonchalance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Casual lack of concern
+    + __eg__: “The contemptuous nonchalance of her trailed hand irritated him” (Elizabeth Bowen).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she shrugged, feigning nonchalance
 
-+ ZZE
++ CALMNESS
++ opposite(s): ANXIETY, CONCERN
 
 

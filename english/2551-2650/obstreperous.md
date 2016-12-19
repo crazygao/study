@@ -1,16 +1,17 @@
 obstreperous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Noisily and stubbornly defiant
++ _adj_: Aggressively boisterous
 
 ### Origin
 
-ZZC
+From Latin obstreperus, noisy, from obstrepere, to make a noise against : ob-, against; see ob- + strepere, to make a noise (of imitative origin).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: obstreperous customers who have had a drop too much to drink
 
-+ ZZE
++ UNRULY
++ opposite(s): CALM, QUIET, RESTRAINED
 
 

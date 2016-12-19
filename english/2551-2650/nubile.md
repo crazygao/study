@@ -1,16 +1,16 @@
 nubile
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Ready for marriage; of a marriageable age or condition. Used of young women
++ _adj_: Sexually mature and attractive. Used of young women
 
 ### Origin
 
-ZZC
+Latin nūbilis, from nūbere, to take a husband
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a nubile young girl
 
-+ ZZE
++ SEXUALLY MATURE
 
 

@@ -1,16 +1,17 @@
 nonplus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To put at a loss as to what to think, say, or do; bewilder
+
++ _noun_: A state of perplexity, confusion, or bewilderment
 
 ### Origin
 
-ZZC
+From Latin nōn plūs, no more : nōn, not; see non- + plūs, more; See pelə-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: young Lewis seemed remarkably nonplussed by the whole affair
 
-+ ZZE
++ SURPRISE
 
 

@@ -1,16 +1,12 @@
 obliging
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Ready to do favors for others; accommodating
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Roger was a cheerful, obliging sort of chap
 
-+ ZZE
++ HELPFUL
++ opposite(s): DISOBLIGING, OBSTRUCTIVE, UNHELPFUL, UNCOOPERATIVE
 
 

@@ -1,16 +1,13 @@
 obituary
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A published notice of a death, sometimes with a brief biography of the deceased
 
 ### Origin
 
-ZZC
+Medieval Latin obituārius, (report) of death, from Latin obitus, death, from past participle of obīre, to meet, meet one's death : ob-, toward; see ob- + īre, to go; See ei- in Indo-European Roots.
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ DEATH NOTICE
 
 

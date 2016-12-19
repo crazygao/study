@@ -1,16 +1,20 @@
 nugatory
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of little or no importance; trifling
++ _adj_: Having no force; invalid
 
 ### Origin
 
-ZZC
+Latin nūgātōrius, from nūgātor, trifler, from nūgārī, to trifle, from nūgae, jokes
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a nugatory and pointless observation
 
-+ ZZE
++ WORTHLESS
+
+__eg__: the teacher shortages will render nugatory the hopes of implementing the new curriculum
+
++ FUTILE
 
 

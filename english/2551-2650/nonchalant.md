@@ -1,16 +1,16 @@
 nonchalant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Seeming to be coolly unconcerned or indifferent
 
 ### Origin
 
-ZZC
+French, from Old French, present participle of nonchaloir, to be unconcerned : non-, non- + chaloir, to cause concern to (from Latin calēre, to be warm, heat up. See kelə-1 in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he had tried to appear nonchalant about the risks he was taking
 
-+ ZZE
++ CALM
++ opposite(s): ANXIOUS, CONCERNED
 
 

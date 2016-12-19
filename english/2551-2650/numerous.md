@@ -1,16 +1,16 @@
 numerous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Amounting to a large number; many
 
 ### Origin
 
-ZZC
+Middle English, from Latin numerōsus, from numerus, number. See number
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had complained to the council on numerous occasions | numerous studies have been published on the subject
 
-+ ZZE
++ diverse
++ opposite(s): FEW, OCCASIONAL, RARE
 
 

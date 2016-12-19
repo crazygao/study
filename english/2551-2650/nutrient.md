@@ -1,16 +1,9 @@
 nutrient
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A source of nourishment, especially a nourishing ingredient in a food
+
++ _adj_: Providing nourishment
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin nūtriēns, nūtrient- present participle of nūtrīre, to suckle. See (s)nāu- in Indo-European Roots

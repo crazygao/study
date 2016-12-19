@@ -1,16 +1,16 @@
 obese
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Extremely fat; grossly overweight
 
 ### Origin
 
-ZZC
+Latin obēsus, from past participle of obedere, to eat away : ob-, away; see ob- + edere, to eat; See ed- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he ate excessively and became obese
 
-+ ZZE
++ FAT
++ opposite(s): THIN, SKINNY, EMACIATED, ANOREXIC
 
 

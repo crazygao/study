@@ -1,16 +1,13 @@
 obstinacy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The state or quality of being stubborn or refractory
++ _noun_: The act or an instance of being stubborn or refractory
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Urquhart was irritated by her obstinacy
 
-+ ZZE
++ STUBBORNNESS
++ opposite(s): COMPLIANCE
 
 

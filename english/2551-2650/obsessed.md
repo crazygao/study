@@ -1,16 +1,9 @@
 obsessed
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: preoccupied
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ preoccupied, dominated, gripped, haunted, hung up on (slang), infatuated, troubled
 
 

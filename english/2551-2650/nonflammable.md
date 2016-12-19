@@ -1,16 +1,3 @@
 nonflammable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Not flammable, especially not readily ignited and not rapidly burned

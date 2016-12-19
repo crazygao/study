@@ -1,16 +1,13 @@
 oblivious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Lacking all memory; forgetful
++ _adj_: Lacking conscious awareness; unmindful
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they were clearly oblivious to the danger | she was totally oblivious of her surroundings
 
-+ ZZE
++ UNAWARE
++ opposite(s): AWARE, CONSCIOUS
 
 
