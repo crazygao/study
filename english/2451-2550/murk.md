@@ -1,16 +1,9 @@
 murk
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Partial or total darkness; gloom
+
++ _adj_: Partially or totally dark; gloomy
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English mirke, from Old Norse myrkr, or Old English mirce

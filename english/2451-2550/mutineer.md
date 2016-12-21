@@ -1,16 +1,7 @@
 mutineer
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who takes part in a mutiny
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Obsolete French mutinier, from Old French mutin, rebellious. See mutiny

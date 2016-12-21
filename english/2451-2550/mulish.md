@@ -1,16 +1,12 @@
-mulish
+iOBSTINATEsh
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Stubborn and intractable; recalcitrant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: George could sometimes be rather mulish
 
++ opposite(s): DOCILE, TRACTABLE OBLIGING
 + ZZE
 
 

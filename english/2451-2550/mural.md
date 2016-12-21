@@ -1,16 +1,11 @@
 mural
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A very large image, such as a painting or enlarged photograph, applied directly to a wall or ceiling
+
++ _adj_: Of, relating to, or resembling a wall
++ _adj_: Of, relating to, or resembling a wall
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English, of a wall, from Old French, from Latin mūrālis, from mūrus, wall
 

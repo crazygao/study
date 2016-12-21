@@ -1,16 +1,15 @@
 mutate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: To undergo or cause to undergo mutation
 
 ### Origin
 
-ZZC
+Latin mūtāre, mūtāt-, to change. See mei-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: rhythm and blues mutated into rock and roll
 
-+ ZZE
++ CHANGE
 
 

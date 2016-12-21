@@ -1,16 +1,5 @@
 muffler
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _noun_: A heavy scarf worn around the neck for warmth
++ _noun_: A device that absorbs noise, especially one used with an internal-combustion engine
 

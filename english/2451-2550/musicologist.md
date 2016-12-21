@@ -1,16 +1,3 @@
 musicologist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Main entry: ↑musicology, the study of music, especially the history of different types of music

@@ -1,16 +1,22 @@
 mundane
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, or typical of this world; secular
++ _adj_: Relating to, characteristic of, or concerned with commonplaces; ordinary
 
 ### Origin
 
-ZZC
+Middle English mondeine, from Old French mondain, from Latin mundānus, from mundus, world
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the mundane aspects of daily life | a mundane job
 
-+ ZZE
++ HUMDRUM
++ opposite(s): EXTRAORDINARY, IMAGINATIVE
+
+__eg__: the mundane world
+
++ EARTHLY
++ opposite(s): SPIRITUAL
 
 
