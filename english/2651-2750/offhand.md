@@ -1,16 +1,18 @@
 offhand
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adv_: Without preparation or forethought; extemporaneously
 
-### Origin
-
-ZZC
++ _adj_: Performed or expressed without preparation or forethought
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: ‘it doesn't really matter what you do,’ she said in an offhand manner | an offhand comment that she regretted almost immediately
 
-+ ZZE
++ INDIFFERENT
++ opposite(s): CAREFULLY CONSIDERED
+
+__eg__: I can't think of a better answer offhand
+
++ WITHOUT PREPARATION
 
 

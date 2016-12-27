@@ -1,16 +1,19 @@
 ogle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To stare at
++ _vt_: To stare at impertinently, flirtatiously, or amorously
++ _vi_: To stare in an impertinent, flirtatious, or amorous manner
+
++ _noun_: An impertinent, flirtatious, or amorous stare
 
 ### Origin
 
-ZZC
+Perhaps from Low German oghelen, oegeln, frequentative of oegen, to eye, from oghe, oge, eye. See okʷ- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he'd been ogling her ever since she'd entered the room
 
-+ ZZE
++ LEER AT
 
 

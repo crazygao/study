@@ -1,16 +1,7 @@
 oratorio
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A musical composition for voices and orchestra, telling a sacred story without costumes, scenery, or dramatic action
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Italian, after Oratorio, the Oratory of Saint Philip Neri at Rome, where famous musical services were held in the 16th century

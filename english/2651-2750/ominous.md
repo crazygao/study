@@ -1,16 +1,18 @@
 ominous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Menacing; threatening
+    + __eg__: ominous black clouds; ominous rumblings of discontent
++ _adj_: Of or being an omen, especially an evil one
 
 ### Origin
 
-ZZC
+Latin ōminōsus, from ōmen, ōmin-, omen
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: ominous black clouds gathered on the horizon | the silence was ominous
 
-+ ZZE
++ THREATENING
++ opposite(s): PROMISING, AUSPICIOUS, PROPITIOUS
 
 

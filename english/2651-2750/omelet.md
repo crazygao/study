@@ -1,16 +1,7 @@
-omelet
+omelet/omelette
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A dish consisting of beaten eggs cooked until set and folded over, often around a filling
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French omelette, from Old French amlette, alteration of alumette, variant of alumelle, probably from (la) lemelle, (the) knife blade, from Latin lāmella, diminutive of lāmina, thin plate

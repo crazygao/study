@@ -1,16 +1,8 @@
 olfaction
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The sense of smell
++ _noun_: The act or process of smelling
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin olfactus, past participle of olfacere, to smell; see olfactory + -ion.

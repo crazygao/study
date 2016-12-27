@@ -1,16 +1,16 @@
 opinionated
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Holding stubbornly and often unreasonably to one's own opinions
 
 ### Origin
 
-ZZC
+Probably from obsolete opinionate: opinion + -ate1
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the boy was dutiful and punctilious, however opinionated
 
-+ ZZE
++ DOGMATIC
++ opposite(s): OPEN-MINDED
 
 

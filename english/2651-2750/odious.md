@@ -1,16 +1,16 @@
 odious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Arousing or meriting strong dislike, aversion, or intense displeasure
 
 ### Origin
 
-ZZC
+Middle English, from Old French odieus, from Latin odiōsus, from odium, hatred. See odium
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the odious methods they had used to suppress dissent
 
-+ ZZE
++ REVOLTING
++ opposite(s): DELIGHTFUL, PLEASANT, AGREEABLE, CHARMING
 
 

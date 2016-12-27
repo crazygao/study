@@ -1,16 +1,8 @@
 odometer
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An instrument that indicates distance traveled by a vehicle
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French odomètre, from Greek hodometron: hodos, journey + metron, measure; see -meter
 

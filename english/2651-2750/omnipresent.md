@@ -1,16 +1,15 @@
 omnipresent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Present everywhere simultaneously
 
 ### Origin
 
-ZZC
+Medieval Latin omnipresēns, omnipresent- : Latin omni-, omni- + Latin praesēns, present participle of praeesse, to be present; see present1
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: in fairy tales, evil is as omnipresent as virtue | an omnipresent divine being
 
-+ ZZE
++ PRESENT EVERYWHERE
 
 

@@ -1,16 +1,3 @@
 opalescence
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: See opalescent, Exhibiting a milky iridescence like that of an opal

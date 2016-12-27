@@ -1,16 +1,7 @@
 operetta
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A theatrical production that has many of the musical elements of opera but is lighter and more popular in subject and style and contains spoken dialogue. Also called light opera
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Italian, diminutive of opera, opera. See opera1

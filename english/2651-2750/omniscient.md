@@ -1,16 +1,19 @@
 omniscient
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having total knowledge; knowing everything
+    + __eg__: an omniscient deity; the omniscient narrator
+
++ _noun_: One having total knowledge
++ _noun_: Omniscient God. Used with the
 
 ### Origin
 
-ZZC
+Medieval Latin omnisciēns, omniscient- : Latin omni-, omni- + Latin sciēns, scient- present participle of scīre, to know; See skei- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the story is told by an omniscient fictional narrator
 
-+ ZZE
++ ALL-KNOWING
 
 
