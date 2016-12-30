@@ -1,16 +1,12 @@
 outskirts
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: the parts of a town or city that are furthest from the centre
+    + __eg__: They live on the outskirts of Milan
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a house on the outskirts of the town
 
-+ ZZE
++ OUTLYING DISTRICTS
 
 

@@ -1,16 +1,15 @@
 ordnance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Military materiel, such as weapons, ammunition, combat vehicles, and equipment
++ _noun_: The branch of an armed force that procures, maintains, and issues weapons, ammunition, and combat vehicles
++ _noun_: Cannon; artillery
 
 ### Origin
 
-ZZC
+Middle English ordnaunce, variant of ordinaunce, order, military provision. See ordinance
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ GUNS
 
 

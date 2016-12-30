@@ -1,16 +1,7 @@
 osseous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Composed of, containing, or resembling bone; bony
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin osseus, from os, oss-, bone. See ost- in Indo-European Roots

@@ -1,16 +1,7 @@
 ornithology
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The branch of zoology that deals with the study of birds
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[ornithological ornithology] late 17th cent.: from modern Latin ornithologia, from Greek ornithologos ‘relating to birds’

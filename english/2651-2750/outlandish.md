@@ -1,16 +1,15 @@
 outlandish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Conspicuously unconventional; bizarre
++ _adj_: Strikingly unfamiliar
++ _adj_: Located far from civilized areas
++ _adj_: Archaic. Of foreign origin; not native
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he wears outlandish clothes
 
-+ ZZE
++ WEIRD
++ opposite(s): ORDINARY, COMMONPLACE, CONVENTIONAL
 
 

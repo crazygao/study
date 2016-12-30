@@ -1,16 +1,13 @@
 outset
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The initial stage of something; the beginning
+    + __eg__: Problems arose at the very outset
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it must be stressed at the outset that correct identification is the chief problem
 
-+ ZZE
++ START
++ opposite(s): END, CONCLUSION
 
 

@@ -1,16 +1,17 @@
 outstrip
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To leave behind; outrun
++ _vt_: To exceed or surpass
+    + __eg__:  “Material development outstripped human development” (Edith Hamilton).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: speeding at 90 mph, he outstripped police cars for an hour
 
-+ ZZE
++ GO FASTER THAN
+
+__eg__: demand far outstrips supply
+
++ SURPASS
 
 

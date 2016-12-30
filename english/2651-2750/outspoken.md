@@ -1,16 +1,15 @@
 outspoken
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: Past participle of outspeak
 
-### Origin
-
-ZZC
++ _adj_: Spoken without reserve; candid
++ _adj_: Frank and unreserved in speech
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an outspoken critic of the government
 
-+ ZZE
++ FORTHRIGHT
++ opposite(s): DIPLOMATIC, RETICENT, EVASIVE
 
 

@@ -1,16 +1,13 @@
 originality
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality of being original
++ _noun_: The capacity to act or think independently
++ _noun_: Something original
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the originality of his ideas
 
-+ ZZE
++ INVENTIVENESS
 
 

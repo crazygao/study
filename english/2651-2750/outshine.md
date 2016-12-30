@@ -1,16 +1,16 @@
 outshine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_:
+   1. To shine brighter than.
+   2. To be more beautiful, splendid, or flamboyant than
++ _vt_: To surpass in obvious excellence; outdo
 
-### Origin
-
-ZZC
++ _vi_: To shine forth
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a single large house plant can outshine any number or ornaments
 
-+ ZZE
++ SURPASS
 
 

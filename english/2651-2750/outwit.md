@@ -1,16 +1,12 @@
 outwit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To surpass in cleverness or cunning; outsmart
++ _vt_: Archaic. To surpass in intelligence
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: constant vigilance is needed to outwit enemy infiltrators
 
-+ ZZE
++ OUTSMART
 
 

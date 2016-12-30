@@ -1,16 +1,21 @@
 ornate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Elaborately, heavily, and often excessively ornamented
++ _adj_: Flashy, showy, or florid in style or manner; flowery
 
 ### Origin
 
-ZZC
+Middle English, from Latin ōrnātus, past participle of ōrnāre, to embellish. See ar- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an ornate Venetian gilt mirror
 
-+ ZZE
++ ELABORATE
+
+__eg__: ornate, metaphorical language
+
++ ELABORATE
++ opposite(s): PLAIN, AUSTERE, SIMPLE
 
 

@@ -1,16 +1,7 @@
 ore
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A mineral or an aggregate of minerals from which a valuable constituent, especially a metal, can be profitably mined or extracted
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Old English ōra, and from Old English ār, brass, copper, bronze
