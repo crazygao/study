@@ -1,16 +1,10 @@
 pacifist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: a person who believes in ↑pacifism and who refuses to fight in a war
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ PEACE-LOVER
++ opposite(s): WARMONGER
 
 

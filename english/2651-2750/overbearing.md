@@ -1,16 +1,13 @@
 overbearing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Domineering in manner; arrogant
+    + __eg__: an overbearing person
++ _adj_: Overwhelming in power or significance; predominant
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was at the mercy of his overbearing wife
 
-+ ZZE
++ DOMINEERING
 
 

@@ -1,16 +1,6 @@
 oxidize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To combine with oxygen; make into an oxide
++ _vt_: To increase the positive charge or valence of (an element) by removing electrons
++ _vt_: To coat with oxide
++ _vi_: To become oxidized

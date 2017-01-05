@@ -1,16 +1,6 @@
 overdose
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An excessive dose, especially of a narcotic
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vi_: To take an overdose
++ _vt_: To administer too large a dose or too many doses to

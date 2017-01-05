@@ -1,16 +1,12 @@
 overstate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To state in exaggerated terms
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he admitted that he had perhaps overstated his case
 
-+ ZZE
++ EXAGGERATE
++ opposite(s): UNDERSTATE
 
 
