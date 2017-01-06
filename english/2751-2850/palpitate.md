@@ -1,16 +1,20 @@
 palpitate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To move with a slight tremulous motion; tremble, shake, or quiver
++ _vi_: To beat with excessive rapidity; throb
 
 ### Origin
 
-ZZC
+Latin palpitāre, palpitāt- frequentative of palpāre, to touch gently. See palpable
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her heart began to palpitate
 
-+ ZZE
++ BEAT RAPIDLY
+
+__eg__: she was palpitating with terror
+
++ TREMBLE
 
 

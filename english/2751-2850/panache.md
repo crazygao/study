@@ -1,16 +1,16 @@
 panache
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Dash; verve
++ _noun_: A bunch of feathers or a plume, especially on a helmet
 
 ### Origin
 
-ZZC
+French, plume, verve, from Italian pinnacchio, plume, from Late Latin pinnāculum, diminutive of Latin pinna, feather, wing. See pet- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they played with panache and authority
 
-+ ZZE
++ FLAMBOYANT CONFIDENCE
 
 
