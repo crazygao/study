@@ -1,16 +1,22 @@
 pang
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A sudden sharp spasm of pain
++ _noun_: A sudden sharp feeling of emotional distress
+
++ _vt_: To cause to feel pangs; distress acutely
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: hunger pangs
 
-+ ZZE
++ PAIN
+
+__eg__: Melissa felt a pang of remorse
+
++ QUALM
 
 

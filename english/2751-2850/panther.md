@@ -1,16 +1,8 @@
 panther
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The leopard, especially in its black unspotted form
++ _noun_: See mountain lion
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English pantere, from Old French, and from Old English panthera both from Latin panthēra, from Greek panthēr
