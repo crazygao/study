@@ -1,16 +1,6 @@
 polarize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To induce polarization in; impart polarity to
++ _vt_: To cause to concentrate about two conflicting or contrasting positions
++ _vi_: To acquire polarity
++ _vi_: To cause polarization of light

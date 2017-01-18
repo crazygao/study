@@ -1,16 +1,7 @@
 pollen
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The fine powderlike material consisting of pollen grains that is produced by the anthers of seed plants
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin, fine flour

@@ -1,16 +1,7 @@
 pollinate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To transfer pollen from an anther to the stigma of (a flower).
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+New Latin pollen, pollin-, pollen (from Latin, fine flour) + -ate1.

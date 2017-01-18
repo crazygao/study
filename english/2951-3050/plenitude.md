@@ -1,16 +1,17 @@
 plenitude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An ample amount or quantity; an abundance
+    + __eg__: a region blessed with a plenitude of natural resources
++ _noun_: The condition of being full, ample, or complete
 
 ### Origin
 
-ZZC
+The condition of being full, ample, or complete
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Croft Farm boasts a plenitude of animals and birds
 
-+ ZZE
++ ABUNDANCE
 
 

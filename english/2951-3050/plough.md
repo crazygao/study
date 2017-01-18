@@ -1,16 +1,19 @@
 plough
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _n. & v._: Variant of plow
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the fields had been ploughed
 
-+ ZZE
++ CULTIVATE
+
+__eg__: the car overturned and ploughed into a lamp post
+
++ CAREER
+
+__eg__: they ploughed their way through deep snow
+
++ TRUDGE
 
 

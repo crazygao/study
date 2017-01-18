@@ -1,16 +1,24 @@
 plummet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: See plumb bob.
++ _noun_: Something that weighs down or oppresses; a burden
+
++ _vi_: To fall straight down; plunge
++ _vi_: To decline suddenly and steeply
+    + __eg__: Stock prices plummeted
 
 ### Origin
 
-ZZC
+Middle English plomet, from Old French, ball of lead, diminutive of plom, plomb, sounding lead, from Latin plumbum
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the plane plummeted to the ground
 
-+ ZZE
++ PLUNGE
+
+__eg__: share prices plummeted
+
++ FALL STEEPLY/SHARPLY
 
 

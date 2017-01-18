@@ -1,16 +1,16 @@
 pomposity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: from pompous, Characterized by excessive self-esteem or exaggerated dignity; pretentious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Musgrave was inclined to pomposity
 
-+ ZZE
++ SELF-IMPORTANCE
+
+__eg__: he seems to equate pomposity with profundity
+
++ BOMBAST
++ opposite(s): MODESTY, HUMILITY
 
 

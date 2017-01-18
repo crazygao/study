@@ -1,16 +1,9 @@
 plaudit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Enthusiastic expression of praise or approval
+    + __eg__: a new play that opened to the plaudits of the critics
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Short for Latin plaudite, pl. imperative of plaudere, to applaud (used at the end of Roman plays)
 

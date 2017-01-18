@@ -1,16 +1,7 @@
 podiatrist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: especially American English a doctor who takes care of people’s feet and treats foot diseases
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Date: 1900-2000; Language: Greek; Origin: pous 'foot

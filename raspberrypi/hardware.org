@@ -1,0 +1,27 @@
+* Hardware
+** Model A
+*** 256MB RAM + ARM CPU
+*** HDMI & RCA video out
+*** Audio out
+*** One USB
+*** SD Card port
+*** 5V micro USB for power
+*** 26 GPIO pins
+** Model B
+*** 512MB RAM
+*** Two USB
+*** Ethernet port
+
+* Raspberry Pi and Hardware
+** USB Hardware
+*** Internet resource list http://elinux.org/RPi_VerifiedPeripherals
+*** Powered USB needed
+*** Wi-fi
+*** Bluetooth
+*** Webcams
+*** Joysticks
+*** Remotes
+** General-purpose Input/Out
+*** Pins on RPi can be controleed with code
+*** GP pins can send and receive data
+*** 26 pins on Pi

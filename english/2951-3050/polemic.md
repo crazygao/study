@@ -1,16 +1,22 @@
 polemic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A controversial argument, especially one refuting or attacking a specific opinion or doctrine
++ _noun_: A person engaged in or inclined to controversy, argument, or refutation
+
++ _adj_: Of or relating to a controversy, argument, or refutation
 
 ### Origin
 
-ZZC
+French polémique, from Greek polemikos, hostile, from polemos, war
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: this is not just a polemic against injustice
 
-+ ZZE
++ DIATRIBE
+
+__eg__: skilled in polemics
+
++ ARGUMENTATION
 
 

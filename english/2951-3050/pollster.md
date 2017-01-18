@@ -1,16 +1,3 @@
 pollster
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: One that takes public-opinion surveys. Also called polltaker

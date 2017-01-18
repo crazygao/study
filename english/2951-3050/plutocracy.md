@@ -1,16 +1,9 @@
 plutocracy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Government by the wealthy
++ _noun_: A wealthy class that controls a government
++ _noun_: A government or state in which the wealthy rule
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Greek ploutokratiā: ploutos, wealth; See pleu- in Indo-European Roots + -kratiā, -cracy

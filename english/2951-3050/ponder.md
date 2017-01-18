@@ -1,7 +1,8 @@
 ponder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: ZZA
+
++ _vi_: ZZA
 
 ### Origin
 

@@ -1,16 +1,12 @@
 polemical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: involving strong arguments for or against sth, often in opposition to the opinion of others
+    + __eg__: a polemical attack
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Brunner published a polemical tract against Barth
 
-+ ZZE
++ CRITICAL
 
 
