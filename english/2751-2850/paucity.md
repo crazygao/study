@@ -1,16 +1,18 @@
 paucity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Smallness of number; fewness
++ _noun_: Scarcity; dearth
+    + __eg__: a paucity of natural resources
 
 ### Origin
 
-ZZC
+Middle English paucite, from Old French, from Latin paucitās, from paucus, few. See pau-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a paucity of evidence
 
-+ ZZE
++ SCARCITY
++ opposite(s): ABUNDANCE
 
 

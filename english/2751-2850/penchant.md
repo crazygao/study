@@ -1,16 +1,15 @@
 penchant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A definite liking; a strong inclination
 
 ### Origin
 
-ZZC
+French, from present participle of pencher, to incline, from Old French, from Vulgar Latin pendicāre, from Latin pendēre, to hang. See (s)pen- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he has a penchant for champagne
 
-+ ZZE
++ LIKING
 
 

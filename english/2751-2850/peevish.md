@@ -1,16 +1,18 @@
 peevish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_:
+   1. Querulous or discontented.
+   2. Ill-tempered
++ _adj_: Contrary; fractious
 
 ### Origin
 
-ZZC
+Middle English querulose, litigious, quarrelsome, from Old French querelos, from Late Latin querulōsus, querulous, from Latin querulus, from querī, to complain. See kwes- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: what kind of a rest is it meant to be for me with a querulous adolescent?
 
-+ ZZE
++ PETULANT
 
 

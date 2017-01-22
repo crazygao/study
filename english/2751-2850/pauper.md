@@ -1,16 +1,14 @@
 pauper
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who is extremely poor
++ _noun_:  One living on or eligible for public charity
 
 ### Origin
 
-ZZC
+From Latin, poor. See pau-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ POOR PERSON
 
 

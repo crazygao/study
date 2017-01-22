@@ -1,16 +1,13 @@
 peninsula
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Abbr. Pen. A piece of land that projects into a body of water and is connected with the mainland by an isthmus
 
 ### Origin
 
-ZZC
+Latin paenīnsula: paene, almost + īnsula, island
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ CAPE
 
 

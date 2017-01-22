@@ -1,16 +1,23 @@
 pastry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Dough or paste consisting primarily of flour, water, and shortening that is baked and often used as a crust for foods such as pies and tarts
++ _noun_:
+   1. Baked sweet foods made with pastry:
+    + __eg__: Viennese pastry
+   2. One of these baked foods
 
 ### Origin
 
-ZZC
+Middle English pastree, from paste, paste, dough. See paste1
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I've come to get some pastries for tea
 
-+ ZZE
++ TART
+
+__eg__: seal the two layers of pastry together
+
++ puff pastry
 
 

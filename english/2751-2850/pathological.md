@@ -1,16 +1,18 @@
 pathological
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of or relating to pathology
++ _adj_: Relating to or caused by disease
++ _adj_: Of, relating to, or manifesting behavior that is habitual, maladaptive, and compulsive
+    + __eg__: a pathological liar
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a pathological condition
 
-+ ZZE
++ MORBID
+
+__eg__: a pathological liar
+
++ COMPULSIVE
 
 

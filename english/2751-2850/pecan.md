@@ -1,16 +1,8 @@
 pecan
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The smooth, thin-shelled oval nut of this tree
++ _noun_: A deciduous tree (Carya illinoinensis) of the central and southern United States, having deeply furrowed bark, pinnately compound leaves, and edible nuts
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+North American French pacane, from Illinois pakani

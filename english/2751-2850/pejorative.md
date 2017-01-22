@@ -1,16 +1,13 @@
 pejorative
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Tending to make or become worse
++ _adj_: Disparaging; belittling
 
-### Origin
-
-ZZC
++ _noun_: A disparaging or belittling word or expression
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ DISPARAGING
++ opposite(s): COMPLIMENTARY, LAUDATORY, APPROBATORY
 
 

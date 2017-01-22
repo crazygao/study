@@ -1,16 +1,13 @@
 peccadillo
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A small sin or fault
 
 ### Origin
 
-ZZC
+Spanish pecadillo, diminutive of pecado, sin,, and Italian peccadiglio, diminutive of peccato, sin both from Latin peccātum, from neuter of peccātus past participle of peccāre, to sin. See ped- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ MISDEMEANOUR
 
 

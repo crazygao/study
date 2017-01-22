@@ -1,16 +1,3 @@
 pathogen
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An agent that causes disease, especially a living microorganism such as a bacterium or fungus

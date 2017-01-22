@@ -1,16 +1,18 @@
 patina
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: See paten
 
 ### Origin
 
-ZZC
+Medieval Latin, from Latin, plate. See paten
 
-### Synonym
+patina
+### Meaning
++ _noun_: A thin greenish layer, usually basic copper sulfate, that forms on copper or copper alloys, such as bronze, as a result of corrosion
++ _noun_: The sheen on any surface, produced by age and use
++ _noun_: A change in appearance produced by long-standing behavior, practice, or use
+    + __eg__: a face etched with a patina of fine lines and tiny wrinkles
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+Italian, from Latin, plate (from the incrustation on ancient metal plates and dishes). See paten

@@ -1,16 +1,8 @@
 parka
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A hooded fur outer garment worn in the Arctic, originally of pullover design but now generally having a front closure
++ _noun_: A coat or jacket with a hood and usually a warm lining for cold-weather wear
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Alaskan Russian, pelt, ultimately of Nenets origin

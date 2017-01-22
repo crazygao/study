@@ -1,16 +1,14 @@
 particularize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To mention, describe, or treat individually; itemize or specify
++ _vt_: To make particular as opposed to general or universal
 
-### Origin
-
-ZZC
++ _vi_: To go into or give details or particulars
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the indictment particularized several incidents that had occurred at different places
 
-+ ZZE
++ SPECIFY
 
 

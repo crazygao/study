@@ -1,16 +1,18 @@
 partiality
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The state of being partial
++ _noun_: Favorable prejudice or bias
++ _noun_: A special fondness; a predilection
+    + __eg__: had a partiality for cats
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the president had shown partiality towards the group's cause
 
-+ ZZE
++ BIAS
+
+__eg__: his partiality for brandy and soda was notorious
+
++ LIKING
 
 

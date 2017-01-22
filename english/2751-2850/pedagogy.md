@@ -1,16 +1,8 @@
 pedagogy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The art or profession of teaching
++ _noun_: Preparatory training or instruction
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French pédagogie, from Old French, from Greek paidagōgiā, from paidagōgos, slave who took children to and from school. See pedagogue

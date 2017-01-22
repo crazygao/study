@@ -1,16 +1,17 @@
 parlance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A particular manner of speaking; idiom
+    + __eg__: legal parlance
++ _noun_: Speech, especially a conversation or parley
 
 ### Origin
 
-ZZC
+Middle French, from Old French, from parler, to speak. See parley
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a Munro, in climbing parlance, is a Scottish mountain exceeding 3000 feet in height
 
-+ ZZE
++ JARGON
 
 

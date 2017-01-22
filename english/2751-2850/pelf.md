@@ -1,16 +1,7 @@
 pelf
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Wealth or riches, especially when dishonestly acquired
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Medieval Latin pelfra, pelfa, probably from Old French pelfre

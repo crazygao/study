@@ -1,16 +1,4 @@
 pediatrics
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: noun uncountable the branch of medicine concerned with children and their diseases
+    + Derived Word: ↑pediatric

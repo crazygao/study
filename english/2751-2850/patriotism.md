@@ -1,16 +1,12 @@
 patriotism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Love of and devotion to one's country
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a national flag or anthem has the power to instil patriotism
 
-+ ZZE
++ NATIONALISM
++ opposite(s): TREACHERY
 
 
