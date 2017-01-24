@@ -1,16 +1,15 @@
 perspicuous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Clearly expressed or presented; easy to understand
 
 ### Origin
 
-ZZC
+From Latin perspicuus, from perspicere, to see through. See perspicacious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a detailed and perspicuous explanation
 
-+ ZZE
++ CLEAR
 
 

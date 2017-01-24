@@ -1,16 +1,16 @@
 perspicacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having or showing penetrating mental discernment; clear-sighted
 
 ### Origin
 
-ZZC
+From Latin perspicāx, perspicāc-, from perspicere, to look through. See perspective
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his more perspicacious advisers recommended caution
 
-+ ZZE
++ DISCERNING
++ opposite(s): INATTENTIVE, DULL, STUPID
 
 

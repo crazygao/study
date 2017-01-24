@@ -1,16 +1,15 @@
 plaintive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Expressing sorrow; mournful or melancholy
 
 ### Origin
 
-ZZC
+Middle English plaintif, from Old French, aggrieved, lamenting, from plaint, complaint. See plaint
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a plaintive cry
 
-+ ZZE
++ MOURNFUL
 
 

@@ -1,16 +1,3 @@
 petroglyph
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A carving or line drawing on rock, especially one made by prehistoric people

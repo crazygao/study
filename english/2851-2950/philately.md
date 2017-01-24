@@ -1,16 +1,7 @@
 philately
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: The collection and study of postage stamps, postmarks, and related materials; stamp collecting
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French philatélie: Greek phil-, philo-, philo- + Greek ateleia, exemption from payment (because a postage stamp indicates prepayment of postage) (a-, without; see a-1 + telos, tax, charge; See telə- in Indo-European Roots)

@@ -1,16 +1,12 @@
 piddling
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: So trifling or trivial as to be beneath one's consideration
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a piddling little incident | they were bought for piddling sums
 
-+ ZZE
++ TRIVIAL
++ opposite(s): SIGNIFICANT
 
 

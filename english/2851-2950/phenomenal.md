@@ -1,16 +1,15 @@
 phenomenal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, or constituting phenomena or a phenomenon
++ _adj_: Extraordinary; outstanding
+    + __eg__: a phenomenal feat of memory
++ _adj_: Philosophy. Known or derived through the senses rather than through the mind
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: sales growth has been nothing short of phenomenal
 
-+ ZZE
++ EXCEPTIONAL
++ opposite(s): ORDINARY, USUAL, RUN-OF-THE-MILL.
 
 

@@ -1,16 +1,21 @@
 pirouette
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A full turn of the body on the point of the toe or the ball of the foot in ballet
+
++ _vi_: To execute a pirouette
 
 ### Origin
 
-ZZC
+French, from Old French pirouet, spinning top
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Sandra performed a little pirouette
 
-+ ZZE
++ SPIN
+
+__eg__: she pirouetted before the wardrobe mirror
+
++ SPIN ROUND
 
 

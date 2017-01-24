@@ -1,16 +1,12 @@
 perilous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Full of or involving peril; dangerous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a perilous journey through the mountains | the economy remained in a perilous state
 
-+ ZZE
++ DANGEROUS
++ opposite(s): SAFE, SECURE
 
 

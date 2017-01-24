@@ -1,16 +1,21 @@
 pictorial
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Relating to, characterized by, or composed of pictures
++ _adj_: Represented as if in a picture
+    + __eg__: pictorial prose
++ _adj_: Illustrated by pictures
+    + __eg__: a pictorial history
+
++ _noun_: An illustrated periodical
 
 ### Origin
 
-ZZC
+From Latin pictōrius, from pictor, painter. See Pictor
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a pictorial history of Gateshead
 
-+ ZZE
++ ILLUSTRATED
 
 

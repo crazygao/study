@@ -1,16 +1,7 @@
 petal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One of the often brightly colored parts of a flower immediately surrounding the reproductive organs; a division of the corolla
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+New Latin petalum, from Greek petalon, leaf. See petə- in Indo-European Roots

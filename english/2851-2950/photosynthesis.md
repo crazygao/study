@@ -1,16 +1,3 @@
 photosynthesis
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The process in green plants and certain other organisms by which carbohydrates are synthesized from carbon dioxide and water using light as an energy source. Most forms of photosynthesis release oxygen as a byproduct

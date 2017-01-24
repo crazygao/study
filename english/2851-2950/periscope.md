@@ -1,16 +1,3 @@
 periscope
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Any of various tubular optical instruments that contain reflecting elements, such as mirrors and prisms, to permit observation from a position displaced from a direct line of sight

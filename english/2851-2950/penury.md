@@ -1,16 +1,15 @@
 penury
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Extreme want or poverty; destitution
++ _noun_: Extreme dearth; barrenness or insufficiency
 
 ### Origin
 
-ZZC
+Middle English penurie, from Latin pēnūria, want
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ EXTREME/DIRE POVERTY
++ opposite(s): WEALTH, AFFLUENCE
 
 

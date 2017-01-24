@@ -1,16 +1,15 @@
 pervade
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To be present throughout; permeate
 
 ### Origin
 
-ZZC
+Latin pervādere: per-, through; see per- + vādere, to go
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a strong smell of floor polish pervaded the house | her whole being seemed pervaded by a dreamy languor
 
-+ ZZE
++ SPREAD THROUGH
 
 

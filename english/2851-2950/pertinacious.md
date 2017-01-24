@@ -1,16 +1,17 @@
 pertinacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Holding tenaciously to a purpose, belief, opinion, or course of action
++ _adj_: Stubbornly or perversely persistent
 
 ### Origin
 
-ZZC
+From Latin pertināx, pertināc- : per-, per- + tenāx, tenacious (from tenēre, to hold. See ten- in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was very pertinacious in her questions
 
-+ ZZE
++ DETERMINED
++ opposite(s): IRRESOLUTE, TENTATIVE
 
 

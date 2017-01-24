@@ -1,16 +1,11 @@
 permeable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: That can be permeated or penetrated, especially by liquids or gases
+    + __eg__: permeable membranes; rock that is permeable by water
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ POROUS
++ opposite(s): IMPERMEABLE, WATERTIGHT
 
 

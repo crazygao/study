@@ -1,16 +1,12 @@
 personable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Pleasing in personality or appearance; attractive
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a personable young man
 
-+ ZZE
++ PLEASANT
++ opposite(s): UNPLEASANT, DISAGREEABLE, UNATTRACTIVE
 
 

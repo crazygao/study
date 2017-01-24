@@ -1,16 +1,11 @@
 pestilent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Likely to cause an epidemic disease
++ _adj_: Infected or contaminated with a contagious disease
++ _adj_: Morally, socially, or politically harmful; pernicious
++ _adj_: Causing annoyance or disapproval
++ _adj_: Likely to cause an epidemic disease
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Old French, from Latin pestilēns, pestilent-, from pestis, pestilence. See pest

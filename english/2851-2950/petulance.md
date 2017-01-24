@@ -1,16 +1,4 @@
 petulance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: Main entry: ↑petulant
+    + __eg__: She withdrew the offer in a fit of petulance

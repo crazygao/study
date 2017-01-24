@@ -1,16 +1,16 @@
 placate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To allay the anger of, especially by making concessions; appease
 
 ### Origin
 
-ZZC
+Latin plācāre, plācāt-, to calm. See plāk-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: John did his best to placate her
 
-+ ZZE
++ PACIFY
++ opposite(s): PROVOKE, ANGER, ENRAGE, AGITATE
 
 

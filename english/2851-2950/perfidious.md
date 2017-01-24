@@ -1,16 +1,12 @@
 perfidious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, or marked by perfidy; treacherous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a perfidious lover
 
-+ ZZE
++ TREACHEROUS
++ opposite(s): FAITHFUL, LOYAL
 
 

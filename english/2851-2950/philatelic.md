@@ -1,16 +1,4 @@
 philatelic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Main entry: ↑philately
+    + __eg__: a philatelic society

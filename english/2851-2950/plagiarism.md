@@ -1,16 +1,16 @@
 plagiarism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act of plagiarizing
++ _noun_: Something plagiarized
 
 ### Origin
 
-ZZC
+From plagiary
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there were accusations of plagiarism
 
-+ ZZE
++ COPYING
 
 

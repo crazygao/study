@@ -1,16 +1,17 @@
 petulant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Unreasonably irritable or ill-tempered; peevish
++ _adj_: Contemptuous in speech or behavior
 
 ### Origin
 
-ZZC
+Latin petulāns, petulant-, insolent, from petere, to assail. See pet- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he sounded as petulant as a spoiled child | a petulant temper tantrum
 
-+ ZZE
++ PEEVISH
++ opposite(s): GOOD-HUMOURED, EASY-GOING, AFFABLE
 
 

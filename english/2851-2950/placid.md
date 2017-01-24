@@ -1,16 +1,22 @@
 placid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Undisturbed by tumult or disorder; calm or quiet
++ _adj_: Satisfied; complacent
 
 ### Origin
 
-ZZC
+Latin placidus, from placēre, to please. See plāk-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she's normally very placid
 
-+ ZZE
++ EVEN-TEMPERED
++ opposite(s): EXCITABLE, TEMPERAMENTAL
+
+__eg__: the placid waters of a small lake | a placid village
+
++ QUIET
++ opposite(s): STORMY, ROUGH
 
 

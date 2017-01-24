@@ -1,16 +1,15 @@
 perjure
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make (oneself) guilty of perjury by deliberately testifying falsely under oath
 
 ### Origin
 
-ZZC
+Middle English perjuren, from Old French perjurer, from Latin periūrāre: per-, per- + iūrāre, to swear; See yewes- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: either the police were mistaken or three people had perjured themselves
 
-+ ZZE
++ LIE UNDER OATH
 
 

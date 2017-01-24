@@ -1,16 +1,3 @@
 petrology
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The branch of geology that deals with the origin, composition, structure, and alteration of rocks

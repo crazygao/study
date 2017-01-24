@@ -1,16 +1,6 @@
 perspicuity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _noun_: The quality of being perspicuous; clearness and lucidity
+    + __eg__: “He was at pains to insist on the perspicuity of what he wrote” (Lionel Trilling)
++ _noun_: Perspicacity
 

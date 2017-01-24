@@ -1,16 +1,14 @@
 perspire
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To excrete perspiration through the pores of the skin
++ _vt_: To expel through external pores; exude
 
 ### Origin
 
-ZZC
+Latin perspīrāre, to blow steadily : per-, through; see per- + spīrāre, to breathe
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ SWEAT
 
 

@@ -1,16 +1,7 @@
 plaintiff
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The party that institutes a suit in a court
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English plaintif, from Anglo-Norman pleintif, from Old French plaintif, aggrieved. See plaintive

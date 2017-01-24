@@ -1,16 +1,10 @@
 perambulate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To walk through
++ _vt_: To inspect (an area) on foot
++ _vi_: To walk about; roam or stroll
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Latin perambulāre, perambulāt- : per-, per- + ambulāre, to walk; See ambhi in Indo-European Roots
 
