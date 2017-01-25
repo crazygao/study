@@ -1,7 +1,7 @@
 precocious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Manifesting or characterized by unusually early development or maturity, especially in mental aptitude
++ _adj_: Botany. Blossoming before the appearance of leaves
 
 ### Origin
 
@@ -9,8 +9,9 @@ ZZC
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: some of the boys were extremely precocious
 
-+ ZZE
++ ADVANCED FOR ONE'S AGE
++ opposite(s): BACKWARD, SLOW
 
 

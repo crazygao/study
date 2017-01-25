@@ -1,16 +1,17 @@
 potentate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who has the power and position to rule over others; a monarch
++ _noun_: One who dominates or leads a group or an endeavor
+    + __eg__: industrial potentates
 
 ### Origin
 
-ZZC
+Middle English potentat, from Old French, from Late Latin potentātus, from Latin, power, from potēns, present participle of posse, to be able. See potent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: diplomatic missions to foreign potentates
 
-+ ZZE
++ RULER
 
 

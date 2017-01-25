@@ -1,16 +1,10 @@
 pontiff
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_:
+   1. The pope.
+   2. A bishop
++ _noun_: A pontifex
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French pontife, from Old French pontif, from Latin pontifex, pontifex. See pent- in Indo-European Roots

@@ -1,16 +1,4 @@
 ponderable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Considerable enough to be weighed or assessed; appreciable
+    + __eg__: ponderable results; ponderable issues

@@ -1,7 +1,6 @@
 poseur
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who affects a particular attribute, attitude, or identity to impress or influence others
 
 ### Origin
 
@@ -9,8 +8,6 @@ ZZC
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ poser2
 
 

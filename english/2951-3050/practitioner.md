@@ -1,16 +1,7 @@
 practitioner
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who practices something, especially an occupation, profession, or technique
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Alteration of practician, from Old French practicien, from practiser, to practice. See practice.

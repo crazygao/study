@@ -1,16 +1,14 @@
 populace
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The general public; the masses
++ _noun_: A population
 
 ### Origin
 
-ZZC
+French, from Italian popolaccio, rabble, from popolo, the people, from Latin populus. See popular
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ POPULATION
 
 

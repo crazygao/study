@@ -1,16 +1,9 @@
 potentiate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make potent or powerful
++ _vt_: To enhance or increase the effect of (a drug)
++ _vt_: To promote or strengthen (a biochemical or physiological action or effect)
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin potentia, power. See potential

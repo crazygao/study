@@ -1,16 +1,16 @@
 predilection
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A partiality or disposition in favor of something; a preference
 
 ### Origin
 
-ZZC
+French prédilection, from Old French, from Medieval Latin praedīlēctus, past participle of praedīligere, to prefer : Latin prae-, pre- + Latin dīligere, to love; see diligent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her predilection for married men has landed her in trouble | our predilection for starchy and sugary foods
 
-+ ZZE
++ LIKING
++ opposite(s): DISLIKE, DISINCLINATION
 
 
