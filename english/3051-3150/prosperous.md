@@ -1,16 +1,17 @@
 prosperous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having success; flourishing
+    + __eg__: a prosperous new business
++ _adj_: Well-to-do; well-off
+    + __eg__: a prosperous family
++ _adj_: Propitious; favorable
+    + __eg__: a prosperous moment to make a decision
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a prosperous family shipping firm
 
-+ ZZE
++ THRIVING
++ opposite(s): DEPRESSED, POOR
 
 

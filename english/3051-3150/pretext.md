@@ -1,16 +1,18 @@
 pretext
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An ostensible or professed purpose; an excuse
++ _noun_: An effort or strategy intended to conceal something
+
++ _vt_: To allege as an excuse
 
 ### Origin
 
-ZZC
+Latin praetextum, from neuter past participle of praetexere, to disguise : prae-, pre- + texere, to weave; See teks- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he called at her house in the morning on the pretext of enquiring after Mr Bradshaw
 
-+ ZZE
++ EXCUSE
 
 

@@ -1,16 +1,17 @@
 prestigious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having prestige; esteemed
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his work appeared in prestigious journals of physics
 
-+ ZZE
++ REPUTABLE
++ opposite(s): DISREPUTABLE, UNKNOWN, OBSCURE
+
+__eg__: this prestigious annual award | a prestigious job
+
++ IMPRESSIVE
++ opposite(s): MINOR, HUMBLE, LOWLY
 
 

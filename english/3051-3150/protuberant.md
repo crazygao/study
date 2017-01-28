@@ -1,16 +1,16 @@
 protuberant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Swelling outward; bulging
 
 ### Origin
 
-ZZC
+Late Latin prōtūberāns, prōtūberant- present participle of prōtūberāre, to bulge out. See protuberate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his eyes are a little protuberant
 
-+ ZZE
++ BULGING
++ opposite(s): SUNKEN
 
 

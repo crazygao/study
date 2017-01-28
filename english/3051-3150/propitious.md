@@ -1,16 +1,17 @@
 propitious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Presenting favorable circumstances; auspicious
++ _adj_: Kindly; gracious
 
 ### Origin
 
-ZZC
+Middle English propicius, from Old French propicieux, from Latin propitius. See pet- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the timing for such a meeting seemed propitious
 
-+ ZZE
++ FAVOURABLE
++ opposite(s): INAUSPICIOUS, UNFORTUNATE
 
 

@@ -1,16 +1,9 @@
 proctor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A supervisor especially of an examination or dormitory in a school
+
++ _vt_: To supervise (an examination).
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English procutor, proctour, university officer, manager, from procuratour. See procurator

@@ -1,16 +1,17 @@
 providential
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of or resulting from divine providence
++ _adj_: Happening as if through divine intervention; opportune
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the battle was won with the aid of a providential wind
 
-+ ZZE
++ OPPORTUNE
++ opposite(s): INOPPORTUNE
+
+__eg__: shooting stars are not providential signs
+
++ DIVINE
 
 

@@ -1,16 +1,15 @@
 propensity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An innate inclination; a tendency
 
 ### Origin
 
-ZZC
+From propense, inclined, from Latin prōpēnsus, past participle of prōpendēre, to be inclined. See propend
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her propensity to jump to conclusions | his propensity for accidents
 
-+ ZZE
++ TENDENCY
 
 

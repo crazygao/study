@@ -1,16 +1,17 @@
 probity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Complete and confirmed integrity; uprightness
+    + __eg__: “He was a gentlemanly Georgian, a person of early American probity” (Mary McGrory).
 
 ### Origin
 
-ZZC
+Middle English probite, from Old French, from Latin probitās, from probus, upright, good. See per1 in Indo-European Roots.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the chancellor exuded competence and fiscal probity
 
-+ ZZE
++ INTEGRITY
++ opposite(s): UNTRUSTWORTHINESS
 
 

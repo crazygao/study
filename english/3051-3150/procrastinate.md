@@ -1,16 +1,16 @@
 procrastinate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To put off doing something, especially out of habitual carelessness or laziness
++ _vt_: To postpone or delay needlessly
 
 ### Origin
 
-ZZC
+Latin prōcrāstināre, prōcrāstināt- : prō-, forward; see pro-1 + crāstinus, of tomorrow (from crās, tomorrow).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: fear of failure is often the reason why people procrastinate
 
-+ ZZE
++ DELAY
 
 

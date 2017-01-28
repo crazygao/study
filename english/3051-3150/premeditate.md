@@ -1,16 +1,4 @@
 premeditate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To plan, arrange, or plot (a crime, for example) in advance
++ _vi_: To reflect, ponder, or deliberate beforehand

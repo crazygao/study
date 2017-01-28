@@ -1,16 +1,10 @@
 prosperity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The condition of being prosperous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Britain's prosperity depends on its exports
 
-+ ZZE
-
-
++ WEALTH
++ opposite(s): HARDSHIP, FAILURE.

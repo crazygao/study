@@ -1,16 +1,5 @@
 prosecution
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The act of prosecuting
++ _noun_: The institution and conduct of a legal proceeding
++ _noun_: See prosecuting attorney

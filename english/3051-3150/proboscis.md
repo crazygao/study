@@ -1,16 +1,9 @@
 proboscis
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A long flexible snout or trunk, as of an elephant
++ _noun_: The slender, tubular feeding and sucking organ of certain invertebrates, such as insects, worms, and mollusks
++ _noun_: A human nose, especially a prominent one
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin, from Greek proboskis: pro-, in front; see pro-2 + boskein, to feed

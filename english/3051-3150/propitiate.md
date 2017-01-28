@@ -1,16 +1,16 @@
 propitiate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To conciliate (an offended power); appease
+    + __eg__: propitiate the gods with a sacrifice
 
 ### Origin
 
-ZZC
+Latin propitiāre, propitiāt-, from propitius, propitious. See propitious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: George's attempt to propitiate his father did not succeed
 
-+ ZZE
++ APPEASE
 
 

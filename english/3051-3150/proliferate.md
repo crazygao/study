@@ -1,16 +1,19 @@
 proliferate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To grow or multiply by rapidly producing new tissue, parts, cells, or offspring
++ _vi_: To increase or spread at a rapid rate
+    + __eg__: fears that nuclear weapons might proliferate
++ _vt_: To cause to grow or increase rapidly
 
 ### Origin
 
-ZZC
+Back-formation from proliferation, the act of proliferating, from French prolifération, from prolifère, procreative : Latin prōlēs, prōl-, offspring; see proliferous + Latin -fer, -fer
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the debate continued and articles in the media proliferated
 
-+ ZZE
++ INCREASE RAPIDLY
++ opposite(s): DECREASE, DWINDLE
 
 
