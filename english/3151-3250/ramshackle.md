@@ -1,16 +1,17 @@
 ramshackle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: So poorly constructed or kept up that disintegration is likely; rickety
+    + __eg__: a ramshackle cabin in the woods
 
 ### Origin
 
-ZZC
+Back-formation from obsolete ranshackled, ramshackle, alteration of ransackled, past participle of ransackle, to ransack, frequentative of Middle English ransaken, to pillage. See ransack
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there was a ramshackle clubhouse with its roof falling in
 
-+ ZZE
++ TUMBLEDOWN
++ opposite(s): WELL MAINTAINED, STURDY
 
 

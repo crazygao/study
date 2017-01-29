@@ -1,16 +1,7 @@
 pulchritude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Great physical beauty and appeal
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English pulcritude, from Latin pulchritūdō, from pulcher, pulchr-, beautiful

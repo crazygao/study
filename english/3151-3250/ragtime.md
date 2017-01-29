@@ -1,16 +1,7 @@
 ragtime
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A style of jazz characterized by elaborately syncopated rhythm in the melody and a steadily accented accompaniment
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From rag4

@@ -1,16 +1,15 @@
 pseudonym
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fictitious name, especially a pen name
 
 ### Origin
 
-ZZC
+French pseudonyme, from Greek pseudōnumon, neuter of pseudōnumos, falsely named : pseudēs, false; see pseudo- + onuma, name; See nō̆-men- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Hanbury wrote a novel under the pseudonym of James Aston
 
-+ ZZE
++ PEN-NAME
 
 

@@ -1,16 +1,16 @@
 purloin
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To steal, often in a violation of trust
++ _vi_: To commit theft
 
 ### Origin
 
-ZZC
+Middle English purloinen, to remove, from Anglo-Norman purloigner: pur-, away (from Latin prō-. See pro-1) + loign, far (from Latin longē, from longus, long. See del-1 in Indo-European Roots)
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they crash cars through storefronts to purloin merchandise
 
-+ ZZE
++ STEAL
 
 

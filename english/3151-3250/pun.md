@@ -1,16 +1,17 @@
 pun
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A play on words, sometimes on different senses of the same word and sometimes on the similar sense or sound of different words
+
++ _vi_: To make puns or a pun
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: what's the point of collecting pins (if you'll excuse the pun)?
 
-+ ZZE
++ PLAY ON WORDS
 
 

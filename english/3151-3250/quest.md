@@ -1,16 +1,34 @@
 quest
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act or an instance of seeking or pursuing something; a search
++ _noun_: An expedition undertaken in medieval romance by a knight in order to perform a prescribed feat
+    + __eg__: the quest for the Holy Grail
++ _noun_: Archaic. A jury of inquest
+
++ _vi_: To go on a quest
++ _vi_: To search for game
++ _vt_: To search for; seek
 
 ### Origin
 
-ZZC
+Middle English queste, from Old French, ultimately from Latin quaesta, from feminine of quaestus obsolete past participle of quaerere, to seek
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: nothing will stop their quest for her killer
 
-+ ZZE
++ SEARCH
+
+__eg__: Sir Galahad was nearing the end of his quest
+
++ EXPEDITION
+
+__eg__: I telephoned Downing Street in quest of the Prime Minister
+
++ SEARCHING FOR
+
+__eg__: his eyes quested to left and right
+
++ SEARCH
 
 

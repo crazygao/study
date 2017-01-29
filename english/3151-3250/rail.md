@@ -1,16 +1,7 @@
-rail
+rail3
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To express objections or criticisms in bitter, harsh, or abusive language
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English railen, from Old French railler, to tease, joke, from Old Provençal ralhar, to chat, joke, from Vulgar Latin *ragulāre, to bray, from Late Latin ragere

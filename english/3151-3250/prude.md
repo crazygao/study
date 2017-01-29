@@ -1,16 +1,13 @@
 prude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who is excessively concerned with being or appearing to be proper, modest, or righteous
 
 ### Origin
 
-ZZC
+French, short for prude femme, virtuous woman : Old French prude, feminine of prud, virtuous; see proud + French femme, woman (from Latin fēmina. See feminine)
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ PURITAN
 
 

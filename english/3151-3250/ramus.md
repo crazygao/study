@@ -1,16 +1,8 @@
 ramus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A branch, as of a plant, nerve, or blood vessel
++ _noun_: A bony process extending like a branch from a larger bone, especially the ascending part of the lower jaw that makes a joint at the temple
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin rāmus, branch. See wrād- in Indo-European Roots

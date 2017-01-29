@@ -1,16 +1,7 @@
 puissance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Power; might
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Old French, from poissant, powerful, present participle of pooir, to be able. See power

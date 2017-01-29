@@ -1,16 +1,9 @@
 pugilist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: old-fashioned + somewhat formal: a professional boxer
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ BOXER
 
 

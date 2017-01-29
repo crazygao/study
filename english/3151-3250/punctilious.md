@@ -1,16 +1,13 @@
 punctilious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Strictly attentive to minute details of form in action or conduct
++ _adj_: Precise; scrupulous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his punctilious implementation of orders impressed the King
 
-+ ZZE
++ METICULOUS
++ opposite(s): CARELESS, EASY-GOING, SLAPDASH
 
 

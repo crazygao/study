@@ -1,16 +1,20 @@
 purvey
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To supply (food, for example); furnish
++ _vt_: To advertise or circulate
 
 ### Origin
 
-ZZC
+Middle English purveien, from Anglo-Norman purveier, from Latin prōvidēre. See provide
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he had acquired a massive fortune purveying a health drink
 
-+ ZZE
++ SELL
+
+__eg__: the majority of newspapers purvey typically right-wing attitudes
+
++ PASS ON
 
 

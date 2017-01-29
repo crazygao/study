@@ -1,16 +1,14 @@
 quiescent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Being quiet, still, or at rest; inactive
 
 ### Origin
 
-ZZC
+Latin quiēscēns, quiēscent- present participle of quiēscere, to rest, from quiēs, quiet. See quiet
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ INACTIVE
++ opposite(s): ACTIVE
 
 

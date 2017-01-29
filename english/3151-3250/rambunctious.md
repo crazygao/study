@@ -1,16 +1,7 @@
 rambunctious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Boisterous and disorderly
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Probably alteration of robustious, rumbustious, from robust

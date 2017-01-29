@@ -1,16 +1,8 @@
 pyre
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A heap of combustibles for burning a corpse as a funeral rite
++ _noun_: A pile of combustibles
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin pyra, from Greek purā, from pūr, fire. See paəwr̥ in Indo-European Roots

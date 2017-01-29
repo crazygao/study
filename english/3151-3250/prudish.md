@@ -1,16 +1,12 @@
 prudish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Marked by or exhibiting the characteristics of a prude; priggish
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his grandmother was a rather prudish woman
 
-+ ZZE
++ PURITANICAL
++ opposite(s): PERMISSIVE, LIBERAL, BROAD-MINDED
 
 

@@ -1,16 +1,17 @@
 puerile
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Belonging to childhood; juvenile
++ _adj_: Immature; childish
 
 ### Origin
 
-ZZC
+Latin puerīlis, from puer, child, boy. See pau- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it was the cause of many a puerile pub argument
 
-+ ZZE
++ CHILDISH
++ opposite(s): MATURE, SENSIBLE
 
 

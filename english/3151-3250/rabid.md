@@ -1,16 +1,23 @@
 rabid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of or affected by rabies
++ _adj_: Raging; uncontrollable
+    + __eg__: rabid thirst
++ _adj_: Extremely zealous or enthusiastic; fanatical
+    + __eg__: a rabid football fan
 
 ### Origin
 
-ZZC
+Latin rabidus, from rabere, to rave
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a rabid anti-royalist
 
-+ ZZE
++ EXTREME
+
+__eg__: she was bitten by a rabid dog
+
++ RABIES-INFECTED
 
 

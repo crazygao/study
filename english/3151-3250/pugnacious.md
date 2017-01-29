@@ -1,16 +1,16 @@
 pugnacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Combative in nature; belligerent
 
 ### Origin
 
-ZZC
+From Latin pugnāx, pugnāc-, from pugnāre, to fight, from pugnus, fist. See peuk- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the bouncer that night was a pugnacious 42-year-old from East London
 
-+ ZZE
++ COMBATIVE
++ opposite(s): PEACEABLE, FRIENDLY
 
 

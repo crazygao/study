@@ -1,16 +1,7 @@
 pullet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A young domestic hen, usually one that is less than one year old
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English pulet, from Old French polet, diminutive of poul, cock, and poule, hen, both from Latin pullus, young fowl, young animal, chicken. See pau- in Indo-European Roots.

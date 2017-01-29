@@ -1,16 +1,15 @@
 quandary
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of uncertainty or perplexity
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: George was in a quandary
 
-+ ZZE
++ DILEMMA
 
 

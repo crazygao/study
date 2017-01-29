@@ -1,16 +1,16 @@
 publicize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To give publicity to
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the king's itinerary was normally publicized in advance
 
-+ ZZE
++ MAKE KNOWN
++ opposite(s): CONCEAL, SUPPRESS
+
+__eg__: they promised to publicize the book in China
+
++ ADVERTISE
 
 

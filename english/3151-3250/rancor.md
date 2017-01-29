@@ -1,16 +1,7 @@
 rancor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Bitter, long-lasting resentment; deep-seated ill will
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Old French, from Late Latin, rancid smell, from Latin rancēre, to stink, be rotten

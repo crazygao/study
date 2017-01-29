@@ -1,16 +1,13 @@
 pugilism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The skill, practice, and sport of fighting with the fists; boxing
 
 ### Origin
 
-ZZC
+From Latin pugil, pugilist. See peuk- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ BOXING
 
 

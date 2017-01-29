@@ -1,16 +1,13 @@
 quay
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A wharf or reinforced bank where ships are loaded or unloaded
 
 ### Origin
 
-ZZC
+Middle English keye, from Old North French cai, of Celtic origin
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ DOCK
 
 

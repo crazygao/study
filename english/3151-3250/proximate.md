@@ -1,16 +1,8 @@
 proximate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Very near or next, as in space, time, or order
++ _adj_: Approximate
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin proximātus, past participle of proximāre, to come near, from proximus, nearest. See per1 in Indo-European Roots

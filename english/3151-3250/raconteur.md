@@ -1,16 +1,13 @@
 raconteur
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who tells stories and anecdotes with skill and wit
 
 ### Origin
 
-ZZC
+French, from raconter, to relate, from Old French : re-, re- + aconter, to count up, reckon; see account
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ STORYTELLER
 
 
