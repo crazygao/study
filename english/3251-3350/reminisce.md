@@ -1,16 +1,16 @@
 reminisce
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To recollect and tell of past experiences or events
 
 ### Origin
 
-ZZC
+Back-formation from reminiscence
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Duncan and I reminisced about the last time we'd worked together | they began to reminisce
 
-+ ZZE
++ REMEMBER (WITH PLEASURE)
++ opposite(s): FORGET
 
 

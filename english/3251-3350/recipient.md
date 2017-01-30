@@ -1,16 +1,19 @@
 recipient
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Functioning as a receiver; receptive
+
++ _noun_: One that receives or is receptive
++ _noun_: One who receives blood, tissue, or an organ from a donor
 
 ### Origin
 
-ZZC
+Latin recipiēns, recipient- present participle of recipere, to receive. See receive
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the recipient of the £145,000 Carlsberg Prize
 
-+ ZZE
++ receiver
++ opposite(s): DONOR
 
 

@@ -1,16 +1,17 @@
 recollect
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To recall to mind
++ _vi_: To remember something; have a recollection
 
 ### Origin
 
-ZZC
+Medieval Latin recolligere, recollēct-, from Latin, to gather up : re-, re- + colligere, to collect; see collect1
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he grimaced as if in sudden pain as he recollected the incident
 
-+ ZZE
++ REMEMBER
++ opposite(s): FORGET
 
 

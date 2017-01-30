@@ -1,16 +1,5 @@
 reconstitute
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To provide with a new structure
+    + __eg__: The parks commission has been reconstituted
++ _vt_: To bring (a liquid in concentrated or powder form) to normal strength by adding water

@@ -1,16 +1,17 @@
 recapitulate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To repeat in concise form
++ _vt_: Biology. To appear to repeat (the evolutionary stages of the species) during the embryonic development of the individual organism
++ _vi_: To make a summary
 
 ### Origin
 
-ZZC
+Latin recapitulāre, recapitulāt- : re-, re- + capitulum, main point, heading diminutive of caput, capit-, head. See kaput- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: since the issue is important, I will recapitulate some of the main points here
 
-+ ZZE
++ SUMMARIZE
 
 

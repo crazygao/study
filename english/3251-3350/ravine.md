@@ -1,16 +1,13 @@
 ravine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A deep narrow valley or gorge in the earth's surface worn by running water
 
 ### Origin
 
-ZZC
+French, from Old French, violent rush, from Latin rapīna, rapine. See ravin
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ GORGE
 
 

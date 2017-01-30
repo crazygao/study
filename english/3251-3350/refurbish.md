@@ -1,16 +1,11 @@
 refurbish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: To make clean, bright, or fresh again; renovate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: millions of pounds are needed to refurbish the conference and exhibition halls
 
-+ ZZE
++ RENOVATE
 
 

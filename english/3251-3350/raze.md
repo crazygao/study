@@ -1,16 +1,17 @@
 raze
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To level to the ground; demolish
++ _vt_: To scrape or shave off
++ _vt_: Archaic. To erase
 
 ### Origin
 
-ZZC
+Middle English rasen, to scrape off, from Old French raser, from Vulgar Latin rāsāre, frequentative of Latin rādere. See rash2
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: during the campaign, 80,000 people were killed and 440 villages razed
 
-+ ZZE
++ DESTROY
 
 

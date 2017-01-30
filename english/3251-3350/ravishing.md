@@ -1,16 +1,12 @@
 ravishing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Extremely attractive; entrancing.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: you look utterly ravishing
 
-+ ZZE
++ VERY BEAUTIFUL
++ opposite(s): HIDEOUS
 
 

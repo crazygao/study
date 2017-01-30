@@ -1,16 +1,11 @@
 reiterate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To say or do again or repeatedly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he reiterated his opposition to abortion
 
-+ ZZE
++ REPEAT
 
 

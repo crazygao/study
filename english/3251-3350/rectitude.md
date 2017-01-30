@@ -1,16 +1,18 @@
 rectitude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Moral uprightness; righteousness
++ _noun_: The quality or condition of being correct in judgment
++ _noun_: The quality of being straight
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Late Latin rēctitūdō, from Latin rēctus, straight. See reg- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: local worthies rarely challenged the rectitude of the chief constable
 
-+ ZZE
++ RIGHTEOUSNESS
++ opposite(s): INFAMY, DISHONESTY
 
 

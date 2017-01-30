@@ -1,16 +1,7 @@
 rebus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A representation of words in the form of pictures or symbols, often presented as a puzzle
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin rēbus, ablative pl. of rēs, thing. See rē- in Indo-European Roots

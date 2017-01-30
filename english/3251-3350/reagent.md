@@ -1,16 +1,3 @@
 reagent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A substance used in a chemical reaction to detect, measure, examine, or produce other substances

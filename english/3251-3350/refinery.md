@@ -1,16 +1,3 @@
 refinery
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An industrial plant for purifying a crude substance, such as petroleum or sugar

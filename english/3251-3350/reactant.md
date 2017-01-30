@@ -1,16 +1,3 @@
 reactant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A substance participating in a chemical reaction, especially a directly reacting substance present at the initiation of the reaction

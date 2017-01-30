@@ -1,16 +1,24 @@
 refute
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To prove to be false or erroneous; overthrow by argument or proof
+    + __eg__: refute testimony
++ _vt_: To deny the accuracy or truth of
+    + __eg__: refuted the results of the poll
 
 ### Origin
 
-ZZC
+Latin refūtāre. See bhau- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: attempts to refute Einstein's theory of relativity
 
-+ ZZE
++ DISPROVE
++ opposite(s): CONFIRM
+
+__eg__: a spokesman totally refuted the allegation of bias
+
++ DENY
++ opposite(s): ACCEPT
 
 

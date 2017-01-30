@@ -1,16 +1,4 @@
 rarefaction
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A decrease in density and pressure in a medium, such as air, caused by the passage of a sound wave
++ _noun_: The region in which this occurs

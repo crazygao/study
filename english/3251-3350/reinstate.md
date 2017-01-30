@@ -1,16 +1,12 @@
 reinstate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To bring back into use or existence
++ _vt_: To restore to a previous condition or position
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he (Gorbachev) was reinstated as President on 21 August
 
-+ ZZE
++ RESTORE
 
 

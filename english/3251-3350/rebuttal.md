@@ -1,16 +1,13 @@
 rebuttal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of rebutting
++ _noun_: A statement made in rebutting
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his critics had been promised a point-by-point rebuttal of the accusations
 
-+ ZZE
++ REFUTATION
++ opposite(s): CONFIRMATION
 
 

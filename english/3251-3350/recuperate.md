@@ -1,16 +1,22 @@
 recuperate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To return to health or strength; recover
++ _vi_: To recover from financial loss
++ _vt_: To restore to health or strength
++ _vt_: To regain
 
 ### Origin
 
-ZZC
+Latin recuperāre, recuperāt- : re-, re- + capere, to take; See kap- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he fell ill that summer and travelled to the south of France to recuperate
 
-+ ZZE
++ GET BETTER
+
+__eg__: he won an appeal and recuperated the money
+
++ GET BACK
 
 
