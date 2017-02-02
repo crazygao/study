@@ -1,16 +1,12 @@
 resentment
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Indignation or ill will felt as a result of a real or imagined grievance
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the proposal aroused deep resentment among many party members
 
-+ ZZE
++ ANGER
++ opposite(s): CONTENTMENT, HAPPINESS
 
 

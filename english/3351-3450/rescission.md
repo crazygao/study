@@ -1,16 +1,16 @@
 rescission
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act of rescinding
 
 ### Origin
 
-ZZC
+Latin rescissiō, rescissiōn-, from rescissus, past participle of rescindere, to rescind. See rescind
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the rescission of the contract
 
-+ ZZE
++ REVOCATION
++ opposite(s): ENFORCEMENT
 
 

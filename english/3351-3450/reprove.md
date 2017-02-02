@@ -1,16 +1,17 @@
 reprove
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To voice or convey disapproval of; rebuke
++ _vt_: To find fault with
 
 ### Origin
 
-ZZC
+Middle English reproven, from Anglo-Norman repruver, variant of Old French reprover, from Late Latin reprobāre, to disapprove. See reprobate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he annoyed the new chauffeur by reproving him for grinding the gears
 
-+ ZZE
++ REPRIMAND
++ opposite(s): PRAISE, COMPLIMENT
 
 

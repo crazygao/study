@@ -1,16 +1,22 @@
 repugnant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Arousing disgust or aversion; offensive or repulsive
+    + __eg__: Logic
++ _adj_: Logic. Contradictory; inconsistent
 
 ### Origin
 
-ZZC
+Middle English, antagonistic, from Old French, from Latin repugnāns, repugnant- present participle of repugnāre, to fight against. See repugn
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the idea of cannibalism may seem repugnant to us
 
-+ ZZE
++ ABHORRENT
++ opposite(s): ATTRACTIVE, AGREEABLE, PLEASANT
+
+__eg__: the restriction is repugnant to the nature of the tenancy
+
++ INCOMPATIBLE WITH
 
 

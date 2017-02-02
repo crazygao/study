@@ -1,16 +1,21 @@
 retrench
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To cut down; reduce
++ _vt_: To remove, delete, or omit
++ _vi_: To curtail expenses; economize
 
 ### Origin
 
-ZZC
+Obsolete French retrencher, from Old French retrenchier: re-, re- + trenchier, to cut; see trench
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: not all the directors wanted to retrench
 
-+ ZZE
++ ECONOMIZE
+
+__eg__: welfare services will have to be retrenched
+
++ REDUCE
 
 

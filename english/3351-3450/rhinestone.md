@@ -1,16 +1,7 @@
 rhinestone
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A colorless artificial gem of paste or glass, often with facets that sparkle in imitation of a diamond
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+After the Rhine(translation of French caillou du Rhin: caillou, pebble + du, of the + Rhin, Rhine)

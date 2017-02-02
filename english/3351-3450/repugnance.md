@@ -1,16 +1,13 @@
 repugnance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Extreme dislike or aversion
++ _noun_: Logic. The relationship of contradictory terms; inconsistency
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a look of repugnance crossed Michael's features
 
-+ ZZE
++ REVULSION
++ opposite(s): DELIGHT, LIKING
 
 

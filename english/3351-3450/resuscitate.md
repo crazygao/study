@@ -1,16 +1,22 @@
 resuscitate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To restore consciousness, vigor, or life to
++ _vi_: To regain consciousness
 
 ### Origin
 
-ZZC
+Latin resuscitāre, resuscitāt- : re-, re- + suscitāre, to stir up (sus-, sub-, sub- + citāre, to move violently, frequentative of ciēre, to set in motion; See kei-2 in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: medics tried to resuscitate him
 
-+ ZZE
++ BRING ROUND
++ opposite(s): FAIL TO SAVE, ALLOW TO DIE
+
+__eg__: measures to resuscitate the economy
+
++ REVIVE
++ opposite(s): GIVE UP ON, ALLOW TO GO DOWNHILL
 
 

@@ -1,16 +1,16 @@
 resent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To feel indignantly aggrieved at
 
 ### Origin
 
-ZZC
+French ressentir, to be angry, from Old French resentir, to feel strongly : re-, re- + sentir, to feel (from Latin sentīre. See sent- in Indo-European Roots)
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the girls resented the fact that Peter got so much attention | she could tell he was beginning to resent her
 
-+ ZZE
++ BEGRUDGE
++ opposite(s): LIKE, WELCOME, BE PLEASED BY
 
 

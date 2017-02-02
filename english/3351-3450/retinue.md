@@ -1,16 +1,15 @@
 retinue
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The retainers or attendants accompanying a high-ranking person
 
 ### Origin
 
-ZZC
+Middle English retenue, from Old French, from feminine past participle of retenir, to retain. See retain
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Sir James ordered one of his retinue to stable the horses
 
-+ ZZE
++ ENTOURAGE
 
 

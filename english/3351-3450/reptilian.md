@@ -1,16 +1,20 @@
 reptilian
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of or relating to reptiles
++ _adj_: Resembling or characteristic of a reptile
++ _adj_: Despicable; treacherous
 
-### Origin
-
-ZZC
++ _noun_: A reptile
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: reptilian species
 
-+ ZZE
++ reptile-like
+
+__eg__: a reptilian smirk twisted his features | the reptilian young reception clerk
+
++ UNPLEASANT
++ opposite(s): NICE, PLEASANT, ATTRACTIVE
 
 

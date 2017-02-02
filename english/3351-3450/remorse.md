@@ -1,16 +1,16 @@
 remorse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Moral anguish arising from repentance for past misdeeds; bitter regret
 
 ### Origin
 
-ZZC
+Middle English remors, from Old French, from Medieval Latin remorsum, from neuter past participle of Latin remordēre, to torment : re-, re- + mordēre, to bite; See mer- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was filled with remorse
 
-+ ZZE
++ CONTRITION
++ opposite(s): INDIFFERENCE
 
 

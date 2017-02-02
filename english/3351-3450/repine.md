@@ -1,16 +1,17 @@
 repine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To be discontented or low in spirits; complain or fret
++ _vi_: To yearn after something
+    + __eg__: Immigrants who repined for their homeland
 
 ### Origin
 
-ZZC
+Middle English repinen, to be aggrieved : re-, re- + pinen, to yearn; see pine2
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they saw less of each other, and Robyn was aware that this did not cause her to repine as much as perhaps it should have done
 
-+ ZZE
++ FRET
 
 

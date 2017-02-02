@@ -1,16 +1,16 @@
 revere
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To regard with awe, deference, and devotion
 
 ### Origin
 
-ZZC
+French révérer, from Old French reverer, from Latin reverērī: re-, re- + verērī, to respect; See wer-3 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the president is revered as a national hero
 
-+ ZZE
++ RESPECT
++ opposite(s): DESPISE
 
 

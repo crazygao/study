@@ -1,16 +1,12 @@
 remunerative
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Yielding suitable recompense; profitable
++ _adj_: Serving to remunerate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he left to take up a more remunerative post elsewhere
 
-+ ZZE
++ LUCRATIVE
 
 

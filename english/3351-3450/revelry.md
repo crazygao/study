@@ -1,16 +1,11 @@
 revelry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Boisterous merrymaking
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a night of beer-swilling revelry
 
-+ ZZE
++ CELEBRATION
 
 

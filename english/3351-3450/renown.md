@@ -1,16 +1,17 @@
 renown
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The quality of being widely honored and acclaimed; fame
++ _noun_: Obsolete. Report; rumor
 
 ### Origin
 
-ZZC
+Middle English renoun, from Anglo-Norman, from renomer, to make famous : re-, repeatedly (from Latin. See re-) + nomer, to name (from Latin nōmināre, from nōmen, nōmin-, name. See nō̆-men- in Indo-European Roots)
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a number of them achieved political renown | scientists of international renown
 
-+ ZZE
++ FAME
++ opposite(s): OBSCURITY, ANONYMITY
 
 

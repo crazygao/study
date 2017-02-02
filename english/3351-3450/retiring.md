@@ -1,16 +1,17 @@
 retiring
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Shy and reserved; modest
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a cut-glass bowl was presented to the retiring president
 
-+ ZZE
++ DEPARTING
++ opposite(s): INCOMING
+
+__eg__: he was such a quiet, retiring man
+
++ SHY
++ opposite(s): BOLD, OUTGOING
 
 

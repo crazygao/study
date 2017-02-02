@@ -1,16 +1,18 @@
 reticent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Inclined to keep one's thoughts, feelings, and personal affairs to oneself
++ _adj_: Restrained or reserved in style
++ _adj_: Reluctant; unwilling
 
 ### Origin
 
-ZZC
+Latin reticēns, reticent- present participle of reticēre, to keep silent : re-, re- + tacēre, to be silent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Smith was extremely reticent about his personal affairs
 
-+ ZZE
++ RESERVED
++ opposite(s): EXPANSIVE, GARRULOUS
 
 

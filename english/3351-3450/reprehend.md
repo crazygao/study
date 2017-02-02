@@ -1,16 +1,7 @@
 reprehend
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To reprove; censure
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English reprehenden, from Latin reprehendere: re-, re- + prehendere, to seize; See ghend- in Indo-European Roots.

@@ -1,16 +1,16 @@
 reprehensible
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Deserving rebuke or censure; blameworthy
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Late Latin reprehēnsibilis, from Latin reprehēnsus, past participle of reprehendere, to reprehend. See reprehend
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his conduct was morally reprehensible
 
-+ ZZE
++ DEPLORABLE
++ opposite(s): CREDITABLE, PRAISEWORTHY, GOOD
 
 

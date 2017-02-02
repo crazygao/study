@@ -1,16 +1,16 @@
 renovate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To restore to an earlier condition, as by repairing or remodeling
++ _vt_: To impart new vigor to; revive
 
 ### Origin
 
-ZZC
+Latin renovāre, renovāt- : re-, re- + novāre, to make new (from novus, new. See newo- in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the hotel has been completely renovated
 
-+ ZZE
++ MODERNIZE
 
 

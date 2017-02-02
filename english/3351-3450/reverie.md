@@ -1,16 +1,17 @@
 reverie
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of abstracted musing; daydreaming
++ _noun_: A daydream
+    + __eg__: “I felt caught up in a reverie of years long past” (William Styron).
 
 ### Origin
 
-ZZC
+Middle English, revelry, from Old French, from rever, to dream
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was startled out of her reverie by a loud crash
 
-+ ZZE
++ DAYDREAM
 
 

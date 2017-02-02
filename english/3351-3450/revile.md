@@ -1,16 +1,18 @@
 revile
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To assail with abusive language; vituperate
+
++ _vi_: To use abusive language
 
 ### Origin
 
-ZZC
+Middle English revilen, from Old French reviler: re-, re- + vil, vile; see vile
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was arrested and reviled as a traitor
 
-+ ZZE
++ CRITICIZE
++ opposite(s): PRAISE, EXTOL
 
 

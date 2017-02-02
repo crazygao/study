@@ -1,16 +1,12 @@
 resourceful
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Able to act effectively or imaginatively, especially in difficult situations
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: somebody proved how resourceful they were by organizing the help of three local firemen
 
-+ ZZE
++ INGENIOUS
++ opposite(s): UNIMAGINATIVE
 
 

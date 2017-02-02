@@ -1,16 +1,32 @@
 reprobate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A morally unprincipled person
++ _noun_: One who is predestined to damnation
+
++ _adj_: Morally unprincipled; shameless
++ _adj_: Rejected by God and without hope of salvation
+
++ _vt_: To disapprove of; condemn
++ _vt_: To abandon to eternal damnation. Used of God
 
 ### Origin
 
-ZZC
+From Middle English, condemned, from Late Latin reprobātus, past participle of reprobāre, to reprove : Latin re-, opposite; see re- + Latin probāre, to approve; see prove
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: even a hardened reprobate like myself has some standards to adhere to
 
-+ ZZE
++ ROGUE
+
+__eg__: reprobate behaviour
+
++ UNPRINCIPLED
++ opposite(s): UPRIGHT, VIRTUOUS, PRINCIPLED
+
+__eg__: they reprobated his conduct
+
++ CRITICIZE
++ opposite(s): PRAISE, COMMEND, APPROVE OF
 
 

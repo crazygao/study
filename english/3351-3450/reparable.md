@@ -1,16 +1,17 @@
 reparable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Possible to repair
+    + __eg__: reparable damage to the car; reparable wrongs
 
 ### Origin
 
-ZZC
+French réparable, from Latin reparābilis, from reparāre, to repair. See repair1
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I think the situation is still reparable
 
-+ ZZE
++ RECTIFIABLE
++ opposite(s): BEYOND REPAIR
 
 

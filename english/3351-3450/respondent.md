@@ -1,16 +1,7 @@
 respondent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Giving or given as an answer; responsive
++ _adj_: Law. Being a defendant
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: One who responds
++ _noun_: Law. A defendant, especially in a divorce or equity case

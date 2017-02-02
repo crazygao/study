@@ -1,16 +1,16 @@
 rescind
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make void; repeal or annul
 
 ### Origin
 
-ZZC
+Latin rescindere: re-, re- + scindere, to split; See skei- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the court has the power to rescind a bankruptcy order
 
-+ ZZE
++ REVOKE
++ opposite(s): ENFORCE, ENACT, IMPLEMENT
 
 

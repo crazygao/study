@@ -1,16 +1,7 @@
 revue
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A musical show consisting of skits, songs, and dances, often satirizing current events, trends, and personalities
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French, from Old French, review. See review
