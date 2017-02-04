@@ -1,16 +1,17 @@
 rile
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To stir to anger
++ _vt_: To stir up (liquid); roil
 
 ### Origin
 
-ZZC
+Variant of roil
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he had a sceptical air guaranteed to rile Ursula
 
-+ ZZE
++ IRRITATE
++ opposite(s): CONCILIATE, SOOTHE
 
 

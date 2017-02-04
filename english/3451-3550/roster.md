@@ -1,16 +1,16 @@
 roster
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A list, especially of names
++ _noun_: A list of the names of military officers and enlisted personnel enrolled in a particular unit.
 
 ### Origin
 
-ZZC
+Dutch rooster, gridiron, roster (from the ruled paper used for a roster), from roosten, to roast
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: according to the roster, he was due to work today
 
-+ ZZE
++ LIST
 
 

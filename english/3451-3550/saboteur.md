@@ -1,16 +1,7 @@
 saboteur
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who commits sabotage.
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French, from saboter, to sabotage. See sabotage

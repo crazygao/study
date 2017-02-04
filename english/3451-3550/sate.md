@@ -1,16 +1,25 @@
 sate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To satisfy (an appetite) fully.
++ _vt_: To satisfy to excess
 
 ### Origin
 
-ZZC
+Probably alteration of Middle English saden, from Old English sadian. See sā- in Indo-European Roots
+
+sate
+### Meaning
++ _vt & i_: Archaic A past tense of sit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he rested, his passion temporarily sated
 
-+ ZZE
++ SATIATE
++ opposite(s): STARVE, DEPRIVE, DISSATISFY
+
+__eg__: the children were sated with blackberries
+
++ GORGE
 
 

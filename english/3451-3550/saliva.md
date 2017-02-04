@@ -1,16 +1,15 @@
 saliva
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The watery mixture of secretions from the salivary and oral mucous glands that lubricates chewed food, moistens the oral walls, and contains ptyalin
 
 ### Origin
 
-ZZC
+Latin salīva
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: saliva ran down his chin
 
-+ ZZE
++ SPIT
 
 

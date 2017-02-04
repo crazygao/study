@@ -1,16 +1,15 @@
 ripen
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt & i_: To make or become ripe or riper; mature
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: tomatoes ripen faster when placed together on a window ledge
 
-+ ZZE
++ BECOME RIPE
+
+__eg__: to ripen melons, keep them at room temperature for a few days
+
++ MAKE RIPE
 
 

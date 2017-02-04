@@ -1,16 +1,17 @@
 ribald
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Characterized by or indulging in vulgar, lewd humor
+
++ _noun_: A vulgar, lewdly funny person
 
 ### Origin
 
-ZZC
+From Middle English ribaud, ribald person, from Old French, from riber, to be wanton, of Germanic origin. See wer-2 in Indo-European Roots
 
 ### Synonym
 
 __eg__: ZZD
 
-+ ZZE
++ BAWDY
 
 

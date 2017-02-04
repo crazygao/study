@@ -1,16 +1,16 @@
 sagacious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having or showing keen discernment, sound judgment, and farsightedness
 
 ### Origin
 
-ZZC
+From Latin sagāx, sagāc-, of keen perception. See sāg- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the President sent his most sagacious aide to help Republican candidates
 
-+ ZZE
++ WISE
++ opposite(s): STUPID, FOOLISH
 
 

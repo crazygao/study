@@ -1,16 +1,12 @@
 rivalry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of competing or emulating
++ _noun_: The state or condition of being a rival
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the growing rivalry between the two groups
 
-+ ZZE
++ COMPETITIVENESS
 
 

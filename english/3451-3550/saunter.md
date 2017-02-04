@@ -1,16 +1,22 @@
 saunter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To walk at a leisurely pace; stroll
+
++ _noun_: A leisurely pace
++ _noun_: A leisurely walk or stroll
 
 ### Origin
 
-ZZC
+Probably from Middle English santren, to muse
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they sauntered back to the car
 
-+ ZZE
++ STROLL
+
+__eg__: a quiet saunter down the road
+
++ STROLL
 
 

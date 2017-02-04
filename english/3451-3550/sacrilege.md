@@ -1,16 +1,16 @@
 sacrilege
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Desecration, profanation, misuse, or theft of something sacred
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin sacrilegium, from sacrilegus, one who steals sacred things : sacer, sacred; see sacred + legere, to gather; See leg- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the sacrilege of committing a murder on holy ground
 
-+ ZZE
++ DESECRATION
++ opposite(s): PIETY, RESPECTFULNESS
 
 

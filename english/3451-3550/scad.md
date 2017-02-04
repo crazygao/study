@@ -1,16 +1,16 @@
 scad
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of several carangid fishes of the genus Decapterus, especially D. punctatus of the western Atlantic
 
 ### Origin
 
-ZZC
+Origin unknown
 
-### Synonym
+scad
+### Meaning
++ _noun_: A large number or amount. Often used in the plural
+    + __eg__: Scads of people are in the hall
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+Origin unknown

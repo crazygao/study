@@ -1,16 +1,12 @@
 saintly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, resembling, or befitting a saint
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a saintly but somewhat ineffective archbishop
 
-+ ZZE
++ HOLY
++ opposite(s): UNHOLY, SINFUL
 
 

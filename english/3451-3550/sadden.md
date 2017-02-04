@@ -1,16 +1,12 @@
 sadden
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt & i_: To make or become sad
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I was saddened by the number of casualties
 
-+ ZZE
++ DEPRESS
++ opposite(s): CHEER UP
 
 

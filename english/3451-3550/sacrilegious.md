@@ -1,16 +1,13 @@
 sacrilegious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Grossly irreverent toward what is or is held to be sacred
++ _adj_: Having committed sacrilege
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he condemned the book as a vicious, sacrilegious attack on their faith
 
-+ ZZE
++ PROFANE
++ opposite(s): PIOUS, RESPECTFUL
 
 

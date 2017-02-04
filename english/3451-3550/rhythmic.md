@@ -1,16 +1,12 @@
 rhythmic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, relating to, or having rhythm; recurring with measured regularity
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a rhythmic orchestral accompaniment
 
-+ ZZE
++ PULSING
++ opposite(s): SMOOTH, IRREGULAR
 
 

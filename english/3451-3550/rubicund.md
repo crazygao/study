@@ -1,16 +1,7 @@
 rubicund
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Inclined to a healthy rosiness; ruddy
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin rubicundus. See reudh- in Indo-European Roots

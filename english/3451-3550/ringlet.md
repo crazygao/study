@@ -1,16 +1,4 @@
 ringlet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A long, spirally curled lock of hair
++ _noun_: A small circle or ring

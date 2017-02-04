@@ -1,16 +1,17 @@
 rickety
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Likely to break or fall apart; shaky
++ _adj_: Feeble with age; infirm
++ _adj_: Of, having, or resembling rickets
 
 ### Origin
 
-ZZC
+From rickets
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: we went carefully up the rickety stairs
 
-+ ZZE
++ SHAKY
 
 

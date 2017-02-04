@@ -1,16 +1,14 @@
 scathing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Bitterly denunciatory; harshly critical
+    + __eg__: “a scathing tract on the uselessness of war” (Pierre Brodin).
++ _adj_: Harmful or painful; injurious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the shadow trade and industry spokesman launched a scathing attack on the government
 
-+ ZZE
++ DEVASTATING
++ opposite(s): MILD, GENTLE ; COMPLIMENTARY
 
 

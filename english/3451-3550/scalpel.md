@@ -1,16 +1,7 @@
 scalpel
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A small straight knife with a thin sharp blade used in surgery and dissection
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin scalpellum, diminutive of scalper, scalprum, knife, from scalpere, to scratch, cut. See skel-1 in Indo-European Roots

@@ -1,16 +1,12 @@
 satirize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To ridicule or attack by means of satire
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a strip cartoon satirizing middle-aged, middle-class liberals
 
-+ ZZE
++ MOCK
++ opposite(s): ACCLAIM, APPLAUD
 
 

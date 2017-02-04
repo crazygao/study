@@ -1,16 +1,7 @@
 rivulet
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A small brook or stream; a streamlet
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Possibly from Italian rivoletto, diminutive of rivolo, small stream, from Latin rīvulus, diminutive of rīvus, stream. See rei- in Indo-European Roots

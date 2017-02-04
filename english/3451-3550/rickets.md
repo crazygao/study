@@ -1,16 +1,7 @@
 rickets
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A deficiency disease resulting from a lack of vitamin D or calcium and from insufficient exposure to sunlight, characterized by defective bone growth and occurring chiefly in children. Also called rachitis
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[rickets] mid 17th cent.: perhaps an alteration of Greek rhakhitis, from rhakhis ‘spine’.

@@ -1,16 +1,10 @@
-school
+school2
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A large group of aquatic animals, especially fish, swimming together; a shoal
+
++ _vi_: To swim in or form into a school
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English scole, from Middle Dutch. See skel-1 in Indo-European Roots
 

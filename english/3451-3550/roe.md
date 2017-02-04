@@ -1,16 +1,16 @@
 roe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The eggs or the egg-laden ovary of a fish
++ _noun_: The egg mass or spawn of certain crustaceans, such as the lobster
 
 ### Origin
 
-ZZC
+Middle English row, from Middle Low German or Middle Dutch roge
 
-### Synonym
+roe
+### Meaning
++ _noun_: The roe deer
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+Middle English ro, from Old English rā, rāha

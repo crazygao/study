@@ -1,16 +1,7 @@
 rumen
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The first division of the stomach of a ruminant animal, in which most food collects immediately after being swallowed and from which it is later returned to the mouth as cud for thorough chewing. Also called paunch
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin rūmen, throat

@@ -1,16 +1,17 @@
 savant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A learned person; a scholar
++ _noun_: An idiot savant
 
 ### Origin
 
-ZZC
+French, learned, savant, from Old French, present participle of savoir, to know, from Vulgar Latin sapēre, from Latin sapere, to be wise. See sep- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Sir Isaiah Berlin, the Oxford savant
 
-+ ZZE
++ INTELLECTUAL
++ opposite(s): IGNORAMUS, FOOL
 
 
