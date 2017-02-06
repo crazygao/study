@@ -1,16 +1,14 @@
 seamy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Sordid; base
+    + __eg__: “seamy tales of aberrant sexual practices, messy divorces, drug addiction, mental instability, and suicide attempts” (Barbara Goldsmith).
++ _adj_: Having, marked with, or showing a seam
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he seemed very knowledgeable about the seamy side of life
 
-+ ZZE
++ SORDID
++ opposite(s): SALUBRIOUS
 
 

@@ -1,16 +1,7 @@
 shale
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fissile rock composed of layers of claylike, fine-grained sediments
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Probably from Middle English, shell, from Old English scealu. See skel-1 in Indo-European Roots

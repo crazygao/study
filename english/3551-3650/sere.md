@@ -1,16 +1,16 @@
 sere
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Withered; dry
+    + __eg__: sere vegetation at the edge of the desert
 
 ### Origin
 
-ZZC
+Middle English, from Old English sēar
 
-### Synonym
+sere
+### Meaning
++ _noun_: The entire sequence of ecological communities successively occupying an area from the initial stage to the climax
 
-__eg__: ZZD
+### Origin
 
-+ ZZE
-
-
+From series

@@ -1,16 +1,4 @@
 screwdriver
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A cocktail made with vodka and orange juice
++ _noun_: A tool used for turning screws

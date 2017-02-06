@@ -1,16 +1,9 @@
 sheathe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To insert into or provide with a sheath
++ _vt_: To retract (a claw) into a sheath
++ _vt_: To enclose with a protective covering; encase
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English schethen, from schethe, sheath. See sheath

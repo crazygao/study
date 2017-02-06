@@ -1,16 +1,12 @@
 scurrilous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Given to the use of vulgar, coarse, or abusive language; foul-mouthed
++ _adj_: Expressed in vulgar, coarse, and abusive language
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a scurrilous attack on her character
 
-+ ZZE
++ ABUSIVE
 
 

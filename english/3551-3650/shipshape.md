@@ -1,16 +1,7 @@
 shipshape
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Marked by meticulous order and neatness
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Short for obsolete shipshapen, arranged as a ship should be : ship + shapen, past participle of shape

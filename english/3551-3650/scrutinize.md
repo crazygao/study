@@ -1,16 +1,12 @@
 scrutinize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To examine or observe with great care; inspect critically
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Basil scrutinized the painting
 
-+ ZZE
++ EXAMINE CAREFULLY
++ opposite(s): GLANCE AT
 
 

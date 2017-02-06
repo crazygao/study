@@ -1,16 +1,12 @@
 serrated
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Notched like the edge of a saw; saw-toothed; serrate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a ten-inch hunting knife with a serrated blade
 
-+ ZZE
++ JAGGED
++ opposite(s): SMOOTH, STRAIGHT.
 
 

@@ -1,16 +1,21 @@
 shelve
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To place or arrange on a shelf
++ _vt_: To put away as though on a shelf; put aside
+    + __eg__: “As usual, Dixon shelved this question” (Kingsley Amis).
++ _vt_: To cause to retire from service; dismiss
++ _vt_: To furnish or outfit with shelves
++ _vi_: To slope gradually; incline
 
 ### Origin
 
-ZZC
+From shelf(on the model of such pairs as calf, calve).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: plans to reopen the school have been shelved
 
-+ ZZE
++ PUT TO ONE SIDE
++ opposite(s): CARRY OUT, EXECUTE, IMPLEMENT ; REVIVE
 
 

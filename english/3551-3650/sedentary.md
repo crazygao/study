@@ -1,16 +1,20 @@
 sedentary
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Characterized by or requiring much sitting
+    + __eg__: a sedentary job
++ _adj_: Accustomed to sitting or to taking little exercise
++ _adj_: Remaining or living in one area, as certain birds; not migratory
++ _adj_: Attached to a surface and not moving freely, as a barnacle
 
 ### Origin
 
-ZZC
+French sédentaire, from Old French, from Latin sedentārius, from sedēns, sedent- present participle of sedēre, to sit. See sed- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a sedentary job
 
-+ ZZE
++ SITTING
++ opposite(s): ACTIVE, MOBILE
 
 

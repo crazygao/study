@@ -1,16 +1,20 @@
 shirk
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To avoid or neglect (a duty or responsibility).
++ _vi_: To avoid work or duty
 
 ### Origin
 
-ZZC
+Perhaps from German Schurke, scoundrel; akin to Old High German fiurscurgo, demon : fiur, fire + scurigen, to stir up.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was brave and would not shirk any task
 
-+ ZZE
++ EVADE
+
+__eg__: discipline was strict and no one shirked
+
++ EVADE ONE'S DUTY
 
 

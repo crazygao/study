@@ -1,16 +1,4 @@
 shaving
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A thin slice or sliver, as of wood or metal, that is shaved off
++ _noun_: The act of one that shaves

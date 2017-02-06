@@ -1,16 +1,12 @@
 secretive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having or marked by an inclination to secrecy; not open, forthright, or frank
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a secretive person
 
-+ ZZE
++ UNCOMMUNICATIVE
++ opposite(s): OPEN, COMMUNICATIVE, CHATTY
 
 

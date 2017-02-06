@@ -1,16 +1,16 @@
 secede
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To withdraw formally from membership in an organization, association, or alliance
 
 ### Origin
 
-ZZC
+Latin sēcēdere, to withdraw : sē-, apart; See s(w)e- in Indo-European Roots + cēdere, to go; See ked- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the Southern states seceded from the Federal Union
 
-+ ZZE
++ WITHDRAW FROM
++ opposite(s): JOIN
 
 

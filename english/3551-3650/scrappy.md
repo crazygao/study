@@ -1,16 +1,17 @@
 scrappy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Composed of scraps; fragmentary
+    + __eg__: scrappy evidence
 
-### Origin
-
-ZZC
+scrappy
+### Meaning
++ _adj_: Quarrelsome; contentious
++ _adj_: Full of fighting spirit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the match was a scrappy affair
 
-+ ZZE
++ DISORGANIZED
 
 

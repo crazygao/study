@@ -1,16 +1,19 @@
 shrewd
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Characterized by keen awareness, sharp intelligence, and often a sense of the practical
++ _adj_: Disposed to artful and cunning practices; tricky
++ _adj_: Sharp; penetrating
+    + __eg__: a shrewd wind
 
 ### Origin
 
-ZZC
+Middle English shrewed, wicked, from shrew, rascal. See shrew
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a shrewd businessman | a shrewd career move
 
-+ ZZE
++ ASTUTE
++ opposite(s): STUPID, UNWISE ; INGENUOUS
 
 

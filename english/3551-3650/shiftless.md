@@ -1,16 +1,21 @@
 shiftless
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_:
+   1. Lacking ambition or purpose; lazy:
+    + __eg__: a shiftless student
+   2. Characterized by a lack of ambition or energy
+    + __eg__: studied in a shiftless way
++ _adj_: Lacking resourcefulness or efficiency; incompetent
 
 ### Origin
 
-ZZC
+shift, expedient + -less.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he thought the whole family shiftless and dishonest
 
-+ ZZE
++ LAZY
++ opposite(s): ENTHUSIASTIC, ENTERPRISING
 
 

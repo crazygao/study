@@ -1,16 +1,9 @@
 seismic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, subject to, or caused by an earthquake or earth vibration
++ _adj_: Earthshaking
+    + __eg__: an issue of seismic proportions and ramifications
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+[seismic] mid 19th cent.: from Greek seismos ‘earthquake’ (from seien ‘to shake’) + ↑-ic.

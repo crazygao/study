@@ -1,16 +1,7 @@
 scrutable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Capable of being understood through study and observation; comprehensible
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Late Latin scrūtābilis, searchable, from Latin scrūtārī, to search. See scrutiny
