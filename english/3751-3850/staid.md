@@ -1,16 +1,18 @@
 staid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Characterized by sedate dignity and often a strait-laced sense of propriety; sober
++ _adj_: Fixed; permanent
+    + __eg__: “There is nothing settled, nothing staid in this universe” (Virginia Woolf).
 
 ### Origin
 
-ZZC
+From obsolete staid, past participle of stay1.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: staid old ladies
 
-+ ZZE
++ SEDATE
++ opposite(s): FRIVOLOUS, DARING, INFORMAL
 
 

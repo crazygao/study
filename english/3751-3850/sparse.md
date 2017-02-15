@@ -1,16 +1,16 @@
 sparse
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Occurring, growing, or settled at widely spaced intervals; not thick or dense
 
 ### Origin
 
-ZZC
+Latin sparsus, past participle of spargere, to scatter
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: areas of sparse population
 
-+ ZZE
++ SCANTY
++ opposite(s): ABUNDANT, PLENTIFUL ; THICK
 
 

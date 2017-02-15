@@ -1,16 +1,11 @@
 sprain
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A painful wrenching or laceration of the ligaments of a joint
++ _noun_: The condition resulting from a sprain
+
++ _vt_: To cause a sprain to (a joint or ligament)
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Origin unknown
 

@@ -1,16 +1,7 @@
 spatial
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, involving, or having the nature of space
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin spatium, space

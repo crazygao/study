@@ -1,16 +1,22 @@
 steadfast
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Fixed or unchanging; steady
++ _adj_: Firmly loyal or constant; unswerving
 
 ### Origin
 
-ZZC
+Middle English stedefast, from Old English stedefæst: stede, place; see stead + fæst, fixed, fast; See past- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was a steadfast friend
 
-+ ZZE
++ LOYAL
++ opposite(s): DISLOYAL
+
+__eg__: a steadfast policy of internationalism
+
++ FIRM
++ opposite(s): IRRESOLUTE
 
 

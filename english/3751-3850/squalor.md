@@ -1,16 +1,16 @@
 squalor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A filthy and wretched condition or quality
 
 ### Origin
 
-ZZC
+Latin squālor, from squālēre, to be filthy. See squalid
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they lived in squalor
 
-+ ZZE
++ DIRT
++ opposite(s): CLEANLINESS
 
 

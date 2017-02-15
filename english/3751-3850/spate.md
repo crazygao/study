@@ -1,16 +1,20 @@
 spate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A sudden flood, rush, or outpouring
+    + __eg__: “It issues a spate of words from the loudspeakers and the politicians” (Virginia Woolf).
++ _noun_: Chiefly British.
+   1. A flash flood.
+   2. A freshet resulting from a downpour of rain or melting of snow.
+   3. A sudden heavy fall of rain
 
 ### Origin
 
-ZZC
+Middle English
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a spate of burglaries
 
-+ ZZE
++ SERIES
 
 

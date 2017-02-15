@@ -1,16 +1,12 @@
 spectral
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of or resembling a specter; ghostly
++ _adj_: Of, relating to, or produced by a spectrum
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: four spectral shapes moved through the thick yellow mist
 
-+ ZZE
++ GHOSTLY
 
 

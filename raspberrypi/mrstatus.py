@@ -15,6 +15,8 @@ import struct
 import pytz
 
 def get_ip_address(ifname):
+    # raspberry pi get ip address from wlan0, this
+    # http://stackoverflow.com/questions/24196932/how-can-i-get-the-ip-address-of-eth0-in-python
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     return socket.inet_ntoa(fcntl.ioctl(
         s.fileno(),
@@ -35,6 +37,11 @@ http = urllib3.PoolManager()
 # http = urllib3.proxy_from_url('http://proxy_host:proxy_port')
 # interaction for a specific Device instance - replace 1 with your specific Device ID
 # url = 'https://iotmms_on_your_trial_system.hanatrial.ondemand.com/com.sap.iotservices.mms/v1/api/http/data/1'
+# Steps to revive iotmms
+# 1. goto hana cockpit start iotmms application, start
+# 2. after start, open https://account.hanatrial.ondemand.com/cockpit#/acc/p1941731645trial/app/iotmms/dashboard
+# 3. look up registered device and device types
+# There is no easy way to get
 
 # DATA SCHEME HERE:
 # 1. url -> url for db
@@ -54,6 +61,7 @@ headers = urllib3.util.make_headers()
 headers['Authorization'] = 'Bearer ' + '3e5d9eb25c40afe76fb9238c96d4b823'
 headers['Content-Type'] = 'application/json;charset=utf-8'
 
+# initial data status
 roomid = '"APJ-CN-BJG-BJG07/16/16.04"'
 status = 0
 match_key2 = '0'
@@ -69,6 +77,9 @@ while has_ip_address == False:
             ipaddress = get_ip_address('wlan0')
             has_ip_address = True
         except IOError:
+            # TODO: this is a status need to be double checked.
+            # If there is no network, loop every two seconds.
+            # There should be log on this
             time.sleep(2)
 
 PIR = 7         # On-board pin number 7 (GPIO04)

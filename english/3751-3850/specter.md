@@ -1,16 +1,9 @@
 specter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A ghostly apparition; a phantom
++ _noun_: A haunting or disturbing image or prospect
+    + __eg__: the terrible specter of nuclear war
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+French spectre, from Latin spectrum, appearance, apparition. See spectrum

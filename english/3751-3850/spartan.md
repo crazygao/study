@@ -1,16 +1,21 @@
 spartan
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of or relating to Sparta or its people
++ _adj_: also spartan
+   1. Rigorously self-disciplined or self-restrained.
+   2. Simple, frugal, or austere:
+    + __eg__: a Spartan diet; a spartan lifestyle
+   3. Marked by brevity of speech; laconic.
+   4. Courageous in the face of pain, danger, or adversity
 
-### Origin
-
-ZZC
++ _noun_: A citizen of Sparta
++ _noun_: One of Spartan character
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a spartan life | spartan but adequate rooms
 
-+ ZZE
++ AUSTERE
++ opposite(s): LUXURIOUS, OPULENT
 
 

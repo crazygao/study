@@ -1,16 +1,12 @@
 sophisticate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To cause to become less natural, especially to make less naive and more worldly
++ _vt_: To make impure; adulterate
++ _vt_: To make more complex or inclusive; refine
++ _vi_: To use sophistry
+
++ _noun_: A sophisticated person
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English sophisticaten, to adulterate, from Medieval Latin sophisticāre, sophisticāt-, from Latin sophisticus, sophistic, from Greek sophistikos, from sophistēs, sophist. See sophist

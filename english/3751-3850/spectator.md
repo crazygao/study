@@ -1,16 +1,16 @@
 spectator
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An observer of an event
 
 ### Origin
 
-ZZC
+Latin spectātor, from spectāre, to watch. See spectacle
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the game attracted about 40,000 spectators
 
-+ ZZE
++ ONLOOKER
++ opposite(s): PARTICIPANT, PLAYER
 
 

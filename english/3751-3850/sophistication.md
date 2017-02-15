@@ -1,16 +1,13 @@
 sophistication
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: the quality of being ↑sophisticated
+    + __eg__: the increasing power and sophistication of computers
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: despite his jeans, there was still an air of sophistication about him
 
-+ ZZE
++ WORLDLINESS
++ opposite(s): NAIVETY, UNCOUTHNESS
 
 

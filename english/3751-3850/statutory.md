@@ -1,16 +1,5 @@
 statutory
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _adj_: Of or relating to a statute
++ _adj_: Enacted, regulated, or authorized by statute
 

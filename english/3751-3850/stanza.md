@@ -1,16 +1,7 @@
 stanza
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One of the divisions of a poem, composed of two or more lines usually characterized by a common pattern of meter, rhyme, and number of lines
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Italian. See stance

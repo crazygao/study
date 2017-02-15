@@ -1,16 +1,14 @@
 sparing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Given to or marked by prudence and restraint in the use of material resources
++ _adj_: Deficient or limited in quantity, fullness, or extent
++ _adj_: Forbearing; lenient
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was more sparing with his admiration than with his criticism
 
-+ ZZE
++ THRIFTY
++ opposite(s): EXTRAVAGANT, LAVISH
 
 

@@ -1,16 +1,17 @@
 specious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having the ring of truth or plausibility but actually fallacious
+    + __eg__: a specious argument
++ _adj_: Deceptively attractive
 
 ### Origin
 
-ZZC
+Middle English, attractive, from Latin speciōsus, from speciēs, appearance. See spek- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a specious argument
 
-+ ZZE
++ PLAUSIBLE BUT WRONG
 
 

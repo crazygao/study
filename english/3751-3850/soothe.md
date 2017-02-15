@@ -1,16 +1,24 @@
 soothe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To calm or placate
++ _vt_: To ease or relieve (pain, for example).
+
++ _vi_: To bring comfort, composure, or relief
 
 ### Origin
 
-ZZC
+Middle English sothen, to verify, from Old English sōthian, from sōth, true. See es- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Rachel patted his hand to soothe him
 
-+ ZZE
++ CALM
++ opposite(s): AGITATE, DISTURB
+
+__eg__: it contains a mild local anaesthetic to soothe the pain
+
++ ALLEVIATE
++ opposite(s): AGGRAVATE
 
 

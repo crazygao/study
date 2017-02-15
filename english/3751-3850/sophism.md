@@ -1,16 +1,8 @@
 sophism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A plausible but fallacious argument
++ _noun_: Deceptive or fallacious argumentation
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English sophime, sophisme, from Old French sophime, from Latin sophisma, from Greek, from sophizesthai, to be subtle, from sophos, clever, wise

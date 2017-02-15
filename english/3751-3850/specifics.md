@@ -1,16 +1,4 @@
 specifics
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: the details of a subject that you need to think about or discuss
+    + __eg__: Okay, that's the broad plan— let's get down to the specifics

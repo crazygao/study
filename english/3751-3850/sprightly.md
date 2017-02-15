@@ -1,16 +1,14 @@
 sprightly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Full of spirit and vitality; lively; brisk
 
-### Origin
-
-ZZC
++ _adv_: In a lively, animated manner
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was quite sprightly for her age
 
-+ ZZE
++ LIVELY
++ opposite(s): DODDERING, SLUGGISH, LETHARGIC, INACTIVE
 
 

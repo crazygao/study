@@ -1,16 +1,4 @@
 spontaneity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The quality or condition of being spontaneous
++ _noun_: Spontaneous behavior, impulse, or movement

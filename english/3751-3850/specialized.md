@@ -1,16 +1,4 @@
 specialized
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: designed or developed for a particular purpose or area of knowledge
+    + __eg__: specialized equipment

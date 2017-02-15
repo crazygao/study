@@ -1,16 +1,16 @@
 sophistry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Plausible but fallacious argumentation
++ _noun_: A plausible but misleading or fallacious argument
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: to claim that patients differ in any more fundamental way is pure sophistry
 
-+ ZZE
++ SPECIOUS REASONING
+
+__eg__: he went along with this sophistry, but his heart clearly wasn't in it
+
++ FALLACIOUS ARGUMENT
 
 

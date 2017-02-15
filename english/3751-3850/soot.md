@@ -1,16 +1,13 @@
 soot
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The fine black particles, chiefly composed of carbon, produced by incomplete combustion of coal, oil, wood, or other fuels
 
 ### Origin
 
-ZZC
+Middle English, from Old English sōt. See sed- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ fuliginous
 
 

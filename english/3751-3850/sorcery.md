@@ -1,16 +1,13 @@
 sorcery
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Use of supernatural power over others through the assistance of spirits; witchcraft
 
 ### Origin
 
-ZZC
+Middle English sorcerie, from Old French, from sorcier, sorcerer. See sorcerer
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ (BLACK) MAGIC
 
 

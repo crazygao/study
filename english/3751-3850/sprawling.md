@@ -1,16 +1,4 @@
 sprawling
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: spreading in an untidy way
+    + __eg__: a modern sprawling town
