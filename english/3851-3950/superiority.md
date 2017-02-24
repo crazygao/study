@@ -1,16 +1,12 @@
 superiority
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: See superior.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: despite the military superiority of the government forces, the rebels continued to hold on to territory in the south
 
-+ ZZE
++ SUPREMACY
++ opposite(s): INFERIORITY
 
 

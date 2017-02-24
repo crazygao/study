@@ -1,16 +1,8 @@
 stethoscope
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of various instruments used for listening to sounds produced within the body
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French stéthoscope: Greek stēthos, chest + French -scope, an instrument for viewing (from Latin -scopium. See -scope).
 

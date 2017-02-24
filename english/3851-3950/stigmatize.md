@@ -1,16 +1,17 @@
 stigmatize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To characterize or brand as disgraceful or ignominious
++ _vt_: To mark with stigmata or a stigma
++ _vt_: To cause stigmata to appear on
 
 ### Origin
 
-ZZC
+Medieval Latin stigmatizāre, to brand, from Greek stigmatizein, to mark, from stigma, stigmat-, tattoo mark. See stigma
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: trade unionism was stigmatized as inimical to the interests of society
 
-+ ZZE
++ CONDEMN
 
 

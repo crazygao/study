@@ -1,16 +1,10 @@
 subterranean
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Situated or operating beneath the earth's surface; underground
++ _adj_: Hidden; secret
+    + __eg__: subterranean motives for murder
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Latin subterrāneus: sub-, sub- + terra, earth; See ters- in Indo-European Roots
 

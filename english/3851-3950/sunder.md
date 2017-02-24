@@ -1,16 +1,18 @@
 sunder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To break or wrench apart; sever
++ _vi_: To break into parts
+
++ _noun_: A division or separation
 
 ### Origin
 
-ZZC
+Middle English sundren, from Old English sundrian
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: during his twenties his father and he were sundered by religious differences
 
-+ ZZE
++ DIVIDE
 
 

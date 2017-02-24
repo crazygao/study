@@ -1,16 +1,22 @@
 succumb
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To submit to an overpowering force or yield to an overwhelming desire; give up or give in
++ _vi_: To die
 
 ### Origin
 
-ZZC
+Middle English succomben, to bring down, from Old French succomber, from Latin succumbere, to lie under, yield : sub-, sub- + -cumbere, to lie down as in accumbere, to lie down
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she succumbed to temptation
 
-+ ZZE
++ YIELD
++ opposite(s): RESIST, CONQUER
+
+__eg__: he succumbed to an obscure lung complaint
+
++ DIE FROM
++ opposite(s): WITHSTAND
 
 

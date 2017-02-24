@@ -1,16 +1,15 @@
 superfluity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Something superfluous
++ _noun_: ZZA
+    + __eg__: could do without such superfluities as a second car
++ _noun_: Overabundance; excess
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: California has always had a superfluity of fresh crab
 
-+ ZZE
++ SURPLUS
++ opposite(s): LACK, SHORTAGE
 
 

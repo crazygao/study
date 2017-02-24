@@ -1,16 +1,10 @@
-striae
+stria / pl.form striae
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A thin, narrow groove or channel
++ _noun_: A thin line or band, especially one of several that are parallel or close together
+    + __eg__: a characteristic stria of contractile tissue
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Latin. See streig- in Indo-European Roots
 

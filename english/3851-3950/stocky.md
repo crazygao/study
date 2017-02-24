@@ -1,16 +1,13 @@
 stocky
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Solidly built; sturdy
++ _adj_: Chubby; plump
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a short, stocky man
 
-+ ZZE
++ THICKSET
++ opposite(s): SLENDER, SKINNY
 
 

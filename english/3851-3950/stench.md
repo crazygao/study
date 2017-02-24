@@ -1,16 +1,17 @@
 stench
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A strong, foul odor; a stink
++ _noun_: A foul quality
+    + __eg__: the stench of corrupt government.
 
 ### Origin
 
-ZZC
+Middle English, from Old English stenc, odor
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the stench made me feel sick
 
-+ ZZE
++ STINK
 
 

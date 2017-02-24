@@ -1,16 +1,21 @@
 stringent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Imposing rigorous standards of performance; severe
+    + __eg__: stringent safety measures.
++ _adj_: Constricted; tight
+    + __eg__: operating under a stringent time limit
++ _adj_: Characterized by scarcity of money, credit restrictions, or other financial strain
+    + __eg__: stringent economic policies
 
 ### Origin
 
-ZZC
+Latin stringēns, stringent- present participle of stringere, to draw tight. See streig- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the safety regulations are very stringent
 
-+ ZZE
++ STRICT
++ opposite(s): LENIENT, FLEXIBLE
 
 

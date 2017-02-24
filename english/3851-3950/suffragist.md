@@ -1,16 +1,3 @@
 suffragist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An advocate of the extension of political voting rights, especially to women

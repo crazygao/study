@@ -1,16 +1,22 @@
 strive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To exert much effort or energy; endeavor
++ _vi_: To struggle or fight forcefully; contend
+    + __eg__: strive against injustice
 
 ### Origin
 
-ZZC
+Middle English striven, from Old French estriver, from estrit, estrif, quarrel. See strife
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I shall strive to be virtuous
 
-+ ZZE
++ TRY
++ opposite(s): MAKE NO ATTEMPT
+
+__eg__: scholars must strive against this bias
+
++ STRUGGLE
 
 

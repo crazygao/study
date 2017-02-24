@@ -1,16 +1,20 @@
 stymie
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To thwart; stump
+    + __eg__: a problem in thermodynamics that stymied half the class
+
++ _noun_: An obstacle or obstruction
++ _noun_: Sports. A situation in golf in which an opponent's ball obstructs the line of play of one's own ball on the putting green
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: NHS changes must not be allowed to stymie new medical treatments
 
-+ ZZE
++ IMPEDE
++ opposite(s): ASSIST, HELP
 
 

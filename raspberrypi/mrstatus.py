@@ -92,6 +92,8 @@ GPIO.setup(PIR, GPIO.IN)        # Set PIR as input
 GPIO.setup(LED, GPIO.OUT)       # Set LED as output
 
 try:
+    # This Loop Might be too efficient to eat up all the cpu of Pi
+    # http://raspi.tv/2013/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio
     while True:
         val = GPIO.input(PIR)            # read input value
             if (val == True):                # check if the input is HIGH
@@ -100,7 +102,9 @@ try:
                 timestamp = datetime.datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%dT%XZ')
                 str_timestamp = '"'+timestamp+'"'
                 printStr = 'Movement detected at ' + timestamp
+                # Use DEBUG symbol to hide this kind of print screen
                 print (printStr)
+
                 old_time = 0
 
                 if (status == 0):
@@ -123,7 +127,7 @@ try:
                     print(r.status)
                     print(r.data)
                     print ("")
-
+                # TODO: the sensor is blocked here for 3 seconds, we need async method to do it!
                 time.sleep(3)
                 GPIO.output(LED, False)         # turn LED OFF
             else:

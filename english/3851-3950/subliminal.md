@@ -1,16 +1,18 @@
 subliminal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Below the threshold of conscious perception. Used of stimuli
++ _adj_: Inadequate to produce conscious awareness but able to evoke a response
+    + __eg__: subliminal propaganda
 
 ### Origin
 
-ZZC
+sub- + Latin līmen, līmin-, threshold
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the screen flashed subliminal messages
 
-+ ZZE
++ SUBCONSCIOUS
++ opposite(s): EXPLICIT
 
 

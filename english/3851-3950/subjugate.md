@@ -1,16 +1,17 @@
 subjugate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To bring under control; conquer
++ _vt_: To make subservient; enslave
 
 ### Origin
 
-ZZC
+Middle English subjugaten, from Latin subiugāre, subiugāt- : sub-, sub- + iugum, yoke; See yeug- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Norman leaders had subjugated most of Ireland's Gaelic population
 
-+ ZZE
++ CONQUER
++ opposite(s): LIBERATE
 
 

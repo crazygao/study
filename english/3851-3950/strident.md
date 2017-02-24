@@ -1,16 +1,16 @@
 strident
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Loud, harsh, grating, or shrill; discordant
 
 ### Origin
 
-ZZC
+Latin strīdēns, strīdent- present participle of strīdēre, to make harsh sounds, ultimately of imitative origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a strident voice interrupted the consultation
 
-+ ZZE
++ HARSH
++ opposite(s): SOFT, DULCET
 
 

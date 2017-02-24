@@ -1,16 +1,11 @@
 striate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To mark with striae or striations
+
++ _adj_: Marked with striae; striped, grooved, or ridged
++ _adj_: Consisting of a stria or striae
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+From Latin striātus, furrowed, from stria, furrow. See stria
 

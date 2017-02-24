@@ -1,16 +1,16 @@
 supercilious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Feeling or showing haughty disdain
 
 ### Origin
 
-ZZC
+Latin superciliōsus, from supercilium, eyebrow, pride : super-, super- + cilium, lower eyelid; See kel-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a supercilious young minister
 
-+ ZZE
++ ARROGANT
++ opposite(s): HUMBLE, MODEST
 
 

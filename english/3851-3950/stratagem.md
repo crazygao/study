@@ -1,16 +1,16 @@
 stratagem
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A military maneuver designed to deceive or surprise an enemy
++ _noun_: A clever, often underhanded scheme for achieving an objective
 
 ### Origin
 
-ZZC
+Middle English, from Old French stratageme, from Old Italian stratagemma, from Latin stratēgēma, from Greek, from stratēgein, to be a general, from stratēgos, general : stratos, army; See ster-2 in Indo-European Roots + agein, to lead; See ag- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he deployed various cunning stratagems
 
-+ ZZE
++ PLAN
 
 

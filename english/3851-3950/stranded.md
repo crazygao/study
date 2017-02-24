@@ -1,16 +1,16 @@
 stranded
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: a person or vehicle that is stranded is unable to move from the place where they are
+    + __eg__: Air travellers were left stranded because of icy conditions
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the stranded ship
 
-+ ZZE
++ BEACHED
+
+__eg__: she was left stranded in a city she hardly knew
+
++ HELPLESS
 
 

@@ -1,16 +1,13 @@
 stoical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: not showing emotion or not complaining when bad things happen to you
+    + __eg__: She bore the pain stoically
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: my mother was more stoical and scorned such self-pity
 
-+ ZZE
++ LONG-SUFFERING
++ opposite(s): COMPLAINING, EASILY UPSET
 
 

@@ -1,16 +1,18 @@
 stygian
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_:
+   1. Gloomy and dark.
+   2. Infernal; hellish
++ _adj_: Of or relating to the river Styx
 
 ### Origin
 
-ZZC
+From Latin Stygius, from Greek Stugios, from Stux, Stug-, Styx
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Paris was plunged after dark into Stygian gloom
 
-+ ZZE
++ DARK
 
 

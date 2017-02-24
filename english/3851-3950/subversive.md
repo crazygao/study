@@ -1,16 +1,18 @@
 subversive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Intended or serving to subvert, especially intended to overthrow or undermine an established government
+    + __eg__: “Sex and creativity are often seen by dictators as subversive activities” (Erica Jong)
 
-### Origin
-
-ZZC
++ _noun_: One who advocates or is regarded as advocating subversion
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was arrested and charged with subversive activities
 
-+ ZZE
++ DISRUPTIVE
+
+__eg__: she was designated as a dangerous subversive
+
++ TROUBLEMAKER
 
 

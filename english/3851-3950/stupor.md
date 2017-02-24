@@ -1,16 +1,16 @@
 stupor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of reduced or suspended sensibility
++ _noun_: A state of mental numbness, as that resulting from shock; a daze
 
 ### Origin
 
-ZZC
+Middle English, from Latin, from stupēre, to be stunned
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they left him slumped in a drunken stupor
 
-+ ZZE
++ DAZE
 
 

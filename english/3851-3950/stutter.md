@@ -1,7 +1,8 @@
 stutter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: To speak or utter with a spasmodic repetition or prolongation of sounds
+
++ _noun_: The act or habit of stuttering
 
 ### Origin
 
@@ -9,8 +10,12 @@ ZZC
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he stuttered over a word
 
-+ ZZE
++ STAMMER
+
+__eg__: the editor had a bad stutter
+
++ STAMMER
 
 

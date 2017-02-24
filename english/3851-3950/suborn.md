@@ -1,16 +1,11 @@
 suborn
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To induce (a person) to commit an unlawful or evil act
++ _vt_: Law.
+   1. To induce (a person) to commit perjury.
+   2. To procure (perjured testimony).
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Latin subōrnāre: sub-, secretly; see sub- + ōrnāre, to equip; See ar- in Indo-European Roots
 

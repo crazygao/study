@@ -1,16 +1,11 @@
 summarily
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adv_: Main entry: ↑summary
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was accused of conspiracy and summarily executed
 
-+ ZZE
++ IMMEDIATELY
 
 

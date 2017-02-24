@@ -1,16 +1,12 @@
 stipulation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of stipulating
++ _noun_: Something stipulated, especially a term or condition in an agreement
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the only stipulation was that Edwards should retain his job as chairman for three years
 
-+ ZZE
++ CONDITION
 
 

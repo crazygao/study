@@ -1,16 +1,17 @@
 stentorian
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Extremely loud
+    + __eg__: a stentorian voice
 
 ### Origin
 
-ZZC
+After Stentor, a loud-voiced Greek herald in the Iliad
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a bulky man was holding forth in stentorian tones
 
-+ ZZE
++ LOUD
++ opposite(s): QUIET, SOFT
 
 
