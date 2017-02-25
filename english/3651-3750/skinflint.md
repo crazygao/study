@@ -1,16 +1,12 @@
 skinflint
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One who is very reluctant to spend money; a miser
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: don't be such a skinflint—you earn more than she does
 
-+ ZZE
++ MISER
++ opposite(s): SPENDTHRIFT
 
 

@@ -1,16 +1,16 @@
 snide
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Derogatory in a malicious, superior way
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I'm fed up with your snide remarks
 
-+ ZZE
++ DISPARAGING
++ opposite(s): COMPLIMENTARY, SYMPATHETIC
 
 

@@ -1,16 +1,16 @@
 skit
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A short, usually comic dramatic performance or work; a theatrical sketch
++ _noun_: A short humorous or satirical piece of writing
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an old vaudeville skit | a skit on daytime magazine programmes
 
-+ ZZE
++ COMEDY SKETCH
 
 

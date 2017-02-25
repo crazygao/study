@@ -1,16 +1,15 @@
 simpleton
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A person who is felt to be deficient in judgment, good sense, or intelligence; a fool
 
 ### Origin
 
-ZZC
+simple + -ton(as in surnames such as Chesterton, Singleton).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there will always be those in business who persist in treating their customers like simpletons
 
-+ ZZE
++ FOOL
 
 

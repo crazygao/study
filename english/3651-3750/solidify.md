@@ -1,16 +1,14 @@
 solidify
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To make solid, compact, or hard
++ _vt_: To make strong or united
++ _vi_: To become solid or united
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: these droplets of liquefied rock solidify (rapidly)
 
-+ ZZE
++ HARDEN
++ opposite(s): LIQUEFY, MELT, THAW, GASIFY
 
 

@@ -1,16 +1,21 @@
 sobriety
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Gravity in bearing, manner, or treatment
++ _adj_: Moderation in or abstinence from consumption of alcoholic liquor or use of drugs
+    + __eg__: “three years of drug-free sobriety” (Ron Rosenbaum)
 
 ### Origin
 
-ZZC
+Middle English sobriete, from Old French, from Latin sōbrietās, from sōbrius, sober
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he hated her more in his sobriety than when he was drunk
 
-+ ZZE
++ SOBERNESS
+
+__eg__: his daughter had always been a model of sobriety
+
++ SERIOUSNESS
 
 

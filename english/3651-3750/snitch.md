@@ -1,16 +1,13 @@
 snitch
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To steal (something, usually something of little value); pilfer
++ _vi_: To turn informer
+    + __eg__: He snitched on his comrades
+
++ _noun_: A thief
++ _noun_: An informer
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Origin unknown
 

@@ -1,16 +1,3 @@
 solemnities
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: the ways of behaving or the activities which are considered suitable for a serious formal social ceremony, such as a funeral

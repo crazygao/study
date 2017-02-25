@@ -1,16 +1,12 @@
 snobbish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, befitting, or resembling a snob; pretentious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the snobbish distinction between art and craft
 
-+ ZZE
++ ELITIST
++ opposite(s): SOCIABLE
 
 

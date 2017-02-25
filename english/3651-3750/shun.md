@@ -1,16 +1,16 @@
 shun
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To avoid deliberately; keep away from
 
 ### Origin
 
-ZZC
+Middle English shunnen, from Old English scunian, to abhor
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he shunned publicity | everyone seemed to shun her
 
-+ ZZE
++ AVOID
++ opposite(s): ACCEPT ; SEEK ; WELCOME
 
 

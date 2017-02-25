@@ -1,16 +1,5 @@
 solemnity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _noun_: the quality of being serious
+    + __eg__: the solemnity of a funeral service
 

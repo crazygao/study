@@ -1,16 +1,10 @@
 sluggard
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A slothful person; an idler
+
++ _adj_: Lazy
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English sluggart, probably from sluggi, lazy, probably of Scandinavian origin
 

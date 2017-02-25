@@ -1,16 +1,16 @@
 smarmy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Hypocritically, complacently, or effusively earnest; unctuous
++ _adj_: Sleek
 
 ### Origin
 
-ZZC
+From smarm, to smear
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he's too smarmy | his smarmy tone of voice
 
-+ ZZE
++ UNCTUOUS
 
 

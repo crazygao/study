@@ -1,16 +1,25 @@
 slander
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Law. Oral communication of false statements injurious to a person's reputation
++ _noun_: A false and malicious statement or report about someone
+
++ _vt_: To utter a slander about
++ _vi_: To utter or spread slander
 
 ### Origin
 
-ZZC
+Middle English slaundre, from Old French esclandre, alteration of escandle, from Latin scandalum, cause of offense, stumbling block. See scandal
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he'd sue me for slander if I made the accusation publicly
 
-+ ZZE
++ DEFAMATION
++ opposite(s): ACCLAMATION, PRAISE
+
+__eg__: they were accused of slandering the head of state
+
++ DEFAME
++ opposite(s): ACCLAIM, PRAISE
 
 

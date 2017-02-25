@@ -1,16 +1,19 @@
 simper
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To smile in a silly, self-conscious, often coy manner
++ _vt_: To utter or express with a silly, self-conscious, often coy smile
+    + __eg__: simpered a lame excuse
+
++ _noun_: A silly, self-conscious, often coy smile
 
 ### Origin
 
-ZZC
+Perhaps of Scandinavian origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she simpered, looking pleased with herself
 
-+ ZZE
++ SMILE AFFECTEDLY
 
 

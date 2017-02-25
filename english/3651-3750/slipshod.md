@@ -1,16 +1,13 @@
 slipshod
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Marked by carelessness; sloppy or slovenly
++ _adj_: Slovenly in appearance; shabby or seedy
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he blamed unprofessionalism and a slipshod approach for the club's performance
 
-+ ZZE
++ CARELESS
++ opposite(s): CAREFUL, METICULOUS, PAINSTAKING
 
 

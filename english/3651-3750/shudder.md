@@ -1,16 +1,23 @@
 shudder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To shiver convulsively, as from fear or revulsion
++ _vi_: To vibrate; quiver
+    + __eg__: The airplane shuddered in the turbulence
+
++ _noun_: A convulsive shiver, as from fear or revulsion; a tremor
 
 ### Origin
 
-ZZC
+Middle English shodderen, perhaps of Middle Dutch or Middle Low German origin
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she still shuddered at the thought of him
 
-+ ZZE
++ SHAKE
+
+__eg__: another great shudder racked his body
+
++ SHAKE
 
 

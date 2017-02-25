@@ -1,16 +1,20 @@
-slew
+slew/slue
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A large amount or number; a lot
+    + __eg__: a slew of unpaid bills
 
 ### Origin
 
-ZZC
+Irish Gaelic sluagh, multitude, from Old Irish slúag
 
-### Synonym
+slew
+### Meaning
++ _vt & i_: Past tense of slay
 
-__eg__: ZZD
+slew
+### Meaning
++ _noun_: Variant of slough1
 
-+ ZZE
-
-
+slew
+### Meaning
++ _v. & n._: Variant of slue1
