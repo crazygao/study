@@ -1,16 +1,16 @@
 supremacy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The quality or condition of being supreme
++ _noun_: Supreme power or authority
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they asserted the supremacy of the people over parliament
 
-+ ZZE
++ ASCENDANCY
+
+__eg__: the battle for supremacy in the cellular radio market
+
++ DOMINANCE
 
 

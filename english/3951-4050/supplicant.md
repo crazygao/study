@@ -1,16 +1,9 @@
 supplicant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who supplicates; a suppliant
+
++ _adj_: Supplicating
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+From Latin supplicāns, supplicant- present participle of supplicāre, to kneel down. See supplicate

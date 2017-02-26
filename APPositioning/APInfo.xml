@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APINFO>
+
+	<AP>
+		<APID>1</APID>
+		<APNAME>cn-bjg07-floor16-001</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:fe:b9:40</MAC24>
+		<MAC50>94:b4:0f:fe:b9:50</MAC50>
+		<X>15950</X>
+		<Y>30800</Y>
+	</AP>
+	
+	<AP>
+		<APID>2</APID>
+		<APNAME>cn-bjg07-floor16-002</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:fe:bd:e0</MAC24>
+		<MAC50>94:b4:0f:fe:bd:f0</MAC50>
+		<X>19150</X>
+		<Y>24460</Y>
+	</AP>
+	
+	<AP>
+		<APID>3</APID>
+		<APNAME>cn-bjg07-floor16-003</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:fe:bb:80</MAC24>
+		<MAC50>94:b4:0f:fe:bb:90</MAC50>
+		<X>24630</X>
+		<Y>30600</Y>
+	</AP>
+	
+	<AP>
+		<APID>4</APID>
+		<APNAME>cn-bjg07-floor16-004</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:11:97:80</MAC24>
+		<MAC50>94:b4:0f:11:97:90</MAC50>
+		<X>30650</X>
+		<Y>22780</Y>
+	</AP>
+
+	<AP>
+		<APID>5</APID>
+		<APNAME>cn-bjg07-floor16-005</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:11:96:c0</MAC24>
+		<MAC50>94:b4:0f:11:96:d0</MAC50>
+		<X>32750</X>
+		<Y>29400
+		</Y>
+	</AP>
+	
+	<AP>
+		<APID>6</APID>
+		<APNAME>cn-bjg07-floor16-006</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:11:97:40</MAC24>
+		<MAC50>94:b4:0f:11:97:50</MAC50>
+		<X>38350</X>
+		<Y>22900</Y>
+	</AP>
+	
+	<AP>
+		<APID>7</APID>
+		<APNAME>cn-bjg07-floor16-007</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:11:95:c0</MAC24>
+		<MAC50>94:b4:0f:11:95:d0</MAC50>
+		<X>42550</X>
+		<Y>29400</Y>
+	</AP>
+	
+	<AP>
+		<APID>8</APID>
+		<APNAME>cn-bjg07-floor16-008</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:11:9a:00</MAC24>
+		<MAC50>94:b4:0f:11:9a:10</MAC50>
+		<X>45350</X>
+		<Y>22900</Y>
+	</AP>
+	
+	<AP>
+		<APID>9</APID>
+		<APNAME>cn-bjg07-floor16-009</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e5:e0</MAC24>
+		<MAC50>94:b4:0f:06:e5:f0</MAC50>
+		<X>50950</X>
+		<Y>26140</Y>
+	</AP>
+	
+	<AP>
+		<APID>10</APID>
+		<APNAME>cn-bjg07-floor16-010</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e5:00</MAC24>
+		<MAC50>94:b4:0f:06:e5:10</MAC50>
+		<X>55150</X>
+		<Y>30800</Y>
+	</AP>
+	
+	<AP>
+		<APID>11</APID>
+		<APNAME>cn-bjg07-floor16-011</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e3:20</MAC24>
+		<MAC50>94:b4:0f:06:e3:30</MAC50>
+		<X>59350</X>
+		<Y>26100</Y>
+	</AP>
+	
+	<AP>
+		<APID>12</APID>
+		<APNAME>cn-bjg07-floor16-012</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e6:60</MAC24>
+		<MAC50>94:b4:0f:06:e6:70</MAC50>
+		<X>62150</X>
+		<Y>30800</Y>
+	</AP>
+	
+	<AP>
+		<APID>13</APID>
+		<APNAME>cn-bjg07-floor16-013</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:ea:60</MAC24>
+		<MAC50>94:b4:0f:06:ea:70</MAC50>
+		<X>66000</X>
+		<Y>19100</Y>
+	</AP>
+	
+	<AP>
+		<APID>14</APID>
+		<APNAME>cn-bjg07-floor16-014</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e4:c0</MAC24>
+		<MAC50>94:b4:0f:06:e4:d0</MAC50>
+		<X>65500</X>
+		<Y>12300</Y>
+	</AP>
+	
+	<AP>
+		<APID>15</APID>
+		<APNAME>cn-bjg07-floor16-015</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e5:80</MAC24>
+		<MAC50>94:b4:0f:06:e5:90</MAC50>
+		<X>56830</X>
+		<Y>18100</Y>
+	</AP>
+	
+	<AP>
+		<APID>16</APID>
+		<APNAME>cn-bjg07-floor16-016</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e4:80</MAC24>
+		<MAC50>94:b4:0f:06:e4:90</MAC50>
+		<X>56830</X>
+		<Y>12150</Y>
+	</AP>
+	
+	<AP>
+		<APID>17</APID>
+		<APNAME>cn-bjg07-floor16-017</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:ea:20</MAC24>
+		<MAC50>94:b4:0f:06:ea:30</MAC50>
+		<X>59000</X>
+		<Y>5800</Y>
+	</AP>
+	
+	<AP>
+		<APID>18</APID>
+		<APNAME>cn-bjg07-floor16-018</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:06:e8:60</MAC24>
+		<MAC50>94:b4:0f:06:e8:70</MAC50>
+		<X>51650</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>19</APID>
+		<APNAME>cn-bjg07-floor16-019</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:0d:a0</MAC24>
+		<MAC50>94:b4:0f:00:0d:b0</MAC50>
+		<X>48150</X>
+		<Y>4800</Y>
+	</AP>
+	
+	<AP>
+		<APID>20</APID>
+		<APNAME>cn-bjg07-floor16-020</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:0e:60</MAC24>
+		<MAC50>94:b4:0f:00:0e:70</MAC50>
+		<X>43000</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>21</APID>
+		<APNAME>cn-bjg07-floor16-021</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:0d:80</MAC24>
+		<MAC50>94:b4:0f:00:0d:90</MAC50>
+		<X>39000</X>
+		<Y>7000</Y>
+	</AP>
+	
+	<AP>
+		<APID>22</APID>
+		<APNAME>cn-bjg07-floor16-022</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:0d:c0</MAC24>
+		<MAC50>94:b4:0f:00:0d:d0</MAC50>
+		<X>34850</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>23</APID>
+		<APNAME>cn-bjg07-floor16-023</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:0e:40</MAC24>
+		<MAC50>94:b4:0f:00:0e:50</MAC50>
+		<X>28550</X>
+		<Y>7000</Y>
+	</AP>
+	
+	<AP>
+		<APID>24</APID>
+		<APNAME>cn-bjg07-floor16-024</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:ff:bb:c0</MAC24>
+		<MAC50>94:b4:0f:ff:bb:d0</MAC50>
+		<X>24630</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>25</APID>
+		<APNAME>cn-bjg07-floor16-025</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:ff:ba:e0</MAC24>
+		<MAC50>94:b4:0f:ff:ba:f0</MAC50>
+		<X>18050</X>
+		<Y>7000</Y>
+	</AP>
+	
+	<AP>
+		<APID>26</APID>
+		<APNAME>cn-bjg07-floor16-026</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:ff:bb:a0</MAC24>
+		<MAC50>94:b4:0f:ff:bb:b0</MAC50>
+		<X>14550</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>27</APID>
+		<APNAME>cn-bjg07-floor16-027</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:ff:b9:40</MAC24>
+		<MAC50>94:b4:0f:ff:b9:50</MAC50>
+		<X>7550</X>
+		<Y>7000</Y>
+	</AP>
+	
+	<AP>
+		<APID>28</APID>
+		<APNAME>cn-bjg07-floor16-028</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:ff:ba:60</MAC24>
+		<MAC50>94:b4:0f:ff:ba:70</MAC50>
+		<X>6150</X>
+		<Y>2800</Y>
+	</AP>
+	
+	<AP>
+		<APID>29</APID>
+		<APNAME>cn-bjg07-floor16-029</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:13:c0</MAC24>
+		<MAC50>94:b4:0f:00:13:d0</MAC50>
+		<X>25540</X>
+		<Y>14300</Y>
+	</AP>
+	
+	<AP>
+		<APID>30</APID>
+		<APNAME>cn-bjg07-floor16-030</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:14:40</MAC24>
+		<MAC50>94:b4:0f:00:14:50</MAC50>
+		<X>13180</X>
+		<Y>19100</Y>
+	</AP>
+	
+	<AP>
+		<APID>31</APID>
+		<APNAME>cn-bjg07-floor16-031</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:14:c0</MAC24>
+		<MAC50>94:b4:0f:00:14:d0</MAC50>
+		<X>27520</X>
+		<Y>13300</Y>
+	</AP>
+	
+	<AP>
+		<APID>32</APID>
+		<APNAME>cn-bjg07-floor16-032</APNAME>
+		<AP_CHANNEL>SAP-Corporate</AP_CHANNEL>
+		<FLOOR>16</FLOOR>
+		<MAC24>94:b4:0f:00:14:e0</MAC24>
+		<MAC50>94:b4:0f:00:14:f0</MAC50>
+		<X>13180</X>
+		<Y>19100</Y>
+	</AP>
+
+
+</APINFO>
