@@ -1,16 +1,18 @@
 trudge
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To walk in a laborious, heavy-footed way; plod
+
++ _noun_: A long, tedious walk
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he trudged wearily through the snow
 
-+ ZZE
++ PLOD
++ opposite(s): SKIP, TRIP
 
 

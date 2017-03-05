@@ -1,16 +1,19 @@
 truce
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A temporary cessation or suspension of hostilities by agreement of the opposing sides; an armistice
++ _noun_: A respite from a disagreeable state of affairs
+
++ _vt & i_: To end or be ended with a truce
 
 ### Origin
 
-ZZC
+Middle English trewes, pl. of trewe, treaty, pledge, from Old English trēow. See deru- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the rebels agreed to a truce
 
-+ ZZE
++ CEASEFIRE
++ opposite(s): FIGHTING, HOSTILITIES
 
 

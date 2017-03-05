@@ -1,16 +1,8 @@
 trilogy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A group of three dramatic or literary works related in subject or theme
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Greek trilogiā, series of three related tragedies : tri-, tri- + logos, word, saying; see -logy.
 

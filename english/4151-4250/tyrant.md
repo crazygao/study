@@ -1,16 +1,21 @@
 tyrant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An absolute ruler who governs without restrictions
++ _noun_: A ruler who exercises power in a harsh, cruel manner
++ _noun_: An oppressive, harsh, arbitrary person
 
 ### Origin
 
-ZZC
+Middle English, from Old French, alteration of tyran, from Latin tyrannus, from Greek turannos
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an evil tyrant who has murdered or imprisoned all who oppose his regime
 
-+ ZZE
++ DICTATOR
+
+__eg__: her boss is an absolute tyrant
+
++ SLAVE-DRIVER
 
 

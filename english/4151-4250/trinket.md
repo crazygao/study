@@ -1,16 +1,16 @@
 trinket
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A small ornament, such as a piece of jewelry
++ _noun_: A trivial thing; a trifle
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a carved wooden box in which she kept trinkets and keepsakes
 
-+ ZZE
++ KNICK-KNACK
 
 

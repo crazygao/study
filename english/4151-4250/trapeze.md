@@ -1,16 +1,9 @@
 trapeze
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An article of women's clothing, such as a jacket, dress, or coat, that is cut so as to hang down from the shoulders and swing out and away around the hips and legs
++ _noun_: A short horizontal bar suspended from two parallel ropes, used for gymnastic exercises or for acrobatic stunts
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French trapèze, from Late Latin trapezium, trapezoid. See trapezium
 

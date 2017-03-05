@@ -1,16 +1,10 @@
 truancy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act or condition of being absent without permission
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ ABSENTEEISM
++ opposite(s): ATTENDANCE
 
 

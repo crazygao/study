@@ -1,16 +1,16 @@
 tyro
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A beginner in learning something
 
 ### Origin
 
-ZZC
+Medieval Latin tȳrō, squire, variant of Latin tīrō, recruit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he first entered parliament in 1977 as a 34-year-old political tyro
 
-+ ZZE
++ NOVICE
++ opposite(s): EXPERT, VETERAN
 
 

@@ -1,16 +1,17 @@
 troupe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A company or group, especially of touring actors, singers, or dancers
+
++ _vi_: To tour with a theatrical company
 
 ### Origin
 
-ZZC
+French, troop. See troop
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a troupe of actors
 
-+ ZZE
++ GROUP
 
 

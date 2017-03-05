@@ -1,16 +1,9 @@
 turncoat
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One who traitorously switches allegiance
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ TRAITOR
 
 

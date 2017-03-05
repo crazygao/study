@@ -1,16 +1,17 @@
 trepidation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of alarm or dread; apprehension
++ _noun_: An involuntary trembling or quivering
 
 ### Origin
 
-ZZC
+Latin trepidātiō, trepidātiōn-, from trepidātus, past participle of trepidāre, to be in a state of confusion, from trepidus, anxious
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he sat in the waiting room, full of trepidation
 
-+ ZZE
++ FEAR
++ opposite(s): CALM, EQUANIMITY, COMPOSURE
 
 

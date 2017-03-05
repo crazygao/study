@@ -1,16 +1,25 @@
 tussle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To struggle roughly; scuffle
+
++ _noun_: A rough or vigorous struggle; a scuffle
 
 ### Origin
 
-ZZC
+Middle English tussillen, frequentative of -tousen, to pull roughly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: in the ensuing tussle his glasses were smashed
 
-+ ZZE
++ SCUFFLE
+
+__eg__: an acrimonious tussle between the two departments
+
++ ARGUMENT
+
+__eg__: demonstrators tussled with police
+
++ SCUFFLE
 
 

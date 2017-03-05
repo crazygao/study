@@ -1,16 +1,17 @@
 turpitude
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Depravity; baseness
++ _noun_: Depravity; baseness
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin turpitūdō, from turpis, shameful
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: acts of moral turpitude
 
-+ ZZE
++ WICKEDNESS
++ opposite(s): VIRTUE, HONOUR
 
 
