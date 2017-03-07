@@ -1,16 +1,7 @@
 termite
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of numerous pale-colored, usually soft-bodied social insects of the order Isoptera that live mostly in warm regions and many species of which feed on wood, often destroying trees and wooden structures. Also called white ant
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+New Latin Termes, genus name, from Late Latin termes, termit-, woodworm, alteration of Latin tarmes

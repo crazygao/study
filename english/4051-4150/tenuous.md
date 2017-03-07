@@ -1,16 +1,25 @@
 tenuous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Long and thin; slender
+    + __eg__: tenuous strands
++ _adj_: Having a thin consistency; dilute
++ _adj_: Having little substance; flimsy
+    + __eg__: a tenuous argument
 
 ### Origin
 
-ZZC
+Latin tenuis. See ten- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: evidence that greenhouse warming had started was at best tenuous
 
-+ ZZE
++ SLIGHT
++ opposite(s): CONVINCING, SUBSTANTIAL, STRONG
+
+__eg__: a tenuous thread
+
++ FINE
++ opposite(s): THICK
 
 

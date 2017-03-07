@@ -1,16 +1,13 @@
 tenacity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The state or quality of being tenacious
+    + __eg__: “Social styles developed in the 19th century withstand, with sporelike tenacity, all that the present century can throw at them” (Larry McMurty).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the tenacity with which he stuck to his story
 
-+ ZZE
++ PERSISTENCE
++ opposite(s): IRRESOLUTION, LACK OF RESOLVE
 
 

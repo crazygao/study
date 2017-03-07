@@ -1,16 +1,9 @@
 tendentious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Marked by a strong implicit point of view; partisan
+    + __eg__: a tendentious account of the recent elections
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+From Medieval Latin tendentia, a cause. See tendency
 
