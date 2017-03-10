@@ -1,16 +1,7 @@
 surgeon
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A physician specializing in surgery
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English surgien, from Anglo-Norman, short for Old French cirurgien, from cirurgie, surgery. See surgery

@@ -1,16 +1,4 @@
 tauten
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt & i_: To make or become taut
+    + __eg__: Here are some exercises to tauten facial muscles

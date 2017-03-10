@@ -1,16 +1,13 @@
 sybaritic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Devoted to or marked by pleasure and luxury
++ _adj_: Sybaritic Of or relating to Sybaris or its people
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the brothers' opulent and sybaritic lifestyle
 
-+ ZZE
++ LUXURIOUS
++ opposite(s): ABSTEMIOUS, ASCETIC
 
 

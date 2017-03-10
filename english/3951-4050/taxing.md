@@ -1,16 +1,13 @@
 taxing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Burdensome; wearing
+    + __eg__: a taxing business schedule
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it's quite a taxing job she has
 
-+ ZZE
++ DEMANDING
++ opposite(s): EASY, GENTLE
 
 

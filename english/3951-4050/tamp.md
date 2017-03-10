@@ -1,16 +1,9 @@
 tamp
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To pack down tightly by a succession of blows or taps
++ _vt_: To pack clay, sand, or dirt into (a drill hole) above an explosive
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Perhaps back-formation from tampin, variant of tampion
 

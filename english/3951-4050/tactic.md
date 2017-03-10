@@ -1,16 +1,19 @@
 tactic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An expedient for achieving a goal; a maneuver
 
 ### Origin
 
-ZZC
+French tactique, tactics, from Greek taktika. See tactics
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: tax-saving tactics
 
-+ ZZE
++ STRATEGY
+
+__eg__: the larger French fleet was decimated by superior tactics
+
++ BATTLE PLANS
 
 

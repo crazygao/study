@@ -1,16 +1,16 @@
 tedium
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The quality or condition of being tedious; tediousness or boredom
 
 ### Origin
 
-ZZC
+Latin taedium, from taedēre, to weary
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: to relieve the tedium of the days, they sang or told stories
 
-+ ZZE
++ MONOTONY
++ opposite(s): VARIETY, EXCITEMENT
 
 

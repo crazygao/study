@@ -1,16 +1,8 @@
 tatty
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Somewhat worn, shabby, or dilapidated
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Probably from tat, a rag, shabby person
 

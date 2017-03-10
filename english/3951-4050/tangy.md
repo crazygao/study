@@ -1,16 +1,12 @@
 tangy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: See tanginess
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a tangy orange cake
 
-+ ZZE
++ SHARP-FLAVOURED
++ opposite(s): SWEET ; BLAND
 
 

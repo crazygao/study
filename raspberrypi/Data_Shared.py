@@ -1,21 +1,22 @@
 import Queue
+from Singleton import Singleton
 
 class Data:
     """
     Formal data scheme transferred between
     sensor thread to HTTP thread.
     """
-    def __self__(self, **kwargs):
-        self._timestamp = kwargs["timestamp"]
-        self._status = kwargs["status"]
+    def __init__(self, **kwargs):
+        self.timestamp = kwargs["timestamp"]
+        self.status = kwargs["status"]
     pass
 
-class Data_Shared:
+class Data_Shared(metaclass=Singleton):
     """
     Queue in python: https://docs.python.org/2/library/queue.html
     Use it for a thread-safe data structrue for sensor data
     """
-    def __self__(self):
+    def __init__(self):
         self._queue = Queue()
 
     def put(self, data_obj, *args):
@@ -51,5 +52,4 @@ class Data_Shared:
         Dump the queue to output or somewhere else?
         """
         pass
-
     pass

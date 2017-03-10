@@ -1,16 +1,16 @@
 tantalize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To excite (another) by exposing something desirable while keeping it out of reach
 
 ### Origin
 
-ZZC
+From Latin Tantalus, Tantalus. See Tantalus
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I was tantalized by the mysterious secrets of her diary
 
-+ ZZE
++ TEASE
++ opposite(s): GRATIFY, SATISFY
 
 

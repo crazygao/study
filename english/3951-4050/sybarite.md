@@ -1,16 +1,15 @@
 sybarite
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: often sybarite A person devoted to pleasure and luxury; a voluptuary
++ _noun_: A native or inhabitant of Sybaris
 
 ### Origin
 
-ZZC
+Latin Sybarīta, native of Sybaris, from Greek Subarītēs, from Subaris, Sybaris (from the notorious luxury of its inhabitants)
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ HEDONIST
++ opposite(s): PURITAN
 
 

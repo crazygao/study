@@ -1,16 +1,4 @@
 technocrat
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An adherent or a proponent of technocracy
++ _noun_: A technical expert, especially one in a managerial or administrative position

@@ -1,16 +1,16 @@
 temerity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Foolhardy disregard of danger; recklessness
 
 ### Origin
 
-ZZC
+Middle English temerite, from Old French, from Latin temeritās, from temere, rashly
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I doubt anyone will have the temerity to print these accusations
 
-+ ZZE
++ AUDACITY
++ opposite(s): SHYNESS, BASHFULNESS
 
 

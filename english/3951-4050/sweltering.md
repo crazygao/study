@@ -1,16 +1,13 @@
 sweltering
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Oppressively hot and humid; sultry
++ _adj_: Suffering from oppressive heat
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a sweltering afternoon
 
-+ ZZE
++ HOT
++ opposite(s): COLD, CHILLY, COOL
 
 

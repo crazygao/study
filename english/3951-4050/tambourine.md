@@ -1,16 +1,9 @@
 tambourine
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A percussion instrument consisting of a small drumhead with jingling disks fitted into the rim, usually played by shaking and striking with the hand
++ _noun_: A similar instrument without a drumhead
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French tambourin, small drum, from Old French. See tambourin
 

@@ -1,16 +1,21 @@
 swerve
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: To turn aside or be turned aside from a straight course
+
++ _noun_: The act of swerving
 
 ### Origin
 
-ZZC
+Middle English swerven, from Old English sweorfan, to rub, scour
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a car swerved into her path
 
-+ ZZE
++ VEER
+
+__eg__: the bowler must regulate his swerve so that the ball hits the wicket
+
++ CURVE
 
 

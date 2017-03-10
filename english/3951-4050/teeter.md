@@ -1,16 +1,25 @@
 teeter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To walk or move unsteadily or unsurely; totter
++ _vi_: To alternate, as between opposing attitudes or positions; vacillate
++ _vi_: To seesaw
++ _vt_: To cause to teeter or seesaw
+
++ _noun_: See seesaw.
++ _noun_: A teetering motion
 
 ### Origin
 
-ZZC
+Middle English titeren, probably from Old Norse titra, to shake
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Daisy teetered towards them in her high-heeled boots
 
-+ ZZE
++ TOTTER
+
+__eg__: the situation teetered between tragedy and farce
+
++ SEE-SAW
 
 

@@ -1,16 +1,13 @@
 telling
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having force and producing a striking effect
++ _adj_: Revealing previously unknown information
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a telling critique of the military mind
 
-+ ZZE
++ REVEALING
++ opposite(s): UNIMPORTANT, INSIGNIFICANT
 
 

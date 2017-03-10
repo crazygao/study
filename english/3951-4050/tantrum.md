@@ -1,16 +1,15 @@
 tantrum
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fit of bad temper.Also called regionally hissy2, hissy fit
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she throws a tantrum when she can't get the toy she wants
 
-+ ZZE
++ FIT OF TEMPER
 
 

@@ -1,16 +1,16 @@
 taciturn
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Habitually untalkative
 
 ### Origin
 
-ZZC
+French taciturne, from Old French, from Latin taciturnus, from tacitus, silent. See tacit
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a shy, taciturn man
 
-+ ZZE
++ UNTALKATIVE
++ opposite(s): TALKATIVE, LOQUACIOUS
 
 
