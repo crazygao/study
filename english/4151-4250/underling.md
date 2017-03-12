@@ -1,16 +1,12 @@
 underling
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One of lesser rank or authority than another; a subordinate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he dishes out orders to his underlings
 
-+ ZZE
++ SUBORDINATE
++ opposite(s): BOSS, LEADER
 
 

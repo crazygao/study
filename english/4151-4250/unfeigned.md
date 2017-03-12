@@ -1,16 +1,12 @@
 unfeigned
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not feigned; genuine
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he looked at his wife with unfeigned admiration
 
-+ ZZE
++ SINCERE
++ opposite(s): INSINCERE, FEIGNED, PRETENDED
 
 

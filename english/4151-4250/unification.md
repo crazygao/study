@@ -1,16 +1,11 @@
 unification
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: the act of combining two or more groups, countries etc to make a single group or country
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the costs of German unification
 
-+ ZZE
++ UNION
 
 

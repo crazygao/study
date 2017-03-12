@@ -1,16 +1,13 @@
 unfasten
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To separate the connected parts of
++ _vi_: To become loosened or separated
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Ron unfastened his seat belt
 
-+ ZZE
++ UNDO
++ opposite(s): FASTEN, DO SOMETHING UP, LOCK
 
 

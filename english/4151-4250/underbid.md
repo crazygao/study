@@ -1,16 +1,6 @@
 underbid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _vt_: To bid lower than (a competitor).
++ _vt_: Games. To bid less than the full value of (one's hand) in bridge
++ _vi_: To make an unnecessarily low bid
 

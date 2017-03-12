@@ -1,16 +1,6 @@
 underscore
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To underline
++ _vt_: To emphasize; stress
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: A line drawn under writing to indicate emphasis or italic type

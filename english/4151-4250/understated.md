@@ -1,16 +1,4 @@
 understated
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Exhibiting restrained good taste
+    + __eg__: “The waiting room is comfortable and understated” (Tony Schwartz).

@@ -1,16 +1,12 @@
 unflappable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Persistently calm, whether when facing difficulties or experiencing success; not easily upset or excited
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I prided myself on being unflappable even in the most chaotic circumstances
 
-+ ZZE
++ IMPERTURBABLE
++ opposite(s): EXCITABLE
 
 

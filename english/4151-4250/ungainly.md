@@ -1,16 +1,17 @@
 ungainly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lacking grace or ease of movement or form; clumsy
++ _adj_: Difficult to move or use; unwieldy
 
 ### Origin
 
-ZZC
+un-1 + obsolete gainly, proper (from Middle English gainli, from gain, from Old Norse gegn, direct).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an uncouth man with an ungainly walk
 
-+ ZZE
++ AWKWARD
++ opposite(s): GRACEFUL, ELEGANT
 
 

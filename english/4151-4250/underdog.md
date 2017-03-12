@@ -1,16 +1,12 @@
 underdog
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One that is expected to lose a contest or struggle, as in sports or politics
++ _noun_: One that is at a disadvantage
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he particularly relished a political battle when he was the underdog
 
-+ ZZE
++ WEAKER PARTY
 
 

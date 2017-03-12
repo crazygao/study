@@ -1,16 +1,9 @@
 underhanded
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: marked by secrecy, chicanery, and deception : not honest and aboveboard
+    + __eg__: an underhanded attempt to gain power
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+[underhand] Old English in the sense ‘in or into subjection, under control’ (see ↑under-, ↑hand)
 

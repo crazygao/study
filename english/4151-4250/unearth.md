@@ -1,16 +1,18 @@
 unearth
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To bring up out of the earth; dig up
++ _vt_: To bring to public notice; uncover
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: workmen unearthed an ancient artillery shell
 
-+ ZZE
++ DIG UP
++ DIG UP
+
+__eg__: some recent research has unearthed an interesting fact
+
++ DISCOVER
++ opposite(s): COVER UP
 
 

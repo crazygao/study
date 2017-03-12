@@ -1,16 +1,12 @@
 unassuming
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Exhibiting no pretensions, boastfulness, or ostentation; modest
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a quiet unassuming man
 
-+ ZZE
++ MODEST
++ opposite(s): BOLD, BOASTFUL, PRETENTIOUS
 
 

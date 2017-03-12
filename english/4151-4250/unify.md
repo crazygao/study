@@ -1,16 +1,16 @@
 unify
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt & i_: To make into or become a unit; consolidate
 
 ### Origin
 
-ZZC
+French unifier, from Old French, from Late Latin ūnificāre: Latin ūni-, uni- + Latin -ficāre, -fy
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the great Frankish leader who unified the confederacy into a powerful entity was Clovis
 
-+ ZZE
++ UNITE
++ opposite(s): SEPARATE, SPLIT, DISUNITE
 
 

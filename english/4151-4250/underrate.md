@@ -1,16 +1,12 @@
 underrate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To rate too low; underestimate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: most of us have a tendency to underrate our own skills
 
-+ ZZE
++ UNDERVALUE
++ opposite(s): OVERRATE, EXAGGERATE
 
 

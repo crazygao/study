@@ -1,16 +1,8 @@
 unguent
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A salve for soothing or healing; an ointment
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English, from Latin unguentum, from unguere, to anoint
 

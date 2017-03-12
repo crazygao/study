@@ -1,16 +1,20 @@
 umbrage
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Offense; resentment
+    + __eg__: took umbrage at their rudeness
++ _noun_:
+   1. Something that affords shade.
+   2. Shadow or shade.
++ _noun_: A vague or indistinct indication; a hint
 
 ### Origin
 
-ZZC
+Middle English, shade, from Old French, from Latin umbrāticum, neuter of umbrāticus, of shade, from umbra, shadow
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she took umbrage at his remarks
 
-+ ZZE
++ TAKE OFFENCE
 
 
