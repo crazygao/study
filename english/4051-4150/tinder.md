@@ -1,16 +1,7 @@
 tinder
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Readily combustible material, such as dry twigs, used to kindle fires
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Middle English, from Old English tynder

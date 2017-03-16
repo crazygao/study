@@ -1,13 +1,13 @@
 tension
 ### Meaning
-+ _noun_: 
++ _noun_:
    1. The act or process of stretching something tight.
    2. The condition of so being stretched; tautness
-+ _noun_: 
++ _noun_:
    1. A force tending to stretch or elongate something.
    2. A measure of such a force
     + __eg__: a tension on the cable of 50 pounds
-+ _noun_: 
++ _noun_:
    1. Mental, emotional, or nervous strain:
     + __eg__: working under great tension to make a deadline
    2. Barely controlled hostility or a strained relationship between people or groups

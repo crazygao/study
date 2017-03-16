@@ -1,16 +1,9 @@
 tonsorial
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of or relating to barbering or a barber
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
+From Latin tōnsōrius, from tōnsor, barber, from tōnsus, past participle of tondēre, to shear. See tem- in Indo-European Roots.
 
 

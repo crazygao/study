@@ -1,16 +1,23 @@
 toady
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A person who flatters or defers to others for self-serving reasons; a sycophant
+
++ _vt & i_: To be a toady to or behave like a toady
 
 ### Origin
 
-ZZC
+From toad
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a conniving little toady with an eye for the main chance
 
-+ ZZE
++ SYCOPHANT
++ opposite(s): INDEPENDENT, ONE'S OWN MASTER
+
+__eg__: she imagined his toadying to his rich clients
+
++ BE OBSEQUIOUS TOWARDS
++ opposite(s): DEFY
 
 

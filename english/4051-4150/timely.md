@@ -1,16 +1,16 @@
 timely
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Occurring at a suitable or opportune time; well-timed
++ _adj_: Archaic. Coming too early; premature
 
-### Origin
-
-ZZC
++ _adv_: In time; opportunely
++ _adv_: Archaic. Early; soon
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a timely warning
 
-+ ZZE
++ OPPORTUNE
++ opposite(s): INOPPORTUNE, ILL-TIMED, INAPPROPRIATE, LATE
 
 

@@ -1,16 +1,16 @@
 traitor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who betrays one's country, a cause, or a trust, especially one who commits treason
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin trāditor, from trāditus, past participle of trādere, to betray. See tradition
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was tried in a military court as a traitor
 
-+ ZZE
++ BETRAYER
++ opposite(s): LOYALIST, PATRIOT
 
 

@@ -1,16 +1,18 @@
 tiff
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A fit of irritation
++ _noun_: A petty quarrel
+
++ _vi_: To quarrel
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had had a tiff with Mr Carson
 
-+ ZZE
++ QUARREL
 
 

@@ -1,16 +1,17 @@
 testy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Irritated, impatient, or exasperated; peevish
+    + __eg__: a testy cab driver; a testy refusal to help
 
 ### Origin
 
-ZZC
+Alteration of Middle English testif, headstrong, from Old French testu, from teste, head, from Late Latin testa, skull. See teston
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was testy, arrogant, and hard to get on with
 
-+ ZZE
++ BAD-TEMPERED
++ opposite(s): GOOD-HUMOURED
 
 

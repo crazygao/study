@@ -1,16 +1,8 @@
 testator
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: One who has made a legally valid will before death
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English testatour, from Anglo-Norman, from Latin testātor, from testārī, to make one's will. See testament
 

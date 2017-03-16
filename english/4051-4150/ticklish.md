@@ -1,16 +1,14 @@
 ticklish
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Sensitive to tickling
++ _adj_: Sensitive to tickling
++ _adj_: Requiring skillful or tactful handling; delicate
+    + __eg__: a ticklish matter
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: policy-makers are considering the ticklish question of the future of the European Community
 
-+ ZZE
++ PROBLEMATIC
 
 

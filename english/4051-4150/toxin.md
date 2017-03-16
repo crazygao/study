@@ -1,16 +1,8 @@
 toxin
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A poisonous substance, especially a protein, that is produced by living cells or organisms and is capable of causing disease when introduced into the body tissues but is often also capable of inducing neutralizing antibodies or antitoxins
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+late 19th cent.: from ↑toxic + ↑-in
 

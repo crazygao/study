@@ -1,16 +1,18 @@
 torpor
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A state of mental or physical inactivity or insensibility
++ _noun_: Lethargy; apathy.
++ _noun_: The dormant, inactive state of a hibernating or estivating animal
 
 ### Origin
 
-ZZC
+Latin, from torpēre, to be stiff.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he spent most of the journey in a state of torpor | the torpor of the mid-afternoon
 
-+ ZZE
++ LETHARGY
++ opposite(s): VIGOUR, ENERGY, ANIMATION
 
 

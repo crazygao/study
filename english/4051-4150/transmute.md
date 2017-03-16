@@ -1,16 +1,17 @@
 transmute
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To change from one form, nature, substance, or state into another; transform
+    + __eg__: Alchemists tried to transmute lead into gold
++ _vi_: To undergo transmutation
 
 ### Origin
 
-ZZC
+Middle English transmuten, from Latin trānsmūtāre: trāns-, trans- + mūtāre, to change;
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: these books were transmuted into workable scripts
 
-+ ZZE
++ CHANGE
 
 

@@ -1,16 +1,4 @@
 tickler
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: One that tickles
++ _noun_: A memorandum, book, or file to aid the memory

@@ -1,16 +1,8 @@
 thermal
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Of, relating to, using, producing, or caused by heat
++ _adj_: Intended or designed in such a way as to help retain body heat
+    + __eg__: thermal underwear
 
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
++ _noun_: A rising current of warm air
 

@@ -1,16 +1,18 @@
 timid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lacking self-confidence; shy
++ _adj_: Fearful and hesitant
+    + __eg__: problems that call for bold, not timid, responses
 
 ### Origin
 
-ZZC
+Latin timidus, from timēre, to fear
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I was too timid to ask for what I wanted
 
-+ ZZE
++ EASILY FRIGHTENED
++ opposite(s): BOLD, FORTHCOMING, BRAZEN
 
 

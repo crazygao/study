@@ -1,16 +1,3 @@
 tined
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: See tine, A prong on an implement such as a fork or pitchfork
