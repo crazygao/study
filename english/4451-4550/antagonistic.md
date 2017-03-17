@@ -1,16 +1,16 @@
 antagonistic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: showing or feeling opposition
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was increasingly antagonistic to the government's reforms
 
-+ ZZE
++ HOSTILE
++ opposite(s): PRO, SYMPATHETIC
+
+__eg__: an antagonistic group of bystanders
+
++ HOSTILE
 
 

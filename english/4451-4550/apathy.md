@@ -1,16 +1,17 @@
 apathy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Lack of interest or concern, especially regarding matters of general importance or appeal; indifference
++ _noun_: Lack of emotion or feeling; impassiveness
 
 ### Origin
 
-ZZC
+Latin apathīa, from Greek apatheia, from apathēs, without feeling : a-, without; see a-1 + pathos, feeling; See kʷent(h)- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there were reports of widespread apathy amongst the electorate
 
-+ ZZE
++ INDIFFERENCE
++ opposite(s): ENTHUSIASM, INTEREST, PASSION
 
 

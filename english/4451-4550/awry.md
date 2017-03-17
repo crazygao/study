@@ -1,16 +1,17 @@
 awry
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adv_: In a position that is turned or twisted toward one side; askew
++ _adv_: Away from the correct course; amiss
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I got the impression that something was awry
 
-+ ZZE
++ AMISS
+
+__eg__: his wig awry, he gasped and coughed for air
+
++ ASKEW
++ opposite(s): STRAIGHT, SYMMETRICAL
 
 

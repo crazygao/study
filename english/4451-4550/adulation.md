@@ -1,16 +1,15 @@
 adulation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Excessive flattery or admiration
 
 ### Origin
 
-ZZC
+Middle English adulacioun, from Old French, from Latin adūlātiō, adūlātiōn-, from adūlātus, past participle of adūlārī, to flatter
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he is remarkably unspoilt by all the adulation he has received
 
-+ ZZE
++ HERO-WORSHIP
 
 

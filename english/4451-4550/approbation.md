@@ -1,16 +1,13 @@
 approbation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: An expression of warm approval; praise
++ _noun_: Official approval
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he yearned for popular approbation
 
-+ ZZE
++ APPROVAL
++ opposite(s): CRITICISM
 
 

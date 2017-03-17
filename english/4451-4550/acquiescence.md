@@ -1,16 +1,13 @@
 acquiescence
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Passive assent or agreement without protest
++ _noun_: The state of being acquiescent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the tsar secured the acquiescence of the nobility
 
-+ ZZE
++ CONSENT
++ opposite(s): REFUSAL
 
 

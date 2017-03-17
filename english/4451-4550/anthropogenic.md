@@ -1,16 +1,5 @@
 anthropogenic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Of or relating to anthropogenesis
++ _adj_: Caused by humans
+    + __eg__: anthropogenic degradation of the environment

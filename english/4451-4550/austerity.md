@@ -1,16 +1,6 @@
 austerity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: The quality of being austere
++ _noun_: Severe and rigid economy
+    + __eg__: wartime austerity
++ _noun_: An austere habit or practice

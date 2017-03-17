@@ -1,16 +1,3 @@
 anachronistic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: See anachronism: The representation of someone as existing or something as happening in other than chronological, proper, or historical order

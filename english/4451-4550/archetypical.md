@@ -1,16 +1,3 @@
 archetypical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: See archetype:An original model or type after which other similar things are patterned; a prototype: “‘Frankenstein’... ‘Dracula’... ‘Dr. Jekyll and Mr. Hyde’... the archetypes that have influenced all subsequent horror stories” (New York Times).

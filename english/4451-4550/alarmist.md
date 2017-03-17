@@ -1,16 +1,12 @@
 alarmist
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: A person who needlessly alarms or attempts to alarm others, as by inventing or spreading false or exaggerated rumors of impending danger or catastrophe
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: this problem is a purely a fabrication by alarmists
 
-+ ZZE
++ SCAREMONGER
++ opposite(s): OPTIMIST, POLLYANNA
 
 

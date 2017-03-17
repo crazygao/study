@@ -1,16 +1,12 @@
 baseless
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having no basis or foundation in fact; unfounded
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the accusations were found to be baseless
 
-+ ZZE
++ GROUNDLESS
++ opposite(s): PROVEN
 
 

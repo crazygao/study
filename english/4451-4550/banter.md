@@ -1,16 +1,22 @@
 banter
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Good-humored, playful conversation
+
++ _vt_: To speak to in a playful or teasing way
++ _vi_: To exchange mildly teasing remarks
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a brief exchange of harmless banter
 
-+ ZZE
++ REPARTEE
+
+__eg__: a small crowd of sightseers were bantering with the guards
+
++ JOKE
 
 

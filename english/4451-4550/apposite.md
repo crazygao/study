@@ -1,16 +1,16 @@
 apposite
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Strikingly appropriate and relevant
 
 ### Origin
 
-ZZC
+Latin appositus, past participle of appōnere, to put near : ad-, ad- + pōnere, to put; See apo- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: each chapter is prefaced by an apposite quotation
 
-+ ZZE
++ APPROPRIATE
++ opposite(s): INAPPROPRIATE
 
 

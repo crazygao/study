@@ -1,16 +1,10 @@
 avaricious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Immoderately desirous of wealth or gain; greedy
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ GRASPING
++ opposite(s): GENEROUS
 
 

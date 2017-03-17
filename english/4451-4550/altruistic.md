@@ -1,16 +1,12 @@
 altruistic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Main entry: ↑altruism
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a wholly altruistic desire to help
 
-+ ZZE
++ UNSELFISH
++ opposite(s): SELFISH
 
 

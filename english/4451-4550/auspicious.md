@@ -1,16 +1,14 @@
 auspicious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Attended by favorable circumstances; propitious
+    + __eg__: an auspicious time to ask for a raise in salary
++ _adj_: Marked by success; prosperous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an auspicious day was chosen for the wedding
 
-+ ZZE
++ FAVOURABLE
++ opposite(s): INAUSPICIOUS
 
 

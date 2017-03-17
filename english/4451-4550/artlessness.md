@@ -1,16 +1,3 @@
 artlessness
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: See main entry: ↑artless, Having or displaying no guile, cunning, or deceit

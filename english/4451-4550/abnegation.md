@@ -1,16 +1,17 @@
 abnegation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: Self-denial
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: to ignore these issues would be a serious abnegation of their responsibilities
 
-+ ZZE
++ RENUNCIATION
++ opposite(s): ACCEPTANCE
+
+__eg__: such people are capable of abnegation and unselfishness
+
++ SELF-DENIAL
++ opposite(s): SELF-INDULGENCE
 
 

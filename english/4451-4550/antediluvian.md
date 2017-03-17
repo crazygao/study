@@ -1,16 +1,21 @@
 antediluvian
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Extremely old and antiquated
++ _adj_: Bible. Occurring or belonging to the era before the Flood
 
 ### Origin
 
-ZZC
+From ante- + Latin dīluvium, flood; see diluvial
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: gigantic bones of antediluvian animals
 
-+ ZZE
++ BEFORE THE FLOOD
+
+__eg__: his antediluvian attitudes
+
++ OUT OF DATE
++ opposite(s): MODERN, UP TO DATE
 
 

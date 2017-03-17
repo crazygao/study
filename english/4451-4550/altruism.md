@@ -1,16 +1,17 @@
 altruism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Unselfish concern for the welfare of others; selflessness
++ _noun_: Zoology. Instinctive cooperative behavior that is detrimental to the individual but contributes to the survival of the species
 
 ### Origin
 
-ZZC
+French altruisme, probably from Italian altrui, someone else, from Latin alter, other. See al-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they supported the measures not out of altruism but out of self-interest
 
-+ ZZE
++ UNSELFISHNESS
++ opposite(s): SELFISHNESS
 
 

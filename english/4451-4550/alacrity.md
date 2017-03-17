@@ -1,16 +1,17 @@
 alacrity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Cheerful willingness; eagerness
++ _noun_: Speed or quickness; celerity
 
 ### Origin
 
-ZZC
+Latin alacritās, from alacer, lively
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she accepted with alacrity
 
-+ ZZE
++ EAGERNESS
++ opposite(s): APATHY
 
 

@@ -1,16 +1,25 @@
 abstinence
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: The act or practice of refraining from indulging an appetite, as for food
++ _noun_: Abstention from alcoholic beverages
 
 ### Origin
 
-ZZC
+Middle English, from Old French abstenance, from Latin abstinentia, from abstinēns, abstinent- present participle of abstinēre, to hold back. See abstain
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he took a pledge of abstinence
 
-+ ZZE
++ TEETOTALISM
+
+__eg__: only one per cent use abstinence to reduce the risk of unwanted fatherhood
+
++ CELIBACY
++ opposite(s): PROMISCUITY
+
+__eg__: a three-day period of abstinence from food and drink
+
++ REFRAINING
 
 

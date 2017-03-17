@@ -1,16 +1,12 @@
 atypical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not conforming to type; unusual or irregular
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a lack of social relationships is atypical
 
-+ ZZE
++ UNUSUAL
++ opposite(s): TYPICAL
 
 

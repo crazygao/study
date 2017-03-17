@@ -1,16 +1,17 @@
 arcane
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Known or understood by only a few
+    + __eg__: arcane economic theories
 
 ### Origin
 
-ZZC
+Latin arcānus, secret, from arca, chest
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the arcane world of the legal profession
 
-+ ZZE
++ MYSTERIOUS
++ opposite(s): WELL KNOWN, OPEN
 
 
