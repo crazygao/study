@@ -1,16 +1,13 @@
 vexation
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of annoying, irritating, or vexing
++ _noun_: The quality or condition of being vexed; annoyance
++ _noun_: A source of irritation or annoyance
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Erica stamped her foot in vexation
 
-+ ZZE
++ ANNOYANCE
 
 

@@ -1,16 +1,20 @@
 vestige
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A visible trace, evidence, or sign of something that once existed but exists or appears no more
++ _noun_: Biology. A rudimentary or degenerate, usually nonfunctioning, structure that is the remnant of an organ or part that was fully developed or functioning in a preceding generation or an earlier stage of development
 
 ### Origin
 
-ZZC
+French, from Old French, from Latin vestīgium
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: vestiges of England's Tudor past were still evident
 
-+ ZZE
++ REMNANT
+
+__eg__: vestiges of England's Tudor past were still evident
+
++ TRACE
 
 

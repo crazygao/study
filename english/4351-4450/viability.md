@@ -1,16 +1,4 @@
 viability
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: ability to work as intended or to succeed
+    + __eg__: Rising costs are threatening the viability of many businesses
