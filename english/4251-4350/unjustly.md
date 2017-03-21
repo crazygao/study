@@ -1,16 +1,4 @@
 unjustly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adv_: See unjust
+    + __eg__: She felt that she had been unjustly treated

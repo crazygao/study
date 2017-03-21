@@ -1,16 +1,18 @@
 unwarranted
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having no justification; groundless
+    + __eg__: unwarranted interference
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they feel the criticism is unwarranted
 
-+ ZZE
++ UNJUSTIFIED
++ opposite(s): JUSTIFIED
+
+__eg__: random drug testing of employees is an unwarranted invasion of privacy
+
++ UNAUTHORIZED
++ opposite(s): PERMITTED, LEGAL
 
 

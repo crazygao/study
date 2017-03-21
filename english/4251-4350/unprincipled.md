@@ -1,16 +1,13 @@
 unprincipled
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Lacking principles or moral scruples; unscrupulous
+    + __eg__: unprincipled behavior
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he is an unprincipled opportunist
 
-+ ZZE
++ IMMORAL
++ opposite(s): PRINCIPLED, ETHICAL
 
 

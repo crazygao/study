@@ -1,16 +1,18 @@
 unproductive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not productive; idle
++ _adj_: Economics. Adding nothing to exchangeable value
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: acidic, unproductive soil
 
-+ ZZE
++ STERILE
++ opposite(s): PRODUCTIVE, FRUITFUL
+
+__eg__: a costly and unproductive bureaucracy
+
++ FRUITLESS
++ opposite(s): PRODUCTIVE, EFFICIENT
 
 

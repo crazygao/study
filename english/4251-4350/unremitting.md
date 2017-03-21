@@ -1,16 +1,12 @@
 unremitting
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Never slackening; persistent
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: their lives were little more than unremitting toil
 
-+ ZZE
++ RELENTLESS
++ opposite(s): INTERMITTENT, SPASMODIC
 
 

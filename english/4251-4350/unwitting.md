@@ -1,16 +1,24 @@
 unwitting
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Not knowing; unaware
+    + __eg__: an unwitting subject in an experiment
++ _adj_: Not intended; unintentional
+    + __eg__: an unwitting admission of guilt
 
 ### Origin
 
-ZZC
+Middle English : un-, not; see un-1 + witting, present participle of witten, to know (from Old English witan. See weid- in Indo-European Roots).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an unwitting accomplice
 
-+ ZZE
++ UNKNOWING
++ opposite(s): WITTING, KNOWING
+
+__eg__: an unwitting mistake
+
++ UNINTENTIONAL
++ opposite(s): DELIBERATE, CONSCIOUS
 
 

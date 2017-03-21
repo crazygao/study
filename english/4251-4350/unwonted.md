@@ -1,16 +1,14 @@
 unwonted
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not habitual or ordinary; unusual
+    + __eg__: “Her unwonted breach of delicacy... perplexed him” (George Meredith)
++ _adj_: Not accustomed; unused
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they came running with unwonted energy
 
-+ ZZE
++ UNUSUAL
++ opposite(s): USUAL, CUSTOMARY, HABITUAL
 
 

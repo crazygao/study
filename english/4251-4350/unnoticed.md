@@ -1,16 +1,4 @@
 unnoticed
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: not seen or noticed
+    + __eg__: His kindness did not go unnoticed by his staff

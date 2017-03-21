@@ -1,16 +1,15 @@
 upbraid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To reprove sharply; reproach
 
 ### Origin
 
-ZZC
+Middle English upbreiden, from Old English ūpbrēdan, to bring forward as a ground for censure : ūp-, up- + bregdan, to turn, lay hold of
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had upbraided him firmly for his deception
 
-+ ZZE
++ REPRIMAND
 
 

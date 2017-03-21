@@ -1,16 +1,12 @@
 unrepentant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having or exhibiting no remorse
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an unrepentant sinner
 
-+ ZZE
++ IMPENITENT
++ opposite(s): REPENTANT, REGRETFUL
 
 

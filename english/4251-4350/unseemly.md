@@ -1,16 +1,15 @@
 unseemly
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Not in accord with accepted standards of good taste; grossly improper
++ _adj_: Not suited to the circumstances; inappropriate
 
-### Origin
-
-ZZC
++ _adv_: In an improper or inappropriate manner
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an unseemly squabble
 
-+ ZZE
++ INDECOROUS
++ opposite(s): SEEMLY, DECOROUS
 
 

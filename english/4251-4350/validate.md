@@ -1,16 +1,19 @@
 validate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To declare or make legally valid
++ _vt_: To mark with an indication of official sanction
++ _vt_: To establish the soundness of; corroborate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: clinical trials now exist to validate this claim
 
-+ ZZE
++ PROVE
++ opposite(s): INVALIDATE, DISPROVE
+
+__eg__: the Board refused to validate the aircraft's US certificate of airworthiness
+
++ RATIFY
++ opposite(s): INVALIDATE, REJECT, REVOKE
 
 

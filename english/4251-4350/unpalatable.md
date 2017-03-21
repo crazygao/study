@@ -1,16 +1,20 @@
 unpalatable
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not pleasing to the taste
+    + __eg__: an unpalatable meal
++ _adj_: Not pleasant or agreeable
+    + __eg__: unpalatable truths
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: scraps of unpalatable food
 
-+ ZZE
++ UNAPPETIZING
++ opposite(s): PALATABLE, TASTY
+
+__eg__: he had been bold enough to speak the unpalatable truth
+
++ DISAGREEABLE
++ opposite(s): PALATABLE
 
 

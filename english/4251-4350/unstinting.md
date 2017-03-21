@@ -1,16 +1,12 @@
 unstinting
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Bestowed liberally
+    + __eg__: unstinting approval
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her unstinting charity work
 
-+ ZZE
++ UNGRUDGING
 
 

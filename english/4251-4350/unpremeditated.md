@@ -1,16 +1,12 @@
 unpremeditated
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not planned or thought out in advance
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her unpremeditated reply
 
-+ ZZE
++ UNPLANNED
++ opposite(s): PREMEDITATED, PLANNED
 
 

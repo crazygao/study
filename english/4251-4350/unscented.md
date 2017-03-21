@@ -1,16 +1,4 @@
 unscented
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: not having any added smell from perfumes, chemicals, etc
+    + __eg__: unscented candles

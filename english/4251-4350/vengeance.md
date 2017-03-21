@@ -1,16 +1,19 @@
 vengeance
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Infliction of punishment in return for a wrong committed; retribution
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from vengier, to avenge, from Latin vindicāre. See vindicate
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he demanded vengeance for the murder of his father
 
-+ ZZE
++ REVENGE
+
+__eg__: she set to work with a vengeance
+
++ VIGOROUSLY
 
 

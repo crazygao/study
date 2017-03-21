@@ -1,16 +1,3 @@
 vandalize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To destroy or deface (public or private property) willfully or maliciously

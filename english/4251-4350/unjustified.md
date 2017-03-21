@@ -1,16 +1,4 @@
 unjustified
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: not fair or necessary
+    + __eg__: The criticism was wholly unjustified

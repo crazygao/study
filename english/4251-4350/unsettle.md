@@ -1,16 +1,13 @@
 unsettle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To displace from a settled condition; disrupt
++ _vt_: To make uneasy; disturb
++ _vi_: To become unsettled
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: all this talk of death was unsettling him
 
-+ ZZE
++ DISCOMPOSE
 
 

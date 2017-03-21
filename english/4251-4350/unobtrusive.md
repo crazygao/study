@@ -1,16 +1,17 @@
 unobtrusive
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not undesirably noticeable or blatant; inconspicuous
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she was unobtrusive and shy
 
-+ ZZE
++ SELF-EFFACING
++ opposite(s): BOLD, EXTROVERT
+
+__eg__: staff offer efficient, unobtrusive service
+
++ INCONSPICUOUS
++ opposite(s): OBTRUSIVE, CONSPICUOUS
 
 

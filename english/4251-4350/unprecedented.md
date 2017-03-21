@@ -1,16 +1,13 @@
 unprecedented
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having no previous example
+    + __eg__: unprecedented economic growth
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: an era of warfare on an unprecedented scale
 
-+ ZZE
++ UNPARALLELED
++ opposite(s): NORMAL, COMMON
 
 

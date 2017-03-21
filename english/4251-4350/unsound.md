@@ -1,16 +1,25 @@
 unsound
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not dependably strong or solid
++ _adj_: Not physically or mentally healthy
++ _adj_: Not true or logically valid; fallacious
+    + __eg__: an unsound conclusion
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the tower is structurally unsound
 
-+ ZZE
++ RICKETY
++ opposite(s): SOUND, STRONG
+
+__eg__: this submission appears to us unsound on several grounds
+
++ UNTENABLE
++ opposite(s): SOUND, STRONG
+
+__eg__: of unsound mind
+
++ DISORDERED
++ opposite(s): SANE
 
 

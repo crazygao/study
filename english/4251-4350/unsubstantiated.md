@@ -1,16 +1,13 @@
 unsubstantiated
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: not proved to be true by evidence
+    + __eg__: an unsubstantiated claim/rumour, etc
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there were unsubstantiated allegations of serious misbehaviour
 
-+ ZZE
++ UNCONFIRMED
++ opposite(s): WELL FOUNDED, UNDENIABLE
 
 

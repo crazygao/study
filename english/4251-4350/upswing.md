@@ -1,16 +1,4 @@
 upswing
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: An upward swing or trend
++ _noun_: An increase, as in movement or business activity

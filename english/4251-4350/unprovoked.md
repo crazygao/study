@@ -1,16 +1,4 @@
 unprovoked
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: Not provoked or prompted
+    + __eg__: an unprovoked attack

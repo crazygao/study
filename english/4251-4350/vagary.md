@@ -1,16 +1,15 @@
 vagary
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An extravagant or erratic notion or action
 
 ### Origin
 
-ZZC
+From Latin vagārī, to wander, from vagus, wandering
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the vagaries of the weather | I can hardly be held accountable for the vagaries of a junior research assistant
 
-+ ZZE
++ QUIRK
 
 

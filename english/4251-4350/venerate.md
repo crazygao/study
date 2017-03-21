@@ -1,16 +1,16 @@
 venerate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To regard with respect, reverence, or heartfelt deference
 
 ### Origin
 
-ZZC
+Latin venerārī, venerāt-, to venerate, from venus, vener-, love, desire. See wen-1 in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the Hindus venerate oxen
 
-+ ZZE
++ REVERE
++ opposite(s): DESPISE
 
 

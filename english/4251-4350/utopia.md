@@ -1,16 +1,19 @@
 utopia
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_:
+   1. often Utopia An ideally perfect place, especially in its social, political, and moral aspects.
+   2. A work of fiction describing a utopia
++ _noun_: An impractical, idealistic scheme for social and political reform
 
 ### Origin
 
-ZZC
+New Latin Ūtopia, imaginary island in Utopia by Sir Thomas More : Greek ou, not, no; See aiw- in Indo-European Roots + Greek topos, place
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: it may be your idea of Utopia, but it's not mine
 
-+ ZZE
++ IDEAL PLACE
++ opposite(s): HELL ON EARTH
 
 

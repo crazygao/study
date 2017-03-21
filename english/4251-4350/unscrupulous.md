@@ -1,16 +1,12 @@
 unscrupulous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Devoid of scruples; oblivious to or contemptuous of what is right or honorable
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a crackdown on unscrupulous landlords
 
-+ ZZE
++ UNPRINCIPLED
++ opposite(s): ETHICAL, HONEST
 
 

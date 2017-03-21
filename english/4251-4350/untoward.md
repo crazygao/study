@@ -1,16 +1,17 @@
 untoward
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not favorable; unpropitious
++ _adj_: Troublesome; adverse
+    + __eg__: an untoward incident
++ _adj_: Hard to guide or control; unruly
++ _adj_: Improper; unseemly
++ _adj_: Archaic. Awkward
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Tom had noticed nothing untoward
 
-+ ZZE
++ UNEXPECTED
++ opposite(s): EXPECTED, TIMELY, APPROPRIATE
 
 

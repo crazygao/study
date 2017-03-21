@@ -1,16 +1,16 @@
 vendetta
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A feud between two families or clans that arises out of a slaying and is perpetuated by retaliatory acts of revenge; a blood feud
++ _noun_: A bitter, destructive feud
 
 ### Origin
 
-ZZC
+Italian, from Latin vindicta, revenge. See vindictive
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was the victim of a political vendetta
 
-+ ZZE
++ FEUD
 
 

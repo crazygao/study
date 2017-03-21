@@ -1,16 +1,15 @@
 utilize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To put to use, especially to find a profitable or practical use for
 
 ### Origin
 
-ZZC
+French utiliser, from Italian utilizzare, from utile, useful, from Latin ūtilis, from ūtī, to use
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: concrete had long been utilized as a bonding and covering material
 
-+ ZZE
++ MAKE USE OF
 
 

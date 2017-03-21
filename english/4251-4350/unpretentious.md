@@ -1,16 +1,17 @@
 unpretentious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Lacking pretension or affectation; modest
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: in spite of his fame he was thoroughly unpretentious
 
-+ ZZE
++ UNAFFECTED
++ opposite(s): PRETENTIOUS
+
+__eg__: a friendly and unpretentious hotel
+
++ SIMPLE
++ opposite(s): PRETENTIOUS, SHOWY
 
 

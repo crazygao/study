@@ -1,16 +1,13 @@
 untutored
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Having had no formal education or instruction
++ _adj_: Unsophisticated; unrefined
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: such articles and books will make little sense to an untutored reader
 
-+ ZZE
++ UNEDUCATED
++ opposite(s): TUTORED, EDUCATED
 
 

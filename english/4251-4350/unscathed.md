@@ -1,16 +1,13 @@
 unscathed
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Not injured or harmed
+    + __eg__: escaped the hurricane unscathed
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his wife and son were fortunate to escape unscathed
 
-+ ZZE
++ UNHARMED
++ opposite(s): HARMED, INJURED
 
 

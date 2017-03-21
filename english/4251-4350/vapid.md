@@ -1,16 +1,19 @@
 vapid
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Lacking liveliness, animation, or interest; dull
+    + __eg__: vapid conversation
++ _adj_: Lacking taste, zest, or flavor; flat
+    + __eg__: vapid beer
 
 ### Origin
 
-ZZC
+Latin vapidus
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: tuneful but vapid musical comedies
 
-+ ZZE
++ INSIPID
++ opposite(s): LIVELY, COLOURFUL, EXCITING
 
 

@@ -1,16 +1,17 @@
 veracious
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Honest; truthful
++ _adj_: Accurate; precise
 
 ### Origin
 
-ZZC
+From Latin vērāx, vērāc-, truthful, from vērus, true. See wērə-o- in Indo-European Roots
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the manuscripts contain veracious accounts of the event
 
-+ ZZE
++ TRUE
++ opposite(s): UNTRUE ; DISHONEST
 
 

@@ -1,16 +1,16 @@
 vacillate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To sway from one side to the other; oscillate
++ _vi_: To swing indecisively from one course of action or opinion to another
 
 ### Origin
 
-ZZC
+Latin vacillāre, vacillāt-, to waver
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I had for a time vacillated between teaching and journalism
 
-+ ZZE
++ DITHER
 
 

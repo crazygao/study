@@ -1,16 +1,9 @@
 variegate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To change the appearance of, especially by marking with different colors; streak
++ _vt_: To give variety to; make varied
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+From Late Latin variegātus, past participle of variegāre: Latin varius, various + Latin agere, to do, drive; See ag- in Indo-European Roots
 
