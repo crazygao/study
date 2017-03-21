@@ -1,16 +1,3 @@
 vicissitudinous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _adj_: marked by or filled with vicissitudes

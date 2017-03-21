@@ -1,16 +1,16 @@
 vigilant
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: On the alert; watchful
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Latin vigilāns, vigilant- present participle of vigilāre, to be watchful. See vigilante
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there had been a rash of petty thefts and we were warned to be vigilant
 
-+ ZZE
++ WATCHFUL
++ opposite(s): NEGLIGENT, INATTENTIVE
 
 

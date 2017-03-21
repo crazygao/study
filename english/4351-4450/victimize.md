@@ -1,16 +1,12 @@
 victimize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To subject to swindle or fraud
++ _vt_: To make a victim of
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he was victimized by cruel practical jokers
 
-+ ZZE
++ EXPLOIT
 
 

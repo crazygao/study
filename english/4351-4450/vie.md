@@ -1,16 +1,17 @@
 vie
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vi_: To strive for victory or superiority; contend
++ _vt_: Archaic. To offer in competition; match
++ _vt_: Obsolete. To wager or bet
 
 ### Origin
 
-ZZC
+Short for Middle English envien, from Old French envier, from Latin invītāre, to invite, give occasion for. See invite
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: restaurants vied with each other to attract custom
 
-+ ZZE
++ COMPETE
 
 

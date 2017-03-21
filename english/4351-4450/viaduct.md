@@ -1,16 +1,7 @@
 viaduct
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A series of spans or arches used to carry a road or railroad over a wide valley or over other roads or railroads
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
+Latin via, road; see via + aqueduct
