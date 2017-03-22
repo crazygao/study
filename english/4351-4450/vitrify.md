@@ -1,16 +1,9 @@
 vitrify
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To change or make into glass or a glassy substance, especially through heat fusion
++ _vi_: To become vitreous
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+French vitrifier, from Medieval Latin vitrificāre: Latin vitrum, glass + Latin -ficāre, -fy
 

@@ -1,16 +1,14 @@
 vitriolic
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Of, similar to, or derived from a vitriol
++ _adj_: Bitterly scathing; caustic
+    + __eg__: vitriolic criticism
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he launched a vitriolic attack on the government
 
-+ ZZE
++ ACRIMONIOUS
++ opposite(s): PLEASANT, KIND
 
 

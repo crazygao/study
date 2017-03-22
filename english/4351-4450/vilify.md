@@ -1,16 +1,16 @@
 vilify
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To make vicious and defamatory statements about.
 
 ### Origin
 
-ZZC
+To make vicious and defamatory statements about.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the media vilified several of the election candidates
 
-+ ZZE
++ DISPARAGE
++ opposite(s): COMMEND, LIONIZE
 
 

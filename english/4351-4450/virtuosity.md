@@ -1,16 +1,13 @@
 virtuosity
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The technical skill, fluency, or style exhibited by a virtuoso or a composition
++ _noun_: An appreciation for or interest in fine objects of art
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the singer has to display extreme virtuosity
 
-+ ZZE
++ SKILL
++ opposite(s): LACK OF SKILL
 
 

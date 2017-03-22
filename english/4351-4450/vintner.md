@@ -1,16 +1,9 @@
 vintner
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A wine merchant
++ _noun_: One who makes wine
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English vineter, from Old French vinetier, from Medieval Latin vīnētārius, from Latin vīnētum, vineyard, from vīnum, wine
 

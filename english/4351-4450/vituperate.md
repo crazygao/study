@@ -1,16 +1,17 @@
 vituperate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To rebuke or criticize harshly or abusively; berate
++ _vi_: To use harshly abusive language; rail
 
 ### Origin
 
-ZZC
+Latin vituperāre, vituperāt-.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he vituperated against all presidents with equal gusto
 
-+ ZZE
++ REVILE
++ opposite(s): PRAISE
 
 

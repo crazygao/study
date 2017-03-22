@@ -1,16 +1,4 @@
 vitalize
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _vt_: To endow with life; animate
++ _vt_: To make more lively or vigorous; invigorate

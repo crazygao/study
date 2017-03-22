@@ -1,16 +1,17 @@
 viscous
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Having relatively high resistance to flow
++ _adj_: Viscid; sticky
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Late Latin viscōsus. See viscose
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: pools of viscous liquid had started to spread across the floor
 
-+ ZZE
++ STICKY
++ opposite(s): WATERY
 
 

@@ -1,16 +1,10 @@
 vitiate
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To reduce the value or impair the quality of
++ _vt_: To corrupt morally; debase
++ _vt_: To make ineffective; invalidate
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Latin vitiāre, vitiāt-, from vitium, fault
 
