@@ -1,9 +1,8 @@
 vogue
 ### Meaning
-+ _noun_:
-+ ZZE
++ _noun_: The prevailing fashion, practice, or style
     + __eg__: Hoop skirts were once the vogue
-+ _noun_: Hoop skirts were once the vogue
++ _noun_: Popular acceptance or favor; popularity
     + __eg__: a party game no longer in vogue
 
 + _vi_: To dance by striking a series of rigid, stylized poses, evocative of fashion models during photograph shoots
