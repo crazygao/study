@@ -1,16 +1,24 @@
 woe
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Deep distress or misery, as from grief; wretchedness
++ _noun_: Misfortune; calamity
+    + __eg__: economic and political woes
+
++ _interj_: Used to express sorrow or dismay
 
 ### Origin
 
-ZZC
+Middle English wa, wo, from Old English wā, woe!.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she launched into another tale of woe
 
-+ ZZE
++ MISERY
++ opposite(s): HAPPINESS, JOY.
+
+__eg__: the company's recent financial woes
+
++ TROUBLE
 
 

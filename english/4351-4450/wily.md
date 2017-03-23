@@ -1,16 +1,12 @@
 wily
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Full of wiles; cunning
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a wily old rascal
 
-+ ZZE
++ SHREWD
++ opposite(s): NAIVE, GUILELESS
 
 

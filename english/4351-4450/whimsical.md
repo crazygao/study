@@ -1,16 +1,21 @@
 whimsical
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Determined by, arising from, or marked by whim or caprice. See Synonyms at arbitrary
++ _adj_: Erratic in behavior or degree of unpredictability
+    + __eg__: a whimsical personality
 
 ### Origin
 
-ZZC
+From whimsy
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a whimsical sense of humour
 
-+ ZZE
++ FANCIFUL
+
+__eg__: the whimsical arbitrariness of autocracy
+
++ VOLATILE
 
 

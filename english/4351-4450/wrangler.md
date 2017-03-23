@@ -1,16 +1,4 @@
 wrangler
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
-
++ _noun_: One who wrangles or quarrels
++ _noun_: A cowboy or cowgirl, especially one who tends saddle horses

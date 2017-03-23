@@ -1,16 +1,12 @@
 wearisome
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Causing physical or mental fatigue; tedious or tiresome
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: I can't think of anything more wearisome than traipsing round a factory all day
 
-+ ZZE
++ TIRING
++ opposite(s): REFRESHING, INTERESTING, ENJOYABLE
 
 

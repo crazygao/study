@@ -1,16 +1,12 @@
 warmonger
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: One who advocates or attempts to stir up war
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the president was denounced as a trigger-happy warmonger
 
-+ ZZE
++ MILITARIST
++ opposite(s): PACIFIST
 
 

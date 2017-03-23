@@ -1,16 +1,8 @@
 walrus
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A large marine mammal (Odobenus rosmarus) of Arctic regions, related to the seals and having two long tusks, tough wrinkled skin, and four flippers
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Dutch, of Scandinavian origin
 

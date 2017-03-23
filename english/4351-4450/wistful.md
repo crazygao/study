@@ -1,16 +1,16 @@
 wistful
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _adj_: Full of wishful yearning
++ _adj_: Pensively sad; melancholy
 
 ### Origin
 
-ZZC
+From obsolete wistly, intently
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her voice trailed off and she looked wistful | his wistful expression
 
-+ ZZE
++ REGRETFUL
 
 

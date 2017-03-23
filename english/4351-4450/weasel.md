@@ -1,16 +1,22 @@
 weasel
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: Any of various carnivorous mammals of the genus Mustela, having a long slender body, a long tail, short legs, and brownish fur that in many species turns white in winter
++ _noun_: A person regarded as sneaky or treacherous
+
++ _vi_: To be evasive; equivocate
 
 ### Origin
 
-ZZC
+Middle English wesele, from Old English wesle
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: predators like foxes and weasels
 
-+ ZZE
++ musteline
+
+__eg__: he was a double-crossing weasel
+
++ SCOUNDREL
 
 

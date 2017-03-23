@@ -1,16 +1,10 @@
 whimsy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: An odd or fanciful idea; a whim
++ _noun_: A quaint or fanciful quality
+    + __eg__: stories full of whimsy
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Probably from whim-wham, fanciful object
 

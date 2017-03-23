@@ -1,16 +1,13 @@
 witticism
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _noun_: A witty remark
 
 ### Origin
 
-ZZC
+Blend of witty, and criticism
 
 ### Synonym
 
-__eg__: ZZD
-
-+ ZZE
++ JOKE
 
 

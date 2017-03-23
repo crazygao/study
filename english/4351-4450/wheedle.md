@@ -1,16 +1,18 @@
 wheedle
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
++ _vt_: To persuade or attempt to persuade by flattery or guile; cajole
++ _vt_: To obtain through the use of flattery or guile
+    + __eg__: a swindler who wheedled my life savings out of me
++ _vt_:  use flattery or cajolery to achieve one's ends
 
 ### Origin
 
-ZZC
+Origin unknown
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had wheedled us into employing her brother
 
-+ ZZE
++ COAX
 
 

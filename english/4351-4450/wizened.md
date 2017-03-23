@@ -1,16 +1,11 @@
 wizened
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Withered; wizen
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: his wizened face
 
-+ ZZE
++ WRINKLED
 
 

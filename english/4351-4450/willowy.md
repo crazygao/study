@@ -1,16 +1,15 @@
 willowy
 ### Meaning
-+ _adj_: ZZA
-    + __eg__: ZZB
-
-### Origin
-
-ZZC
++ _adj_: Planted with or abounding in willows
++ _adj_: Resembling a willow tree, especially:
+   1. Flexible; pliant.
+   2. Tall, slender, and graceful
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: a willowy blonde
 
-+ ZZE
++ TALL
++ opposite(s): SHORT, FAT
 
 
