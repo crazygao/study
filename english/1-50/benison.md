@@ -1,16 +1,8 @@
 benison
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: A blessing; a benediction
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Middle English, from Old French beneison, from Latin benedictiō, benedictiōn-, praising. See benediction
 

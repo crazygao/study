@@ -1,16 +1,16 @@
 aplomb
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: Self-confident assurance; poise
 
 ### Origin
 
-ZZC
+French, from Old French a plomb, perpendicularly : a, according to (from Latin ad-. See ad-) + plomb, lead weight (from Latin plumbum, lead).
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he handled the crisis with surprising aplomb
 
-+ ZZE
++ POISE
++ opposite(s): GAUCHENESS
 
 

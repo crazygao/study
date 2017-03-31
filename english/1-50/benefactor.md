@@ -1,16 +1,15 @@
 benefactor
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _noun_: One that gives aid, especially financial aid
 
 ### Origin
 
-ZZC
+Middle English, from Late Latin, from Latin benefacere, to do a service. See benefaction
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: they erected a statue to their most generous benefactor
 
-+ ZZE
++ PATRON
 
 

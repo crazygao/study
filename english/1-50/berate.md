@@ -1,16 +1,16 @@
 berate
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _vt_: To rebuke or scold angrily and at length
 
 ### Origin
 
-ZZC
+be- + rate2.
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: she had to berate Patsy and Betsy for giggling
 
-+ ZZE
++ REBUKE
++ opposite(s): PRAISE
 
 

@@ -1,16 +1,22 @@
 bestial
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Beastly
++ _adj_: Marked by brutality or depravity
++ _adj_: Lacking in intelligence or reason; subhuman
 
 ### Origin
 
-ZZC
+Middle English, from Old French, from Late Latin bēstiālis, from Latin bēstia, beast
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: Stanley's bestial behaviour
 
-+ ZZE
++ SAVAGE
++ opposite(s): CIVILIZED, HUMANE
+
+__eg__: man's bestial ancestors
+
++ ANIMAL
 
 

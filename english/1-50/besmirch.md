@@ -1,16 +1,14 @@
 besmirch
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _vt_: To stain; sully
+	+ __eg__: a reputation that was besmirched by slander
++ _vt_: To make dirty; soil
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: he had besmirched the good name of his family
 
-+ ZZE
++ SULLY
++ opposite(s): HONOUR, ENHANCE
 
 
