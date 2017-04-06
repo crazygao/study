@@ -6,6 +6,7 @@ brazen
 
 + _vt_: brazen something out: to deal with a situation that is difficult or embarrassing for you by appearing to be confident rather than ashamed
 	+ __eg__: She knew she could either admit the truth or brazen it out
+
 ### Origin
 
 Old English bræsen ‘made of brass’, from bræs ‘brass’, of unknown ultimate origin

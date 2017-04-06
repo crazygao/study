@@ -13,6 +13,7 @@ breach
 	+ __eg__: The government is accused of breaching the terms of the treaty
 + _vt_: ~ sth to make a hole in a wall, fence, etc. so that sb/sth can go through it
 	+ __eg__: The dam had been breached
+
 ### Origin
 
 Middle English: from Old French breche, ultimately of Germanic origin; related to ↑break
