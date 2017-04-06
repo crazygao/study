@@ -7,6 +7,7 @@ braid
 
 + _vt_: to twist three or more long pieces of hair, rope, etc. together to make one long piece
 	+ __eg__: She'd braided her hair
+
 ### Origin
 
 Old English bregdan ‘make a sudden movement’, also ‘interweave’, of Germanic origin; related to Dutch breien (verb).

@@ -19,6 +19,7 @@ brace
 	+ __eg__: He stood with his legs and shoulders braced, ready to lift the weights
 + _vt_: ~ sth (technical) to make sth stronger or more solid by supporting it with sth
 	+ __eg__: The roof was braced by lengths of timber
+
 ### Origin
 
 Middle English (as a verb meaning ‘clasp, fasten tightly’): from Old French bracier ‘embrace’, from brace ‘two arms’, from Latin bracchia, plural of bracchium ‘arm’, from Greek brakhiōn

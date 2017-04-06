@@ -1,16 +1,16 @@
 bracing
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
++ _adj_: Invigorating or refreshing; strengthening
+	+ __eg__: a bracing tonic
 
-### Origin
-
-ZZC
++ _noun_: A support; a brace
++ _noun_: Braces considered as a group
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: the sea air is very bracing
 
-+ ZZE
++ INVIGORATING
++ opposite(s): TIRING
 
 

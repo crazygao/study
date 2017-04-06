@@ -5,13 +5,10 @@ boom
 + _noun_: usually singular a period when sth such as a sport or a type of music suddenly becomes very popular and successful
 	+ __eg__: The only way to satisfy the golf boom was to build more courses
 + _noun_: a long pole that the bottom of a sail is attached to and that you move to change the position of the sail
-	+ __eg__: ZZB
 + _noun_: usually singular a loud deep sound
 	+ __eg__: the distant boom of the guns
 + _noun_: a floating barrier that is placed across a river or the entrance to a ↑harbour to prevent ships or other objects from coming in or going out
-	+ __eg__: ZZB
 + _noun_:  a long pole that carries a ↑microphone or other equipment
-	+ __eg__: ZZB
 
 + _vi_: to make a loud deep sound
 	+ __eg__: Outside, thunder boomed and crashed
@@ -19,6 +16,7 @@ boom
 	+ __eg__:  A voice boomed out from the darkness
 + _vi_: to have a period of rapid growth; to become bigger, more successful, etc
 	+ __eg__: By the 1980s, the computer industry was booming
+
 ### Origin
 
 n. sense 4 and v. senses 1 to 2 late Middle English Dutch bommen ‘to hum, buzz’
