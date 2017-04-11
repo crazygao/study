@@ -1,16 +1,12 @@
 digression
 ### Meaning
-+ _noun_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of digressing
++ _noun_: An instance of digressing, especially a written or spoken passage that has no bearing on the main subject
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: her book is full of long digressions | Victorian novelists had a tendency toward verbosity and digression
 
-+ ZZE
++ DEVIATION
 
 

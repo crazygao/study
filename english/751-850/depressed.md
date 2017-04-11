@@ -9,10 +9,6 @@ depressed
 + _adj_: having a lower amount or level than usual
 	+ __eg__: depressed prices
 
-### Origin
-
-ZZC
-
 ### Synonym
 
 __eg__: he turned to whisky because he felt lonely and depressed

@@ -1,6 +1,6 @@
 coalesce
 ### Meaning
-+ _adj_: to come together to form one larger group, substance, etc
++ _vi_: to come together to form one larger group, substance, etc
 	+ __eg__: The puddles had coalesced into a small stream
 
 ### Origin

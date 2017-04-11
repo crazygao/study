@@ -4,10 +4,11 @@ deficiency
 	+ __eg__: Vitamin deficiency in the diet can cause illness
 + _noun_: Vitamin deficiency in the diet can cause illness
 	+ __eg__: deficiencies in the computer system
++ from deficient
 
 ### Origin
 
-ZZC
+Latin dēficiēns, dēficient- present participle of dēficere, to fail, be wanting. See defect
 
 ### Synonym
 

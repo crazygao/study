@@ -5,18 +5,17 @@ dilatory
 
 ### Origin
 
-[dilatory] late Middle English: from late Latin dilatorius ‘delaying’, from Latin dilator ‘delayer’, from dilat- ‘deferred’, from the verb differre.
+Middle English dilatorie, from Latin dīlātōrius, from dīlātor, delayer, from dīlātus, past participle of differre, to delay : dī-, dis-, apart; see dis- + lātus, carried; See telə- in Indo-European Roots.
 
 ### Synonym
 
-__eg__: 
-+ SLOW
+__eg__: they were dilatory in providing the researchers with information
 
++ SLOW
 + opposite(s): FAST ; PROMPT
-+ ZZE
 
 __eg__: they resorted to dilatory procedural tactics
 
-+ they resorted to dilatory procedural tactics
++ DELAYING
 
 

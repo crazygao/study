@@ -37,8 +37,5 @@ __eg__: Henry II granted him a charter to hold a market
 
 + PERMIT
 
-__eg__: PERMIT
-
-+ HIRE
 
 

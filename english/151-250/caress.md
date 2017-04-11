@@ -1,7 +1,6 @@
 caress
 ### Meaning
 + _vt_: ~ sb/sth: to touch sb/sth gently, especially in a sexual way or in a way that shows affection
-	+ __eg__: ZZB
 
 + _noun_: a gentle touch or kiss to show you love sb
 	+ __eg__: the kisses and caresses of lovers

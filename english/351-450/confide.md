@@ -3,7 +3,7 @@ confide
 + _vt_: to tell sb secrets and personal information that you do not want other people to know
 	+  ~ sth (to sb) __eg__: She confided all her secrets to her best friend
 	+  ~ (to sb) that… __eg__: He confided to me that he had applied for another job
-	+  + speech __eg__: ‘It was a lie,’ he confided
+	+  speech __eg__: ‘It was a lie,’ he confided
 
 ### Origin
 

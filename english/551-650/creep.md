@@ -3,11 +3,9 @@ creep
 + _vi_: (+ adv./prep.) (of people or animals) to move slowly, quietly and carefully, because you do not want to be seen or heard
 	+ __eg__: I crept up the stairs, trying not to wake my parents
 + _vi_: (+ adv./prep.) (NAmE) to move with your body close to the ground; to move slowly on your hands and knees
-	+ __eg__: ZZB
 + _vi_: (+ adv./prep.) to move or develop very slowly
 	+ __eg__: Her arms crept around his neck
 + _vi_: (+ adv./prep.) (of plants) to grow along the ground or up walls using long ↑stems or roots
-	+ __eg__: ZZB
 + _vi_: ~ (to sb) (BrE, informal, disapproving) to be too friendly or helpful to sb in authority in a way that is not sincere, especially in order to get an advantage from them
 	+ __eg__: make your flesh creep
 

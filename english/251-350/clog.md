@@ -1,4 +1,4 @@
-gthe drainpipes became clogged with clay and silt 
+clog 
 ### Meaning
 + _vt often passive & i_: to block sth or to become blocked
 	+  ~ sth (up) (with sth) __eg__: The narrow streets were clogged with traffic

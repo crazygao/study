@@ -1,7 +1,7 @@
 blandishment
 ### Meaning
-+ _adj_: flattery intended to persuade
-+ _adj_: the act of urging by means of teasing or flattery
++ _noun_: flattery intended to persuade
++ _noun_: the act of urging by means of teasing or flattery
 
 ### Origin
 

@@ -13,4 +13,3 @@ __eg__: a boisterous game of handball
 
 + LIVELY
 + opposite(s): QUIET, RESTRAINED
-

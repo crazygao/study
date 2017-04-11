@@ -21,4 +21,3 @@ __eg__: questions are put to a panel of celebrities
 + FAMOUS PERSON
 + opposite(s): NONENTITY
 
-

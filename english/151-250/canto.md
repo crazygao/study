@@ -1,16 +1,8 @@
 canto
 ### Meaning
-+ _noun_: ZZA
-	+ __eg__: ZZB
++ _noun_: One of the principal divisions of a long poem
 
 ### Origin
 
-ZZC
-
-### Synonym
-
-__eg__: ZZD
-
-+ ZZE
-
+Italian, from Latin cantus, song. See canticle
 

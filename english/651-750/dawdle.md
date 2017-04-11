@@ -1,7 +1,7 @@
 dawdle
 ### Meaning
 + _vi_: to take a long time to do sth or go somewhere
-	+  + adv./prep. __eg__: They dawdled along by the river, laughing and talking
+	+ adv./prep. __eg__: They dawdled along by the river, laughing and talking
 
 ### Origin
 

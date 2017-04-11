@@ -1,16 +1,12 @@
 blockage
 ### Meaning
-+ _adj_: ZZA
-	+ __eg__: ZZB
-
-### Origin
-
-ZZC
++ _noun_: The act of obstructing
++ _noun_: An obstruction
 
 ### Synonym
 
-__eg__: ZZD
+__eg__: there's a blockage in the drain
 
-+ ZZE
++ OBSTRUCTION
 
 

@@ -13,6 +13,6 @@ deleterious
 __eg__: these policies are having a deleterious effect on British industry
 
 + HARMFUL
-+ HARMFUL
++ opposite(s): BENEFICIAL, ADVANTAGEOUS
 
 

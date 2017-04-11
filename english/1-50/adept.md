@@ -7,7 +7,7 @@ adept
 
 ### Origin
 
-ZZC
+Latin adeptus, past participle of adipīscī, to attain : ad-, ad- + apīscī, to grasp
 
 ### Synonym
 

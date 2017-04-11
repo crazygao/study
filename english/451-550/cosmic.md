@@ -7,7 +7,7 @@ cosmic
 
 ### Origin
 
-ZZC
+Greek kosmikos, from kosmos, universe
 
 ### Synonym
 

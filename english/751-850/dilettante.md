@@ -1,7 +1,7 @@
 dilettante
 ### Meaning
 + _noun_: a person who does or studies sth but is not serious about it and does not have much knowledge
-+ _adj_: Main entry: ↑dilettante
++ _adj_: Superficial; amateurish
 	+ __eg__: a dilettante artist
 
 ### Origin

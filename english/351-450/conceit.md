@@ -8,7 +8,7 @@ conceit
 
 ### Origin
 
-ZZC
+Middle English, mind, conception, from Anglo-Norman conceite, from Late Latin conceptus. See concept
 
 ### Synonym
 
