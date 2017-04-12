@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
-"""Anki card writer"""
-
 import os
 import io
 import sys
 import tempfile
 import shutil
 import signal
-import regex
+import re as regex
+
+sys.path.append("/Users/philip/study/anki/")
 
 import hashlib
 
@@ -19,6 +19,10 @@ ARG_NAME_RE = regex.compile("-name=(.+)")
 ARG_LANG_RE = regex.compile("-lang:(.+)")
 # -freq:var:TAG=FILE or -freq:freq:TAG=FILE
 ARG_DELFILE_RE = regex.compile("-delfile=(.+)")
+RICH_MODE = None
+FINAME = None
+FONAME = None
+NAME = None
 
 for idx in range(1, len(sys.argv)):
     arg = sys.argv[idx]
@@ -29,8 +33,18 @@ for idx in range(1, len(sys.argv)):
         FONAME = arg
         continue
 
-FIN = io.open(FINAME, mode='r', buffering=1, encoding="utf-8")
-DOM = FIN
+with io.open(FINAME, mode='r', buffering=1, encoding="utf-8") as FIN:
+    DOM = FIN.readlines()
+
+#if FONAME is None:
+#    raise Exception("Output file name is not passed...")
+# Looks like anki libs change working directory to media directory of current deck
+# Therefore absolute path should be stored before creating temporary deck
+#FONAME = os.path.abspath(FONAME)
+#TMPDIR = tempfile.mkdtemp(dir=os.path.dirname(FONAME))
+
+if not NAME:
+    NAME, _ = os.path.splitext(os.path.basename(FINAME))
 
 MODEL_CSS="""
 .card {
@@ -69,7 +83,7 @@ class AnkiDbBuilder:
         deck_id = collection.decks.id(self.name)
 
         # It is essential to keep model['id'] unchanged between upgrades!!
-        model_id = int(hashlib.sha1(self.name).hexdigest(), 16) % (2**63)
+        model_id = int(hashlib.sha1(self.name.encode('utf-8')).hexdigest(), 16) % (2**63)
 
         ################################################################
         # Regular card model. SafeBack doesn't include examples to not spoil
@@ -106,9 +120,9 @@ class AnkiDbBuilder:
         :unambiguous  used if several subsequent article with same headword (and different pronunciation)
         """
         if unambiguous > 0:
-            h = hashlib.md5(":".join((self.name, nodetype, headword, str(unambiguous))))
+            h = hashlib.md5(":".join((self.name, nodetype, headword, str(unambiguous))).encode('utf-8'))
         else:
-            h = hashlib.md5(":".join((self.name, nodetype, headword)))
+            h = hashlib.md5(":".join((self.name, nodetype, headword)).encode('utf-8'))
         return h.hexdigest()
 
     def add_note(self, headword, unambiguous, front, back, tags=None):
@@ -121,25 +135,28 @@ class AnkiDbBuilder:
 
     def export(self, fname):
         export = AnkiPackageExporter(self.collection)
-        export.exportInto(fname)
+        export.exportInto("/Users/philip/abcd.apkg")
 
     def close(self):
         self.collection.close()
 
 try:
     BUILDER = AnkiDbBuilder(TMPDIR, NAME)
+    print("TMPDIR %s NAME %s" % (TMPDIR, NAME))
 
     prev_identity = None
     unambiguous = 0
-    for headwords in DOM[1:]:
-        buf = []
-        for hw in headwords:
-            buf.append(hw)
-        direct_from = DOM[0]
-        direct_to = "".join(buf)
-        BUILDER.add_note(identity, unambiguous, direct_from, direct_to)
 
-    BUILDER.export(FONAME)
+    buf = []
+    for hw in DOM[1:]:
+        buf.append(hw)
+    direct_from = DOM[0]
+    identity = NAME
+    direct_to = "".join(buf)
+    print("identity: %s\n unambiguous: %s\n direct_from: %s\n, direct_to%s\n" % (identity, unambiguous, direct_from, direct_to))
+    BUILDER.add_note(identity, unambiguous, direct_from, direct_to)
+
+    BUILDER.export("Hello")
 finally:
     BUILDER.close()
     shutil.rmtree(TMPDIR, ignore_errors=True)
