@@ -1,0 +1,28 @@
+* Common Programming Concepts
+** Variables and Mutability, keyword mut, variable shadow
+#+BEGIN_SRC rust
+let x = 5;
+x = 6; // Don't compile
+let mut y = 5;
+y = 6; // OK
+let z = 5;
+let z = 6; // Shadow
+#+END_SRC
+** Const vs variables
+const should come with type declaration
+const MAX_POINTS: u32 = 100_000;
+** DataTypes:
+1. Scalar: integer, floating-point, boolean, character
+2. Compound: Tuple, array.
+** Functions: fn definition
+*** Function Parameters: type declaration is must.
+*** Function Body: A series of "Statements" optionally ending in an "Expression"
+**** Statements execute without return a value
+**** Expression return a value
+*** Function Return Value: -> type
+** Control Flow
+*** if expression: Expression!
+*** Loops: loop, while, for
+**** Loop: Expression, return value with break statement.
+**** While: statement
+**** for, for...in
