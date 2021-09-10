@@ -1,0 +1,4 @@
+* Panic!
+** use RUST_BACKTRACE=1 to get the backtrace
+** should not use panic! to handle error
+* Recoverable Errors with _Result_
