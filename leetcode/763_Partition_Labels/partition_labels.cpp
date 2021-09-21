@@ -8,9 +8,12 @@ class Solution{
         // 3. leftoverLetterIndexs
         unordered_map<char, vector<int>> partitions;
         typedef unsigned index;
+        // template <class T>, T should contain iterator.
+        // void initPartitions(T s)
         void initPartitions(string s) {
             for (auto it = s.cbegin(); it != s.cend(); it++) {
-                int distance = it - s.cbegin();
+                index distance = it - s.cbegin();
+                if (partitions.find(*it)) {}
 
             }
         }

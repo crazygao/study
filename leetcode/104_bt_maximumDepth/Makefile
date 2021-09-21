@@ -1,4 +1,4 @@
 CXX=g++
 CFLAGS=-g --std=c++11 -I.
-move_zeros: move_zeros.cpp
+bt_maximumDepth: bt_maximumDepth.cpp
 	${CXX} ${CFLAGS} -o $@ $<

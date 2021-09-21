@@ -1,4 +1,4 @@
 CXX=g++
 CFLAGS=-g --std=c++11 -I.
-move_zeros: move_zeros.cpp
+symmetric_tree: symmetric_tree.cpp
 	${CXX} ${CFLAGS} -o $@ $<

@@ -1,4 +1,4 @@
 CXX=g++
 CFLAGS=-g --std=c++11 -I.
-move_zeros: move_zeros.cpp
+maximum_subarray: maximum_subarray.cpp
 	${CXX} ${CFLAGS} -o $@ $<
